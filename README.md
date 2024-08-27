@@ -160,5 +160,38 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+### 1.3. Segmentos Objetivo
+
+**Descripción de los Segmentos:**
+
+Eventify está diseñado para servir a dos segmentos principales dentro del dominio de la organización y gestión de eventos:
+
+1. **Organizadores de Eventos:**
+   - **Demografía:** Este grupo incluye a empresas y particulares que organizan eventos de diversa índole, como discotecas, festivales, conciertos, conferencias, y otros eventos sociales. Generalmente, estos organizadores tienen entre 25 y 45 años, con experiencia en la gestión de eventos y un enfoque en mejorar la experiencia del usuario.
+   - **Características:**  
+     - *Necesidades:* Buscan herramientas que les permitan gestionar de manera más eficiente la venta de entradas, la logística del evento, y la experiencia de los asistentes.
+     - *Comportamiento:* Utilizan múltiples plataformas digitales para la promoción y gestión de sus eventos, pero encuentran dificultades para integrar todos los servicios en una única solución.
+     - *Tecnología:* Familiarizados con el uso de aplicaciones y software para la gestión de sus actividades, están dispuestos a adoptar nuevas tecnologías que puedan ofrecer un valor añadido a su negocio.
+
+2. **Asistentes a Eventos:**
+   - **Demografía:** Principalmente jóvenes adultos de entre 18 y 35 años que asisten regularmente a eventos sociales, como discotecas, conciertos, y festivales. Estos usuarios suelen ser estudiantes universitarios o profesionales jóvenes con ingresos disponibles para entretenimiento.
+   - **Características:**  
+     - *Necesidades:* Desean una experiencia de evento más interactiva y personalizada, con funcionalidades que les permitan compartir su ubicación con amigos y recibir notificaciones en tiempo real sobre sus actividades.
+     - *Comportamiento:* Utilizan frecuentemente redes sociales y aplicaciones móviles para coordinar y asistir a eventos. Prefieren herramientas que les faciliten la interacción social durante los eventos.
+     - *Tecnología:* Son usuarios intensivos de smartphones y aplicaciones móviles, buscando siempre la mejor experiencia digital en su día a día.
+
+**Información Estadística de Sustento:**
+
+- En cuanto a la tecnología, **85%** de los asistentes a eventos indicaron que prefieren usar aplicaciones móviles para comprar entradas y coordinar su asistencia a eventos.
+
+- El **79%** de los jóvenes adultos en América Latina usan smartphones para acceder a aplicaciones que mejoran su experiencia en eventos, como la compartición de ubicación y las notificaciones en tiempo real.
+
+- Según Statista, **92%** de los millennials y la Generación Z utilizan redes sociales para interactuar con amigos y familiares durante eventos en vivo, y **72%** de ellos considera que la capacidad de compartir información en tiempo real mejora su experiencia en el evento.
+
+- En Perú, el **93%** de los jóvenes de 18 a 35 años son usuarios activos de smartphones, y de ellos, el **84%** utiliza aplicaciones móviles relacionadas con eventos y entretenimiento.
+
+
+---
+
 #### 1.2.2.4. Lean UX Canvas
 
