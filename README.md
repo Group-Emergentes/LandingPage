@@ -326,6 +326,71 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
      - **Estrategia:** Competir con la robustez de herramientas de análisis y el alcance global.
        - **Táctica:** Desarrollar herramientas analíticas avanzadas y proporcionar una experiencia de usuario fluida tanto para organizadores como para asistentes. Ofrecer soporte para eventos internacionales con funcionalidades multilingües y de múltiples monedas.
 
+## 2.2. Entrevistas
 
+### 2.2.1. Diseño de entrevistas.
+
+#### 1. Organizadores de Eventos
+
+##### Información Demográfica
+- **Edad:** ¿Cuál es tu edad?
+- **Género:** ¿Cuál es tu género?
+- **Distrito de residencia:** ¿Dónde resides actualmente?
+- **Ocupación:** ¿Cuál es tu rol dentro de la organización de eventos? ¿Eres propietario, administrador, coordinador, etc.?
+
+##### Información Principal
+- **Experiencia en Organización:** 
+  - ¿Cuántos años de experiencia tienes organizando eventos?
+  - ¿Qué tipos de eventos organizas con mayor frecuencia? (Discotecas, conciertos, festivales, conferencias, etc.)
+- **Desafíos Actuales:** 
+  - ¿Cuáles son los principales desafíos que enfrentas en la organización y gestión de eventos?
+  - ¿Cómo gestionas actualmente la venta de entradas y la comunicación con los asistentes?
+- **Tecnología y Herramientas:**
+  - ¿Qué herramientas digitales utilizas actualmente para organizar y gestionar eventos?
+  - ¿Qué características consideras esenciales en una aplicación de gestión de eventos?
+- **Interacción con Asistentes:**
+  - ¿Cómo te aseguras de que los asistentes tengan una buena experiencia durante el evento?
+  - ¿Qué tan importante consideras la posibilidad de que los asistentes compartan su ubicación o reciban notificaciones en tiempo real durante el evento?
+
+##### Información Complementaria
+- **Objetivos y Prioridades:** 
+  - ¿Cuáles son tus principales objetivos al organizar un evento?
+  - ¿Qué características adicionales te gustaría ver en una aplicación como Eventify que te ayudarían a alcanzar esos objetivos?
+- **Frustraciones:** 
+  - ¿Cuáles son las mayores frustraciones que experimentas al organizar eventos?
+  - ¿Has tenido experiencias negativas con herramientas o tecnologías actuales? ¿Cuáles?
+- **Expectativas de Futuro:** 
+  - ¿Cómo imaginas que evolucionará la organización de eventos en los próximos años?
+  - ¿Qué tipo de innovaciones tecnológicas te gustaría ver implementadas en la industria de eventos?
+
+#### 2. Asistentes a Eventos
+
+##### Información Demográfica
+- **Edad:** ¿Cuál es tu edad?
+- **Género:** ¿Cuál es tu género?
+- **Distrito de residencia:** ¿Dónde resides actualmente?
+- **Ocupación:** ¿Cuál es tu ocupación actual?
+
+##### Información Principal
+- **Preferencias de Eventos:** 
+  - ¿Qué tipo de eventos sueles asistir con más frecuencia? (Discotecas, conciertos, festivales, conferencias, etc.)
+  - ¿Con qué frecuencia asistes a eventos sociales?
+- **Experiencia en Eventos:** 
+  - ¿Qué es lo que más valoras en un evento? (Ambiente, música, organización, seguridad, etc.)
+  - ¿Cómo sueles adquirir tus entradas para eventos?
+- **Interacción con Otros Asistentes:** 
+  - ¿Te gustaría contar con una herramienta que te permita compartir tu ubicación con amigos o conocidos en un evento?
+  - ¿Qué tan importante consideras recibir notificaciones en tiempo real sobre la llegada de amigos o cambios en el evento?
+
+##### Información Complementaria
+- **Frustraciones:** 
+  - ¿Qué problemas has experimentado en eventos a los que has asistido?
+  - ¿Qué te gustaría que mejorara en la experiencia de asistir a un evento?
+- **Tecnología y Dispositivos:**
+  - ¿Qué dispositivos sueles utilizar para comprar entradas o interactuar durante un evento? (Smartphone, computadora, tablet, etc.)
+  - ¿Qué aplicaciones móviles utilizas para organizar tu vida social y eventos?
+- **Expectativas de Futuro:** 
+  - ¿Qué innovaciones te gustaría ver en la manera en que interactúas con los eventos?
+  - ¿Cómo imaginas que será la experiencia de asistir a eventos en los próximos años?
 
 
