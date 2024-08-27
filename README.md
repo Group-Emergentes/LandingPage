@@ -37,3 +37,9 @@
 | -         |        |  | TEXTO DE EJEMPLO           |
 
 ---
+
+# Project Report Collaboration Insights
+**Repositorio del Informe:** [Enlace del repositorio GitHub]()
+
+
+---
