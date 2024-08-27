@@ -73,3 +73,22 @@
     1.3. [Segmentos objetivo](#13-segmentos-objetivo)<br>
 
 ---
+
+# Student Outcome 5
+El curso contribuye al cumplimiento del Student Outcome ABET:  
+**ABET – EAC - Student Outcome 5**
+
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** |  TEXTO DE EJEMPLO| TEXTO DE EJEMPLO |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** |TEXTO DE EJEMPLO | TEXTO DE EJEMPLO|
+
+---
