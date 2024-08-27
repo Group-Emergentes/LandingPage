@@ -100,3 +100,14 @@ del ABET – EAC - Student Outcome 5.
 ### 1.1.1. Descripción de la Startup
 
 NetVision es una startup innovadora enfocada en desarrollar soluciones tecnológicas que faciliten la organización, gestión y comercialización de eventos. Nuestra misión es crear herramientas que optimicen la experiencia tanto para organizadores como para asistentes, haciendo uso de tecnologías avanzadas para simplificar procesos y mejorar la interacción entre los participantes. Con Eventify, buscamos transformar la manera en que se crean y disfrutan los eventos, ofreciendo funcionalidades únicas como la compartición de ubicación entre asistentes y notificaciones en tiempo real cuando estos llegan al evento.
+
+### 1.1.2. Perfiles de Integrantes del Equipo
+
+**Muñoz Vilcapoma Mauricio – Ingeniería de Software – U202217212**  
+Soy estudiante de Ingeniería de Software en mi quinto ciclo. Deseo desempeñar un papel fundamental en el mundo de la tecnología, creando soluciones innovadoras y avanzadas como desarrollador de software. Estoy comprometido con mi desarrollo profesional y con hacer una diferencia en el campo de la ingeniería de software.
+
+**Guzmán Chávez Alexander Ramiro – Ingeniería de Software – U202217062**  
+Mi perfil se basa en ser una persona responsable, disciplinada en todo aspecto y comprometida con las actividades que me puedan tocar. Considero que tengo una experiencia altamente capacitada para este tipo de tareas. Suelo desarrollarme de manera positiva en los trabajos grupales y tengo conocimientos en bases de datos, lo cual puede aportar de manera importante al equipo.
+
+**Nanfuñay Liza Pedro Jesús - Ingeniería de Software - U202215462** <br>
+Me considero una persona responsable, perseverante y disciplinada, dispuesto a siempre colaborar junto con mi equipo y cumpliendo con las actividades que se me puedan asignar. Cuento con conocimientos en este tipo de proyectos y en algunos lenguajes de programación como html y css, lo cual puede aportar en el desarrollo del proyecto. Mi objetivo es culminar este proyecto de manera satisfactoria. </br>
