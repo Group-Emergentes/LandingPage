@@ -426,7 +426,7 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 
 ### Diseño de entrevistas.
 
-#### Organizadores de Eventos
+#### 1. Segmento Objetivo: Organizadores de Eventos
 
 ##### Información Demográfica
 - **Edad:** ¿Cuál es tu edad?
@@ -459,7 +459,7 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
   - ¿Cómo imaginas que evolucionará la organización de eventos en los próximos años?
   - ¿Qué tipo de innovaciones tecnológicas te gustaría ver implementadas en la industria de eventos?
 
-#### Asistentes a Eventos
+#### Segmento Objetivo 2: Asistentes a Eventos
 
 ##### Información Demográfica
 - **Edad:** ¿Cuál es tu edad?
@@ -489,4 +489,152 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
   - ¿Qué innovaciones te gustaría ver en la manera en que interactúas con los eventos?
   - ¿Cómo imaginas que será la experiencia de asistir a eventos en los próximos años?
 
+## Registro de entrevistas
+###  1. Segmento Objetivo: Organizadores de Eventos
+#### Entrevista 1
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Apellidos y nombres:** aaa |
+| **Edad:**  x años |
+| **Distrito:**  SMP |
+| AQUÍ VA EL ENLACE|
+| **Resumen:** Aaaaaaaaaaaaaaaaaaaaaaaaa |
 
+#### Entrevista 2
+aaa
+#### Entrevista 3
+
+###  2. Segmento Objetivo: Asistentes a Eventos
+#### Entrevista 1
+aaa
+#### Entrevista 2
+aaa
+#### Entrevista 3
+aa
+
+## Análisis de entrevistas
+aa
+
+## Needfinding
+### User Personas
+#### Segmento 1: Organizadores de Eventos
+aa
+#### Segmento 2: Asistentes a Eventos
+aa
+### User Task Matrix
+aa
+### User Journey Mapping
+aa
+### Empathy Mapping
+aa
+### As-is Scenario Mapping
+aa
+## Ubiquitous Language
+aaa
+
+# Capítulo III: Requirements Specification
+## To-Be Scenario Mapping
+
+## User Stories
+## Impact Mapping
+## Product Backlog.
+
+
+# Capítulo IV: Product Design
+## Style Guidelines
+### General Style Guidelines
+aaa
+### Web Style Guidelines
+aaa
+## Information Architecture
+### Organization Systems
+aaa
+### Labeling Systems
+aaa
+### SEO Tags and Meta Tags
+aaa
+### Searching Systems
+aaa
+### Navigation Systems
+aaa
+
+## Landing Page UI Design
+### Landing Page Wireframe
+aa
+### Landing Page Mock-up
+aa
+## Web Applications UX/UI Design
+### Web Applications Wireframes
+aa
+### Web Applications Wireflow Diagrams
+aaa
+### Web Applications Mock-ups
+aaa
+### Web Applications User Flow Diagrams
+aa
+
+## Web Applications Prototyping
+aa
+## Domain-Driven Software Architecture
+### Software Architecture Context Diagram
+aaa
+### Software Architecture Container Diagrams
+aa
+### Software Architecture Components Diagrams
+aa
+## Software Object-Oriented Design
+### Class Diagrams
+aa
+### Class Dictionary
+aa
+## Database Design
+### Database Diagram
+aa
+
+# Capítulo V: Product Implementation, Validation & Deployment
+## Software Configuration Management
+### Software Development Environment Configuration
+
+
+### Source Code Management
+
+
+### Source Code Style Guide & Conventions
+
+
+### Software Deployment Configuration
+
+## Landing Page, Services & Applications Implementation
+### Sprint n
+
+#### Sprint Planning n
+
+#### Sprint Backlog n
+
+#### Development Evidence for Sprint Review
+
+#### Testing Suite Evidence for Sprint Review
+
+#### Execution Evidence for Sprint Review
+
+#### Services Documentation Evidence for Sprint Review
+
+#### Software Deployment Evidence for Sprint Review
+
+#### Team Collaboration Insights during Sprint
+
+## Validation Interviews
+### Diseño de Entrevistas
+
+### Registro de Entrevistas
+
+### Evaluaciones según heurísticas
+
+## Video About-the-Product
+
+## Conclusiones
+### Conclusiones y recomendaciones.
+
+## Video About-the-Team.
+## Bibliografía
+## Anexos
