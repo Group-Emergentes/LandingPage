@@ -109,13 +109,13 @@
       4.7.2. [Class Dictionary](#Class-Dictionary) <br>
    4.8. [Database Design](#Database-Design) <br>
       4.8.1. [Database Diagram](#Database-Diagram) <br>
-5. [CAPÍTULO V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation--Validation--Deployment) <br>
+5. [CAPÍTULO V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation-Deployment) <br>
    5.1. [Software Configuration Management](#Software-Configuration-Management) <br>
       5.1.1. [Software Development Environment Configuration](#Software-Development-Environment-Configuration) <br>
       5.1.2. [Source Code Management](#Source-Code-Management) <br>
-      5.1.3. [Source Code Style Guide & Conventions](#Source-Code-Style-Guide--Conventions) <br>
+      5.1.3. [Source Code Style Guide & Conventions](#Source-Code-Style-Guide-Conventions) <br>
       5.1.4. [Software Deployment Configuration](#Software-Deployment-Configuration) <br>
-   5.2. [Landing Page, Services & Applications Implementation](#Landing-Page--Services--Applications-Implementation) <br>
+   5.2. [Landing Page, Services & Applications Implementation](#Landing-Page-Services-Applications-Implementation) <br>
       5.2.1. [Sprint 1](#Sprint-1) <br>
          5.2.1.1. [Sprint Planning 1](#Sprint-Planning-1) <br>
          5.2.1.2. [Sprint Backlog 1](#Sprint-Backlog-1) <br>
@@ -152,7 +152,7 @@
          5.2.4.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review-4) <br>
          5.2.4.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review-4) <br>
          5.2.4.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint-4) <br>
-   5.3. [Validation & Testing](#Validation--Testing) <br>
+   5.3. [Validation & Testing](#Validation-Testing) <br>
       5.3.1. [Testing Plan](#Testing-Plan) <br>
       5.3.2. [Quality Assurance](#Quality-Assurance) <br>
       5.3.3. [User Acceptance Testing (UAT)](#User-Acceptance-Testing-UAT) <br>
