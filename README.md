@@ -187,15 +187,15 @@ del ABET – EAC - Student Outcome 5.
 
 ---
 
-# 1. Capítulo I: Introducción
+# Capítulo I: Introducción
 
-## 1.1. Startup Profile: NetVision
+## Startup Profile: NetVision
 
-### 1.1.1. Descripción de la Startup
+### Descripción de la Startup
 
 NetVision es una startup innovadora enfocada en desarrollar soluciones tecnológicas que faciliten la organización, gestión y comercialización de eventos. Nuestra misión es crear herramientas que optimicen la experiencia tanto para organizadores como para asistentes, haciendo uso de tecnologías avanzadas para simplificar procesos y mejorar la interacción entre los participantes. Con Eventify, buscamos transformar la manera en que se crean y disfrutan los eventos, ofreciendo funcionalidades únicas como la compartición de ubicación entre asistentes y notificaciones en tiempo real cuando estos llegan al evento.
 
-### 1.1.2. Perfiles de Integrantes del Equipo
+### Perfiles de Integrantes del Equipo
 
 **Muñoz Vilcapoma Mauricio – Ingeniería de Software – U202217212**  
 Soy estudiante de Ingeniería de Software en mi quinto ciclo. Deseo desempeñar un papel fundamental en el mundo de la tecnología, creando soluciones innovadoras y avanzadas como desarrollador de software. Estoy comprometido con mi desarrollo profesional y con hacer una diferencia en el campo de la ingeniería de software.
@@ -206,9 +206,9 @@ Mi perfil se basa en ser una persona responsable, disciplinada en todo aspecto y
 **Nanfuñay Liza Pedro Jesús - Ingeniería de Software - U202215462** <br>
 Me considero una persona responsable, perseverante y disciplinada, dispuesto a siempre colaborar junto con mi equipo y cumpliendo con las actividades que se me puedan asignar. Cuento con conocimientos en este tipo de proyectos y en algunos lenguajes de programación como html y css, lo cual puede aportar en el desarrollo del proyecto. Mi objetivo es culminar este proyecto de manera satisfactoria. </br>
 
-## 1.2. Solution Profile
+## Solution Profile
 
-### 1.2.1. Antecedentes y Problemática
+### Antecedentes y Problemática
 
 **Antecedentes:**
 
@@ -246,19 +246,19 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
   - **Costos asociados**: Los organizadores pueden reducir costos relacionados con la gestión y promoción de eventos.
   - **Valor añadido**: La aplicación no solo aporta valor en términos de eficiencia, sino que también mejora la experiencia general de los usuarios, lo que podría traducirse en mayores ingresos por eventos mejor organizados y más concurridos.
 
-### 1.2.2. Lean UX Process
+### Lean UX Process
 
-#### 1.2.2.1. Lean UX Problem Statements
+#### Lean UX Problem Statements
 
-#### 1.2.2.2. Lean UX Assumptions
+#### Lean UX Assumptions
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
+#### Lean UX Hypothesis Statements
 
-#### 1.2.2.4. Lean UX Canvas
+#### Lean UX Canvas
 
 ![Lean UX Canvas - Eventify](https://hackmd.io/_uploads/HJhxVf6sA.png)
 
-### 1.3. Segmentos Objetivo
+### Segmentos Objetivo
 
 **Descripción de los Segmentos:**
 
@@ -291,13 +291,13 @@ Eventify está diseñado para servir a dos segmentos principales dentro del domi
 
 ---
 
-# 2. Capítulo II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements Elicitation & Analysis
 
-## 2.1. Competidores
+## Competidores
 
 En esta sección se identifican y describen los principales competidores de Eventify, que ofrecen productos digitales similares o parcialmente similares en la gestión y organización de eventos.
 
-### 1. Joinuss
+### Joinuss
 
 **Descripción:** Joinuss es una plataforma digital enfocada en la organización y gestión de eventos en línea. Ofrece una solución integral para la creación, promoción y venta de entradas para eventos de todo tipo, desde conferencias y talleres hasta conciertos y festivales. Su plataforma incluye herramientas para la gestión de entradas, marketing, y análisis de datos.
 
@@ -312,7 +312,7 @@ En esta sección se identifican y describen los principales competidores de Even
 - Limitaciones en la personalización de las páginas de eventos.
 - Costos adicionales para acceder a características premium.
 
-### 2. Teleticket
+### Teleticket
 
 **Descripción:** Teleticket es una plataforma de venta de entradas que ofrece soluciones para la compra y venta de entradas para eventos diversos, como conciertos, teatros, deportes y más. Su enfoque está en facilitar la compra de entradas para el público y la gestión de ventas para los organizadores.
 
@@ -327,7 +327,7 @@ En esta sección se identifican y describen los principales competidores de Even
 - Limitado en funcionalidades de gestión y promoción para organizadores.
 - La dependencia de la venta de entradas como fuente principal de ingresos puede limitar la diversificación de servicios.
 
-### 3. Eventbrite
+### Eventbrite
 
 **Descripción:** Eventbrite es una plataforma globalmente reconocida para la organización y gestión de eventos. Ofrece herramientas para crear eventos, vender entradas, y promover eventos tanto a nivel local como global. Es conocida por su facilidad de uso y su capacidad para manejar eventos de diversos tamaños.
 
@@ -342,7 +342,7 @@ En esta sección se identifican y describen los principales competidores de Even
 - Tarifas relativamente altas para eventos con grandes volúmenes de entradas.
 - Algunas funcionalidades avanzadas requieren suscripciones costosas.
 
-### 2.1.1. Análisis Competitivo
+### Análisis Competitivo
 
 #### Competitive Analysis Landscape
 
@@ -368,7 +368,7 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 | **Oportunidades**              | Expansión a nuevos mercados; desarrollo de nuevas funcionalidades basadas en feedback de usuarios. | Crecimiento en la demanda de eventos en línea; posibilidad de expansión a nuevos segmentos de eventos. | Expansión a nuevos mercados y eventos; integración de nuevas tecnologías.                  | Crecimiento en mercados emergentes; desarrollo de nuevas funcionalidades y herramientas.    |
 | **Amenazas**                   | Competencia fuerte; cambios en las tendencias de eventos; evolución tecnológica rápida.          | Competencia de plataformas con características más completas; cambios en la preferencia de los usuarios. | Competencia con plataformas más completas; cambios en las tendencias de consumo de entradas. | Competencia creciente en el mercado global; cambios en las necesidades y expectativas de los usuarios. |
 
-### 2.1.2. Estrategias y Tácticas Frente a Competidores
+### Estrategias y Tácticas Frente a Competidores
 
 #### Contexto y Estrategias para Eventify
 
@@ -422,11 +422,11 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
      - **Estrategia:** Competir con la robustez de herramientas de análisis y el alcance global.
        - **Táctica:** Desarrollar herramientas analíticas avanzadas y proporcionar una experiencia de usuario fluida tanto para organizadores como para asistentes. Ofrecer soporte para eventos internacionales con funcionalidades multilingües y de múltiples monedas.
 
-## 2.2. Entrevistas
+## Entrevistas
 
-### 2.2.1. Diseño de entrevistas.
+### Diseño de entrevistas.
 
-#### 1. Organizadores de Eventos
+#### Organizadores de Eventos
 
 ##### Información Demográfica
 - **Edad:** ¿Cuál es tu edad?
@@ -459,7 +459,7 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
   - ¿Cómo imaginas que evolucionará la organización de eventos en los próximos años?
   - ¿Qué tipo de innovaciones tecnológicas te gustaría ver implementadas en la industria de eventos?
 
-#### 2. Asistentes a Eventos
+#### Asistentes a Eventos
 
 ##### Información Demográfica
 - **Edad:** ¿Cuál es tu edad?
