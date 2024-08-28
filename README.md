@@ -162,6 +162,8 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 #### 1.2.2.4. Lean UX Canvas
 
+![Lean UX Canvas - Eventify](https://hackmd.io/_uploads/HJhxVf6sA.png)
+
 ### 1.3. Segmentos Objetivo
 
 **Descripción de los Segmentos:**
