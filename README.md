@@ -160,11 +160,13 @@
       5.4.1. [Deployment Plan](#Deployment-Plan) <br>
       5.4.2. [Deployment Process](#Deployment-Process) <br>
       5.4.3. [Post-Deployment Review](#Post-Deployment-Review) <br>
-6. [CAPÍTULO VI: Appendix](#Capítulo-VI-Appendix) <br>
-   6.1. [References](#References) <br>
-   6.2. [Glossary](#Glossary) <br>
-   6.3. [Acronyms](#Acronyms) <br>
-   6.4. [Bibliography](#Bibliography)<br>
+      
+[Conclusiones](#Conclusiones) <br>
+[Conclusiones y recomendaciones](#Conclusiones-y-recomendaciones) <br>
+[Video About-the-Team](#Video-About-the-Team) <br>
+[Bibliografía](#Bibliografía) <br>
+[Anexos](#Anexos) <br>
+
 
 ---
 
@@ -722,8 +724,11 @@ aa
 ## Video About-the-Product
 
 ## Conclusiones
-### Conclusiones y recomendaciones.
 
-## Video About-the-Team.
+### Conclusiones y recomendaciones
+
+## Video About-the-Team
+
 ## Bibliografía
+
 ## Anexos
