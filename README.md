@@ -508,7 +508,16 @@ aaa
 
 ###  2. Segmento Objetivo: Asistentes a Eventos
 #### Entrevista 1
-aaa
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Apellidos y nombres:** Lopez Huaman Edwin|
+| **Edad:**  24 años |
+| **Distrito:**  Surco|
+| ![entrevista Edwin 2024-08-28 143327](https://hackmd.io/_uploads/HkOvyXz3R.png)|
+| **Resumen:**Edwin es un estudiante de Ingeniería de Software. Actualmente reside en Surco y está realizando sus prácticas preprofesionales en Pacífico Seguros, según reveló al entrevistarlo. Asiste a eventos como conciertos, partidos de fútbol, teatros, entre otros, aproximadamente una vez al mes. Lo que más le gusta de los eventos es la buena organización desde la entrada, el desarrollo y la culminación del mismo, para considerar que tuvo una buena experiencia. Además, Edwin nos reveló que compra sus entradas en plataformas online, ya que le resulta más accesible y sencillo; de este modo, evita las colas o tener que salir de casa. También comentó que comparte su ubicación con sus amigos en los eventos a través de WhatsApp para encontrarse fácilmente. A Edwin le gustaría recibir notificaciones sobre posibles cambios en el evento para poder tomar decisiones informadas. En cuanto a lo que le gustaría que los organizadores de eventos mejoren, mencionó la organización en la venta de entradas, ya que ha visto recurrentemente la falsificación y reventa de boletos, lo cual genera mucho desorden, como largas colas. Respecto a los dispositivos que usa para comprar entradas, Edwin utiliza su celular y su laptop. Asimismo, organiza su vida social usando su celular. Finalmente, Edwin comentó que espera que en un futuro los eventos incluyan tecnologías como la realidad aumentada e inteligencia artificial. |
+
+
+
 #### Entrevista 2
 aaa
 #### Entrevista 3
