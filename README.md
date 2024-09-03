@@ -737,6 +737,8 @@ aaa
 | 21        | TS4.4                                     |Integrar notificaciones push| Como desarrollador, quiero integrar notificaciones push para que los usuarios reciban alertas importantes sin abrir la aplicación.| 1 |
 | 22           | TS4.5                                      |Mejorar la UI para accesibilidad| Como desarrollador, quiero mejorar la interfaz de usuario para asegurar que sea accesible para usuarios con discapacidades.| 2 |
 
+Link Trello: https://trello.com/b/74uBBgC8
+
 # Capítulo IV: Product Design
 ## Style Guidelines
 ### General Style Guidelines
