@@ -784,8 +784,9 @@ aa
 ![structurizr-94827-Container-001-key](https://github.com/user-attachments/assets/0a955ba2-d0e8-403c-af0d-beac3d2b428a)
 
 ### Software Architecture Components Diagrams
-![structurizr-94832-Component-001-key](https://github.com/user-attachments/assets/d4db864c-c61f-4d90-a777-15198693abfe)
-![structurizr-94825-SystemContext-001-key](https://github.com/user-attachments/assets/516db026-6019-4dea-9851-8f193caccc16)
+![structurizr-94832-Component-001](https://github.com/user-attachments/assets/f610fb8c-4137-4441-b254-66e0dc7f5128)
+![structurizr-94832-Component-001-key](https://github.com/user-attachments/assets/7e808879-23f2-43ca-9808-c9a3354be0f4)
+
 
 ## Software Object-Oriented Design
 ### Class Diagrams
