@@ -776,11 +776,17 @@ aa
 aa
 ## Domain-Driven Software Architecture
 ### Software Architecture Context Diagram
-aaa
+![structurizr-94825-SystemContext-001](https://github.com/user-attachments/assets/6d175223-30c4-4834-8596-7c790b541f9b)
+![structurizr-94825-SystemContext-001-key](https://github.com/user-attachments/assets/a5409d2f-f3d3-488f-810f-d9ede8093c78)
+
 ### Software Architecture Container Diagrams
-aa
+![structurizr-94827-Container-001](https://github.com/user-attachments/assets/5947ea6c-6c3f-411d-80fe-8e1da4a36125)
+![structurizr-94827-Container-001-key](https://github.com/user-attachments/assets/0a955ba2-d0e8-403c-af0d-beac3d2b428a)
+
 ### Software Architecture Components Diagrams
-aa
+![structurizr-94832-Component-001-key](https://github.com/user-attachments/assets/d4db864c-c61f-4d90-a777-15198693abfe)
+![structurizr-94825-SystemContext-001-key](https://github.com/user-attachments/assets/516db026-6019-4dea-9851-8f193caccc16)
+
 ## Software Object-Oriented Design
 ### Class Diagrams
 aa
