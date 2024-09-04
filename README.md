@@ -717,60 +717,58 @@ aa
 ## Impact Mapping
 ## Product Backlog
 ### Segmento 1: Organizadores de Eventos
-| **Orden** | **User Story**                       | **Título**                         | **Descripción**                                                                 | **Story Points** |
+| **# Orden** | **User Story Id**                       | **Título**                         | **Descripción**                                                                 | **Story Points (1 / 2 / 3 / 5 / 8)** |
 |-----------|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------|------------------|
-| 1         | Story 1.1                            | Crear evento                | Como organizador, quiero crear un nuevo evento para gestionarlo en la plataforma. | 1                |
-| 2         | Story 1.2                           | Editar evento	      | Como organizador, quiero editar la información de un evento existente para mantener los detalles actualizados. | 2                |
-| 3         | Story 1.3                            | Eliminar evento         | Como organizador, quiero eliminar un evento para no mostrarlo más en la plataforma. | 2                |
-| 4         | Story 1.4                            | Publicar evento                      | Como organizador, quiero publicar un evento para que sea visible para los asistentes y puedan comprar entradas. | 2                |
-| 5         | Story 1.5                           | Visualizar estadísticas de un evento    | Como organizador, quiero ver las estadísticas de un evento para evaluar su rendimiento. | 3                |
-| 6         | Story 2.1                            | Crear tipos de entrada             | Como organizador, quiero crear diferentes tipos de entradas para ofrecer varias opciones a los asistentes. | 2                |
-| 7         | Story 2.2                            | Configurar precios de entradas            | Como organizador, quiero configurar los precios de las entradas para maximizar mis ingresos. | 2                |
-| 8         | Story 2.3                            | Gestionar promociones      | Como organizador, quiero crear promociones para incentivar la compra de entradas. | 3                |
-| 9         | Story 2.4                           | Controlar el acceso al evento    | Como organizador, quiero controlar el acceso al evento mediante códigos QR para mejorar la seguridad. | 3                |
-| 10        | Story 2.5                           | Visualizar lista de asistentes | Como organizador, quiero ver una lista de asistentes para controlar quién ha comprado entradas. | 2                |
+| 1         | US1.1                            | Crear evento                | Como organizador, quiero crear un nuevo evento para gestionarlo en la plataforma. | 1                |
+| 2         | US1.2                           | Editar evento	      | Como organizador, quiero editar la información de un evento existente para mantener los detalles actualizados. | 2                |
+| 3         | US1.3                            | Eliminar evento         | Como organizador, quiero eliminar un evento para no mostrarlo más en la plataforma. | 2                |
+| 4         | US1.4                            | Publicar evento                      | Como organizador, quiero publicar un evento para que sea visible para los asistentes y puedan comprar entradas. | 2                |
+| 5         | US1.5                           | Visualizar estadísticas de un evento    | Como organizador, quiero ver las estadísticas de un evento para evaluar su rendimiento. | 5                |
+| 6         | US2.1                            | Crear tipos de entrada             | Como organizador, quiero crear diferentes tipos de entradas para ofrecer varias opciones a los asistentes. | 3                |
+| 7         | US2.2                            | Configurar precios de entradas            | Como organizador, quiero configurar los precios de las entradas para maximizar mis ingresos. | 3                |
+| 8         | US2.3                            | Gestionar promociones      | Como organizador, quiero crear promociones para incentivar la compra de entradas. | 3                |
+| 9         | US2.4                           | Controlar el acceso al evento    | Como organizador, quiero controlar el acceso al evento mediante códigos QR para mejorar la seguridad. | 5                |
+| 10        | US2.5                           | Visualizar lista de asistentes | Como organizador, quiero ver una lista de asistentes para controlar quién ha comprado entradas. | 2                |
 
-#### Segmento 2: Asistentes de Eventos
+### Segmento 2: Asistentes de Eventos
 
-| **Orden** | **User Story**                       | **Título**                         | **Descripción**                                                                 | **Story Points** |
+| **# Orden** | **User Story Id**                       | **Título**                         | **Descripción**                                                                 | **Story Points (1 / 2 / 3 / 5 / 8)** |
 |-----------|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------|------------------|
-| 1         | Story 1.1                            | Compartir ubicación                | Como asistente, quiero compartir mi ubicación con amigos para encontrarnos fácilmente en el evento. | 2                |
-| 2         | Story 1.2                           | Ver ubicación de amigos	      | Como asistente, quiero ver la ubicación de mis amigos en el evento para encontrarlos más fácilmente. | 2                |
-| 3         | Story 1.3                            | Enviar notificación de llegada         | Como asistente, quiero enviar una notificación a mis amigos cuando llegue al evento. | 1                |
-| 4         | Story 1.4                            | Chatear con otros asistentes                      | Como asistente, quiero chatear con otros asistentes para coordinar actividades dentro del evento. | 2                |
-| 5         | Story 1.5                           | Crear grupo de amigos    | Como asistente, quiero crear un grupo de amigos en la aplicación para compartir información y coordinarnos mejor. | 3                |
-| 6         | Story 2.1                            | Buscar eventos             | Como asistente, quiero buscar eventos cercanos para decidir a cuál asistir. | 1                |
-| 7         | Story 2.2                            | Comprar entradas            | Como asistente, quiero comprar entradas para un evento directamente desde la aplicación. | 1                |
-| 8         | Story 2.3                            | Aplicar promociones      | Como asistente, quiero aplicar promociones a mis compras para ahorrar dinero. | 2                |
-| 9         | Story 2.4                           | Recibir notificaciones del evento    | Como asistente, quiero recibir notificaciones importantes del evento para estar informado en tiempo real. | 1                |
-| 10        | Story 2.5                           | Dejar reseña del evento | Como asistente, quiero dejar una reseña del evento para compartir mi experiencia con otros usuarios. | 2                |
+| 1         | US1.1                            | Compartir ubicación                | Como asistente, quiero compartir mi ubicación con amigos para encontrarnos fácilmente en el evento. | 2                |
+| 2         | US1.2                           | Ver ubicación de amigos	      | Como asistente, quiero ver la ubicación de mis amigos en el evento para encontrarlos más fácilmente. | 2                |
+| 3         | US1.3                            | Enviar notificación de llegada         | Como asistente, quiero enviar una notificación a mis amigos cuando llegue al evento. | 1                |
+| 4         | US1.4                            | Chatear con otros asistentes                      | Como asistente, quiero chatear con otros asistentes para coordinar actividades dentro del evento. | 3                |
+| 5         | US1.5                           | Crear grupo de amigos    | Como asistente, quiero crear un grupo de amigos en la aplicación para compartir información y coordinarnos mejor. | 3                |
+| 6         | US2.1                            | Buscar eventos             | Como asistente, quiero buscar eventos cercanos para decidir a cuál asistir. | 1                |
+| 7         | US2.2                            | Comprar entradas            | Como asistente, quiero comprar entradas para un evento directamente desde la aplicación. | 1                |
+| 8         | US2.3                            | Aplicar promociones      | Como asistente, quiero aplicar promociones a mis compras para ahorrar dinero. | 2                |
+| 9         | US2.4                           | Recibir notificaciones del evento    | Como asistente, quiero recibir notificaciones importantes del evento para estar informado en tiempo real. | 1                |
+| 10        | US2.5                           | Dejar reseña del evento | Como asistente, quiero dejar una reseña del evento para compartir mi experiencia con otros usuarios. | 2                |
 
 ### Technical Stories
 
-| **Orden** | **Technical Story**                             | **Título**                               | **Descripción**                                                                                          | **Story Points (1 / 2 / 3)** |
+| **# Orden** | **Technical Story Id**                             | **Título**                               | **Descripción**                                                                                          | **Story Points (1 / 2 / 3 / 5 / 8)** |
 |-----------|--------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------|
 | 1         | TS1.1                                      | Optimizar almacenamiento de eventos                 | Como desarrollador, quiero optimizar la base de datos para almacenar grandes volúmenes de eventos de manera eficiente.                                   | 3               |
 | 2         | TS1.2                                      | Implementar caché para estadísticas                           | Como desarrollador, quiero implementar un sistema de caché para estadísticas de eventos para mejorar el rendimiento.                 | 2                |
-| 3         | TS1.3                                      | Refactorizar código del backend                           | Como desarrollador, quiero refactorizar el código del backend para mejorar la mantenibilidad y la escalabilidad.                           | 3                |
-| 4         | TS1.4                                      | Implementar paginación de eventos            | Como desarrollador, quiero implementar la paginación en la lista de eventos para manejar grandes conjuntos de datos.                                     | 2                |
-| 5         | TS1.5                                      | Mejorar el sistema de logs         | Como desarrollador, quiero mejorar el sistema de logs para rastrear mejor los errores en la gestión de eventos.                         | 2                |
-| 6         | TS2.1                                     | Implementar validación de entradas          | Como desarrollador, quiero implementar un sistema de validación de entradas robusto para evitar accesos no autorizados.                                           | 1                |
-| 7         | TS2.2                                      | Optimizar el escaneo de códigos QR              | Como desarrollador, quiero optimizar el escaneo de códigos QR para que sea rápido y preciso en condiciones de baja luz.                                            | 1                |
-| 8         | TS2.3                                      | Asegurar la comunicación de datos| Como desarrollador, quiero asegurar que la transmisión de datos entre el cliente y el servidor sea cifrada y segura.                      | 2                |
-| 9         | TS2.4                                     | Escalar el sistema de venta de entradas    | Como desarrollador, quiero asegurar que el sistema de venta de entradas pueda escalar automáticamente durante picos de demanda.                                                     | 2                |
+| 3         | TS1.3                                      | Refactorizar código del backend                           | Como desarrollador, quiero refactorizar el código del backend para mejorar la mantenibilidad y la escalabilidad.                           | 5                |
+| 4         | TS1.4                                      | Implementar paginación de eventos            | Como desarrollador, quiero implementar la paginación en la lista de eventos para manejar grandes conjuntos de datos.                                     | 8                |
+| 5         | TS1.5                                      | Mejorar el sistema de logs         | Como desarrollador, quiero mejorar el sistema de logs para rastrear mejor los errores en la gestión de eventos.                         | 5                |
+| 6         | TS2.1                                     | Implementar validación de entradas          | Como desarrollador, quiero implementar un sistema de validación de entradas robusto para evitar accesos no autorizados.                                           | 3                |
+| 7         | TS2.2                                      | Optimizar el escaneo de códigos QR              | Como desarrollador, quiero optimizar el escaneo de códigos QR para que sea rápido y preciso en condiciones de baja luz.                                            | 2                |
+| 8         | TS2.3                                      | Asegurar la comunicación de datos| Como desarrollador, quiero asegurar que la transmisión de datos entre el cliente y el servidor sea cifrada y segura.                      | 5                |
+| 9         | TS2.4                                     | Escalar el sistema de venta de entradas    | Como desarrollador, quiero asegurar que el sistema de venta de entradas pueda escalar automáticamente durante picos de demanda.                                                     | 3                |
 | 10        | TS2.5                                      | Automatizar pruebas de carga | Como desarrollador, quiero automatizar las pruebas de carga del sistema para identificar problemas de rendimiento temprano.               | 3                |
-| 11        | TS3.1                                      | Mejorar la sincronización de ubicación | Como desarrollador, quiero mejorar la sincronización de la ubicación entre asistentes para que sea en tiempo real.                                         | 3                |
+| 11        | TS3.1                                      | Mejorar la sincronización de ubicación | Como desarrollador, quiero mejorar la sincronización de la ubicación entre asistentes para que sea en tiempo real.                                         | 5                |
 | 12        | TS3.2                                      |Optimizar la batería para el uso continuo de la app| Como desarrollador, quiero optimizar el uso de la batería para que la aplicación no consuma demasiada energía durante eventos largos.| 2 |
 | 13        | TS3.3                                      |Asegurar la privacidad de los datos de ubicación| Como desarrollador, quiero asegurar que los datos de ubicación compartidos sean privados y solo accesibles para los usuarios autorizados.| 3 |
-| 14        | TS3.4                                      |Mejorar el rendimiento del chat| Como desarrollador, quiero optimizar el sistema de chat para que funcione sin problemas incluso con una gran cantidad de usuarios.| 2 |
-| 15        | TS3.5                                      |Implementar recuperación de mensajes| Como desarrollador, quiero implementar una funcionalidad para recuperar mensajes antiguos en el chat, incluso si el usuario se desconectó.| 2 |
-| 16        | TS4.1                                      |Implementar pagos seguros| Como desarrollador, quiero asegurar que todos los pagos realizados a través de la aplicación sean seguros y protegidos.| 2 |
-| 17        | TS3.5                                      |Implementar recuperación de mensajes| Como desarrollador, quiero implementar una funcionalidad para recuperar mensajes antiguos en el chat, incluso si el usuario se desconectó.| 2 |
-| 18            | TS4.1                                      |Implementar pagos seguros| Como desarrollador, quiero asegurar que todos los pagos realizados a través de la aplicación sean seguros y protegidos.| 2 |
+| 14        | TS3.4                                      |Mejorar el rendimiento del chat| Como desarrollador, quiero optimizar el sistema de chat para que funcione sin problemas incluso con una gran cantidad de usuarios.| 3 |
+| 15        | TS3.5                                      |Implementar recuperación de mensajes| Como desarrollador, quiero implementar una funcionalidad para recuperar mensajes antiguos en el chat, incluso si el usuario se desconectó.| 5 |
+| 16        | TS4.1                                      |Implementar pagos seguros| Como desarrollador, quiero asegurar que todos los pagos realizados a través de la aplicación sean seguros y protegidos.| 3 |
 | 19        | TS4.2                                     |Optimizar el proceso de búsqueda| Como desarrollador, quiero optimizar el proceso de búsqueda de eventos para que sea rápido y eficiente, incluso con grandes volúmenes de datos.| 1 |
-| 20            | TS4.3                                      |Implementar manejo de fallos en compras| Como desarrollador, quiero implementar un sistema que maneje correctamente los fallos en el proceso de compra para evitar transacciones incompletas.| 2 |
-| 21        | TS4.4                                     |Integrar notificaciones push| Como desarrollador, quiero integrar notificaciones push para que los usuarios reciban alertas importantes sin abrir la aplicación.| 1 |
-| 22           | TS4.5                                      |Mejorar la UI para accesibilidad| Como desarrollador, quiero mejorar la interfaz de usuario para asegurar que sea accesible para usuarios con discapacidades.| 2 |
+| 20            | TS4.3                                      |Implementar manejo de fallos en compras| Como desarrollador, quiero implementar un sistema que maneje correctamente los fallos en el proceso de compra para evitar transacciones incompletas.| 5 |
+| 21        | TS4.4                                     |Integrar notificaciones push| Como desarrollador, quiero integrar notificaciones push para que los usuarios reciban alertas importantes sin abrir la aplicación.| 2 |
+| 22           | TS4.5                                      |Mejorar la UI para accesibilidad| Como desarrollador, quiero mejorar la interfaz de usuario para asegurar que sea accesible para usuarios con discapacidades.| 3 |
 
 Link Trello: https://trello.com/b/74uBBgC8
 
