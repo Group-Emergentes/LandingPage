@@ -684,7 +684,12 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 ### Empathy Mapping
 aa
 ### As-is Scenario Mapping
-aa
+![AS IS SCENARIO MAPING (1)](https://hackmd.io/_uploads/SJLGJoUn0.jpg)
+
+
+![AS IS SCENARIO MAPING](https://hackmd.io/_uploads/HkemyjUhA.jpg)
+
+
 ## Ubiquitous Language
 1. **Event Management Platform (Plataforma de gestión de eventos)**
    - **Definición:** Un sistema centralizado que permite a los organizadores de eventos planificar, gestionar y ejecutar eventos de manera eficiente. Esta plataforma integra varias herramientas y funcionalidades, como la venta de entradas, la promoción del evento y la gestión logística.
