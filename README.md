@@ -840,6 +840,18 @@ aa
 Para el desarrollo de nuestro proyecto, el documento es gestionado través de GitHub, que sirve como nuestro repositorio remoto y plataforma de control de versiones.  Hemos utilizado un flujo de trabajo basado en ramas para organizar el desarrollo, dichas ramas permiten visualizar el proceso de documentación, corrección y producción de los items, lo que asegura una integración ordenada y eficiente. Se ha hecho uso de mensajes commit en Git, las cuales nos permiten mantener un historial claro dentro de nuestro repositorio, siguiendo un formato estandarizado. Además, empleamos GitHub Actions para la integración continua, que automatiza pruebas y validaciones, garantizando que los cambios sean revisados y aprobados antes de su fusión, dichas integraciones se realizan mediante pull requests revisadas constantemente por el equipo.
 
 ### Software Development Environment Configuration
+En esta sección, se definen las herramientas utilizadas en cada fase del desarrollo del software:
+
+| Herramienta        | Propósito                                                                                                                  | Ruta de Descarga/Referencia                                                                  |
+| ------------------ |-------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------------------- |
+| GitHub             | Control de versiones y colaboración en el código fuente del proyecto.                                                      | [Github](https://github.com/)                                                                |
+| Visual Studio Code | Editor de código fuente y entorno de desarrollo que permite la codificación de archivos                                    | [Visual Studio Code](https://code.visualstudio.com/)                                         |
+| HTML               | Lenguaje de programación que se utiliza para la elaboración de páginas web                                                 | [HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics) |
+| CSS                | Tecnología para dar estilo a las páginas web, permitiendo el diseño visual.                                                | [CSS](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS)               |
+| JavaScript         | Lenguaje de programación orientado a objetos utilizado para implementar funcionalidades en la Landing Page.                | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                        |
+| Figma              | Plataforma para el diseño de interfaces y elaboración de prototipos interactivos.                                          | [Figma](https://www.figma.com/es-la/downloads/)                                              |
+| GitHub Pages       | Plataforma que facilita el despliegue sencillo de páginas web directamente desde repositorios de GitHub.                   | [GitHub Pages](https://pages.github.com/)                                                    |
+| Markdown           | Lenguaje de marcado que permite la documentación técnica, utiliza un formato de texto sencillo fácil de convertir en HTML. | [Markdown Guide](https://www.markdownguide.org/)                                             |
 
 
 ### Source Code Management
