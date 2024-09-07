@@ -124,43 +124,7 @@
          5.2.1.5. [Execution Evidence for Sprint Review](#Execution-Evidence-for-Sprint-Review) <br>
          5.2.1.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review) <br>
          5.2.1.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review) <br>
-         5.2.1.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint) <br>
-      5.2.2. [Sprint 2](#Sprint-2) <br>
-         5.2.2.1. [Sprint Planning 2](#Sprint-Planning-2) <br>
-         5.2.2.2. [Sprint Backlog 2](#Sprint-Backlog-2) <br>
-         5.2.2.3. [Development Evidence for Sprint Review](#Development-Evidence-for-Sprint-Review-2)<br> 
-         5.2.2.4. [Testing Suite Evidence for Sprint Review](#Testing-Suite-Evidence-for-Sprint-Review-2) <br>
-         5.2.2.5. [Execution Evidence for Sprint Review](#Execution-Evidence-for-Sprint-Review-2) <br>
-         5.2.2.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review-2) <br>
-         5.2.2.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review-2) <br>
-         5.2.2.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint-2) <br>
-      5.2.3. [Sprint 3](#Sprint-3) <br>
-         5.2.3.1. [Sprint Planning 3](#Sprint-Planning-3) <br>
-         5.2.3.2. [Sprint Backlog 3](#Sprint-Backlog-3) <br>
-         5.2.3.3. [Development Evidence for Sprint Review](#Development-Evidence-for-Sprint-Review-3) <br>
-         5.2.3.4. [Testing Suite Evidence for Sprint Review](#Testing-Suite-Evidence-for-Sprint-Review-3) <br>
-         5.2.3.5. [Execution Evidence for Sprint Review](#Execution-Evidence-for-Sprint-Review-3) <br>
-         5.2.3.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review-3) <br>
-         5.2.3.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review-3) <br>
-         5.2.3.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint-3) <br>
-      5.2.4. [Sprint 4](#Sprint-4) <br>
-         5.2.4.1. [Sprint Planning 4](#Sprint-Planning-4) <br>
-         5.2.4.2. [Sprint Backlog 4](#Sprint-Backlog-4) <br>
-         5.2.4.3. [Development Evidence for Sprint Review](#Development-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.4. [Testing Suite Evidence for Sprint Review](#Testing-Suite-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.5. [Execution Evidence for Sprint Review](#Execution-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint-4) <br>
-   5.3. [Validation & Testing](#Validation-Testing) <br>
-      5.3.1. [Testing Plan](#Testing-Plan) <br>
-      5.3.2. [Quality Assurance](#Quality-Assurance) <br>
-      5.3.3. [User Acceptance Testing (UAT)](#User-Acceptance-Testing-UAT) <br>
-   5.4. [Product Deployment](#Product-Deployment) <br>
-      5.4.1. [Deployment Plan](#Deployment-Plan) <br>
-      5.4.2. [Deployment Process](#Deployment-Process) <br>
-      5.4.3. [Post-Deployment Review](#Post-Deployment-Review) <br>
-      
+         5.2.1.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint) <br>    
 [Conclusiones](#Conclusiones) <br>
 [Conclusiones y recomendaciones](#Conclusiones-y-recomendaciones) <br>
 [Video About-the-Team](#Video-About-the-Team) <br>
@@ -1364,14 +1328,12 @@ Link del repositorio: https://ronaldofabian01.github.io/Aplicaciones-Web/
 
 #### Team Collaboration Insights during Sprint
 
-## Validation Interviews
-### Diseño de Entrevistas
 
-### Registro de Entrevistas
 
-### Evaluaciones según heurísticas
 
-## Video About-the-Product
+
+
+
 
 ## Conclusiones
 
