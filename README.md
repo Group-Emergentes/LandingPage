@@ -589,7 +589,86 @@ Segmento Objetivo Asistente de Evento
 Segmento Objetivo Organizador de Evento
 ![](https://hackmd.io/_uploads/S1XeM1qnA.png)
 
-#### User Stories 
+
+### User Task Matrix
+Para el desarrollo del User Task Matrix, tomaremos en cuenta los segmentos objetivos que hemos identificado: "Organizadores de eventos" y "Asistentes a eventos".
+
+| Task Matrix                                       | Luis Ramos (Frecuencia) | Luis Ramos (Importancia) | David García (Frecuencia) | David García (Importancia) |
+|-------------------------------------------------|---------------------------|---------------------------|----------------------|-----------------------|
+| Explorar Eventos                   | Always                   | High                      | Sometimes            | Medium                |
+| Gestionar entradas                       | Always                   | High                     | Never              | Low                 |
+| Gestionar asientos                      | Always                   | High                     | Never                | Low                   |
+| Coordinar la seguridad del evento                 | Always                | High                    | Never              | Low                  |
+| Enviar notificaciones en tiempo real a los asistentes                        | Usually                    | High                      | Never                | Low                   |
+| Analizar datos después del evento                     | Always                    | High                      | Never                | Low                   |
+| Comprar entradas                   | Never                    | Low                      | Sometimes                | Medium                   |
+| Compartir su ubicación a otros asistentes en el evento        | Usually                    | High                      | Never                | Low                   |
+| Recibir notificaciones en tiempo real sobre actualizaciones del evento                        | Sometimes                 | High                    | Sometimes            | High              |
+| Interactuar con otros asistentes                       | Sometimes                     | Medium                       | Usually               | High                  |
+| Personalizar experiencia en el evento               | Never                     | Low                       | Usually               | High                  |
+
+Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar eventos", "Recibir notificaciones en tiempo real sobre actualizaciones del evento", "Interactuar con otros asistentes" son son tareas que presentan mayor frecuencia e importancia. Así mismo, las principales diferencias que se han podido identificar son que las tareas dirigidas a los organizadores destacan sus necesidades específicas en relación a una buena gestión de sus eventos, por otro lado, las tareas dirigidas a los asistentes son el producto del buen uso de las herramientas proporcionadas y que buscan mejorar la experiencia de los clientes. Algunas coincidencias que hemos podido identificar son que muchas de estas tareas son consecuentes o apoyan de manera equilibrada a la gestión y experiencia del usuario.
+
+### User Journey Mapping
+**ASISTENTE DE EVENTOS**
+![](https://github.com/RamiroGuzmanCh/prueba2/blob/feature/JourneyMapAsistente/Organizador%20de%20eventos%20journey%20map%202%20(1).png)
+
+**ORGANIZADOR DE EVENTOS**
+![](https://github.com/RamiroGuzmanCh/prueba2/blob/feature/JourneyMapOrganizador/Organizador%20de%20eventos%20journey%20map%202%20(1).png)
+
+### Empathy Mapping
+**ASISTENTE DE EVENTOS**
+![](https://hackmd.io/_uploads/SyXlf1qhR.png)
+
+**ORGANIZADOR DE EVENTOS**
+![](https://hackmd.io/_uploads/Sy7lzJqhR.png)
+
+### As-is Scenario Mapping
+![AS IS SCENARIO MAPING (1)](https://hackmd.io/_uploads/SJLGJoUn0.jpg)
+
+
+![AS IS SCENARIO MAPING](https://hackmd.io/_uploads/HkemyjUhA.jpg)
+
+
+## Ubiquitous Language
+1. **Event Management Platform (Plataforma de gestión de eventos)**
+   - **Definición:** Un sistema centralizado que permite a los organizadores de eventos planificar, gestionar y ejecutar eventos de manera eficiente. Esta plataforma integra varias herramientas y funcionalidades, como la venta de entradas, la promoción del evento y la gestión logística.
+
+2. **Ticketing System (Sistema de venta de entradas)**
+   - **Definición:** Un componente clave de una plataforma de gestión de eventos que permite la emisión, venta y seguimiento de entradas. Este sistema facilita la compra segura de entradas por parte de los asistentes y proporciona a los organizadores herramientas para gestionar las ventas y el acceso al evento.
+
+3. **Operational Efficiency (Eficiencia operativa)**
+   - **Definición:** La capacidad de una empresa o plataforma para optimizar sus recursos y procesos, minimizando el tiempo y costo necesarios para realizar actividades, mientras maximiza la productividad y la calidad del servicio ofrecido.
+
+4. **Event Promotion (Promoción de eventos)**
+   - **Definición:** El conjunto de estrategias y tácticas utilizadas para publicitar un evento y atraer a la audiencia deseada. Esto puede incluir marketing en redes sociales, campañas de correo electrónico, anuncios pagados y otras formas de comunicación para aumentar la visibilidad del evento.
+
+5. **Event Planning (Planificación de eventos)**
+   - **Definición:** El proceso de organización de todos los elementos necesarios para llevar a cabo un evento, incluyendo la selección del lugar, la gestión de proveedores, la coordinación logística y la programación de actividades.
+
+6. **User Experience (Experiencia del usuario)**
+   - **Definición:** La percepción y respuesta de los usuarios al interactuar con una plataforma o servicio. En el contexto de Eventify, se refiere a la facilidad y satisfacción con la que los organizadores de eventos y asistentes usan la plataforma para crear y asistir a eventos.
+
+7. **Stakeholder (Parte interesada)**
+   - **Definición:** Individuos o grupos que tienen un interés en el éxito de un evento o en la funcionalidad de la plataforma Eventify. Esto puede incluir organizadores de eventos, asistentes, proveedores de servicios y patrocinadores.
+
+8. **Market Saturation (Saturación del mercado)**
+   - **Definición:** Una situación en la que el número de productos o servicios ofrecidos en un mercado es tan alto que limita el crecimiento y la participación de nuevos competidores. En el caso de los eventos, significa una competencia alta entre organizadores para atraer asistentes.
+
+# Capítulo III: Requirements Specification
+## To-Be Scenario Mapping
+**Asistente de eventos**
+![asis01](https://github.com/user-attachments/assets/10a65d53-4173-4b4e-b18a-5bee16bab744)
+
+
+
+**Organizador de eventos**
+![asis02](https://github.com/user-attachments/assets/4582ed11-8a7d-447e-88d3-58e183ecafd5)
+
+
+
+## User Stories
+
 
 ##### Segmento 1: Organizadores de Eventos
 
@@ -682,75 +761,6 @@ Segmento Objetivo Organizador de Evento
 | TS4.4               | Integrar notificaciones push        | Como desarrollador, quiero integrar notificaciones push para que los usuarios reciban alertas importantes sin abrir la aplicación. | **Given** la infraestructura actual, **When** implemento notificaciones push, **Then** los usuarios deben recibir notificaciones en tiempo real sobre sus eventos y compras.        | Epic 2                         |
 | TS4.5               | Mejorar la UI para accesibilidad    | Como desarrollador, quiero mejorar la interfaz de usuario para asegurar que sea accesible para usuarios con discapacidades. | **Given** la interfaz actual, **When** implemento mejoras de accesibilidad (como navegación por teclado, texto alternativo), **Then** la aplicación debe ser más usable para todos. | Epic
 
-### User Task Matrix
-Para el desarrollo del User Task Matrix, tomaremos en cuenta los segmentos objetivos que hemos identificado: "Organizadores de eventos" y "Asistentes a eventos".
-
-| Task Matrix                                       | Luis Ramos (Frecuencia) | Luis Ramos (Importancia) | David García (Frecuencia) | David García (Importancia) |
-|-------------------------------------------------|---------------------------|---------------------------|----------------------|-----------------------|
-| Explorar Eventos                   | Always                   | High                      | Sometimes            | Medium                |
-| Gestionar entradas                       | Always                   | High                     | Never              | Low                 |
-| Gestionar asientos                      | Always                   | High                     | Never                | Low                   |
-| Coordinar la seguridad del evento                 | Always                | High                    | Never              | Low                  |
-| Enviar notificaciones en tiempo real a los asistentes                        | Usually                    | High                      | Never                | Low                   |
-| Analizar datos después del evento                     | Always                    | High                      | Never                | Low                   |
-| Comprar entradas                   | Never                    | Low                      | Sometimes                | Medium                   |
-| Compartir su ubicación a otros asistentes en el evento        | Usually                    | High                      | Never                | Low                   |
-| Recibir notificaciones en tiempo real sobre actualizaciones del evento                        | Sometimes                 | High                    | Sometimes            | High              |
-| Interactuar con otros asistentes                       | Sometimes                     | Medium                       | Usually               | High                  |
-| Personalizar experiencia en el evento               | Never                     | Low                       | Usually               | High                  |
-
-Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar eventos", "Recibir notificaciones en tiempo real sobre actualizaciones del evento", "Interactuar con otros asistentes" son son tareas que presentan mayor frecuencia e importancia. Así mismo, las principales diferencias que se han podido identificar son que las tareas dirigidas a los organizadores destacan sus necesidades específicas en relación a una buena gestión de sus eventos, por otro lado, las tareas dirigidas a los asistentes son el producto del buen uso de las herramientas proporcionadas y que buscan mejorar la experiencia de los clientes. Algunas coincidencias que hemos podido identificar son que muchas de estas tareas son consecuentes o apoyan de manera equilibrada a la gestión y experiencia del usuario.
-
-### User Journey Mapping
-**ASISTENTE DE EVENTOS**
-![](https://github.com/RamiroGuzmanCh/prueba2/blob/feature/JourneyMapAsistente/Organizador%20de%20eventos%20journey%20map%202%20(1).png)
-
-**ORGANIZADOR DE EVENTOS**
-![](https://github.com/RamiroGuzmanCh/prueba2/blob/feature/JourneyMapOrganizador/Organizador%20de%20eventos%20journey%20map%202%20(1).png)
-
-### Empathy Mapping
-**ASISTENTE DE EVENTOS**
-![](https://hackmd.io/_uploads/SyXlf1qhR.png)
-
-**ORGANIZADOR DE EVENTOS**
-![](https://hackmd.io/_uploads/Sy7lzJqhR.png)
-
-### As-is Scenario Mapping
-![AS IS SCENARIO MAPING (1)](https://hackmd.io/_uploads/SJLGJoUn0.jpg)
-
-
-![AS IS SCENARIO MAPING](https://hackmd.io/_uploads/HkemyjUhA.jpg)
-
-
-## Ubiquitous Language
-1. **Event Management Platform (Plataforma de gestión de eventos)**
-   - **Definición:** Un sistema centralizado que permite a los organizadores de eventos planificar, gestionar y ejecutar eventos de manera eficiente. Esta plataforma integra varias herramientas y funcionalidades, como la venta de entradas, la promoción del evento y la gestión logística.
-
-2. **Ticketing System (Sistema de venta de entradas)**
-   - **Definición:** Un componente clave de una plataforma de gestión de eventos que permite la emisión, venta y seguimiento de entradas. Este sistema facilita la compra segura de entradas por parte de los asistentes y proporciona a los organizadores herramientas para gestionar las ventas y el acceso al evento.
-
-3. **Operational Efficiency (Eficiencia operativa)**
-   - **Definición:** La capacidad de una empresa o plataforma para optimizar sus recursos y procesos, minimizando el tiempo y costo necesarios para realizar actividades, mientras maximiza la productividad y la calidad del servicio ofrecido.
-
-4. **Event Promotion (Promoción de eventos)**
-   - **Definición:** El conjunto de estrategias y tácticas utilizadas para publicitar un evento y atraer a la audiencia deseada. Esto puede incluir marketing en redes sociales, campañas de correo electrónico, anuncios pagados y otras formas de comunicación para aumentar la visibilidad del evento.
-
-5. **Event Planning (Planificación de eventos)**
-   - **Definición:** El proceso de organización de todos los elementos necesarios para llevar a cabo un evento, incluyendo la selección del lugar, la gestión de proveedores, la coordinación logística y la programación de actividades.
-
-6. **User Experience (Experiencia del usuario)**
-   - **Definición:** La percepción y respuesta de los usuarios al interactuar con una plataforma o servicio. En el contexto de Eventify, se refiere a la facilidad y satisfacción con la que los organizadores de eventos y asistentes usan la plataforma para crear y asistir a eventos.
-
-7. **Stakeholder (Parte interesada)**
-   - **Definición:** Individuos o grupos que tienen un interés en el éxito de un evento o en la funcionalidad de la plataforma Eventify. Esto puede incluir organizadores de eventos, asistentes, proveedores de servicios y patrocinadores.
-
-8. **Market Saturation (Saturación del mercado)**
-   - **Definición:** Una situación en la que el número de productos o servicios ofrecidos en un mercado es tan alto que limita el crecimiento y la participación de nuevos competidores. En el caso de los eventos, significa una competencia alta entre organizadores para atraer asistentes.
-
-# Capítulo III: Requirements Specification
-## To-Be Scenario Mapping
-
-## User Stories
 ## Impact Mapping
 ### Segmento 1: Organizadores de Eventos
 ![Impact Map Organizadores de eventos](https://hackmd.io/_uploads/ryyGeRPhA.png)
