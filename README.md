@@ -685,6 +685,10 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 Segmento Objetivo Asistente de Evento
 ![](https://hackmd.io/_uploads/BJQgfy5hA.png)
 
+Segmento Objetivo Organizador de Evento
+![](https://hackmd.io/_uploads/S1XeM1qnA.png)
+
+
 ### As-is Scenario Mapping
 ![AS IS SCENARIO MAPING (1)](https://hackmd.io/_uploads/SJLGJoUn0.jpg)
 
