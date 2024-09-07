@@ -1396,6 +1396,7 @@ En los momentos en que surgieron desafíos técnicos o bloqueos en el desarrollo
 ### Conclusiones y recomendaciones
 
 ## Video About-the-Team
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EZvUB2H1T3NAu5ceA5OYb6UBOkLur2QinwNVvI5IspnGPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kuADKG
 
 ## Bibliografía
 
