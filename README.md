@@ -1349,6 +1349,10 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 Link del repositorio: https://ronaldofabian01.github.io/Aplicaciones-Web/
 
 #### Development Evidence for Sprint Review
+| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message B <br>ody** | **Committed on (Date)** |
+|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
+| Landing-Page   | Develop       | 1297acdcf77990bb9f010ed72b4d80d5b7ca1a1a | Agregate Landing Page     | -       No additional details                | 07/09/2024|
+        
 
 #### Testing Suite Evidence for Sprint Review
 
