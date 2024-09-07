@@ -574,11 +574,23 @@ En cuanto a innovaciones, desea ver una mayor integración de realidad aumentada
 | ![](https://github.com/RonaldoFabian01/Publicrepos/blob/main/Entrevista%20Ronaldo.png?raw=true)|
 | **Resumen:** Diana, es una estudiante universitaria y asiste a eventos con fines académicos y recreativos, aproximadamente tres veces al mes. Para ella, la seguridad en los eventos es una prioridad, así como el control de la contaminación sonora; prefiere que la música se ajuste al tipo de evento al que asiste. Ella compra sus entradas a través de redes sociales, utilizando códigos QR o flyers de las organizaciones. Generalmente, usa su computadora para realizar las compras y su celular para adquirir las entradas. Le gustaría poder compartir su ubicación con amigos para mejorar la seguridad y considera muy importante recibir notificaciones sobre la llegada de sus amigos y cualquier cambio en la programación de los eventos. Diana organiza sus actividades y eventos usando Google Calendar. En el futuro, le gustaría que el ingreso a los eventos se realice mediante el escaneo de QR para agilizar el proceso y fomentar el uso de dinero digital. Ella tambien cree que los procesos de los eventos serán más automatizados y que la inteligencia artificial tendrá un papel relevante en la monitorización y gestión de los eventos. |
 
-
-
-
 ## Análisis de entrevistas
-aa
+Al analizar las entrevistas pone de manifiesto que tanto organizadores como asistentes tienen expectativas elevadas en cuanto a la organización de eventos. Los organizadores necesitan herramientas que faciliten la gestión de proveedores y la venta de entradas, mientras que los asistentes buscan experiencias más seguras y eficientes. La integración de tecnologías innovadoras y la mejora en la comunicación y coordinación entre proveedores son aspectos clave que podrían elevar la calidad de los eventos en el futuro. 
+### Organizadores de Eventos
+| Necesidades/Desafíos                | Porcentaje de Mención (%) |
+|-------------------------------------|---------------------------|
+| Coordinación con Proveedores        | ██████████████████████ 40% |
+| Herramientas para Gestión de Entradas| ████████████████ 30%      |
+| Análisis y Reporte de Eventos      | ██████████ 20%            |
+| Integración con Redes Sociales      | ██████ 10%                 |
+
+### Asistentes a Eventos
+| Expectativas/Preferencias           | Porcentaje de Mención (%) |
+|-------------------------------------|---------------------------|
+| Organización y Seguridad            | ████████████████████ 35%   |
+| Facilidad de Compra de Entradas     | ████████████████ 30%       |
+| Notificaciones en Tiempo Real       | ██████████ 20%             |
+| Innovaciones Tecnológicas           | ██████ 15%                  |
 
 ## Needfinding
 ### User Personas
