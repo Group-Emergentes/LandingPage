@@ -1304,16 +1304,6 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Merly Salon Puerta        | Done       |
 | US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Pedro Nanfuñay Liza        | Done       |
 #### 5.2.1.3. Development Evidence for Sprint Review
-| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message B <br>ody** | **Committed on (Date)** |
-|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
-| Landing-Page   | main       | VA AQUI | Agregate Landing Page     | -       No additional details                | 03/09/2024              |
-| Landing-Page   | main       | VA AQUÍ | Add files via upload       | -       No additional details                | 3/09/2024              |
-
-
-Link del repositorio: https://ronaldofabian01.github.io/Aplicaciones-Web/
-
-#### Development Evidence for Sprint Review
-## Development Evidence for Sprint Review
 
 Durante el desarrollo de nuestra aplicación web, realizamos un total de **129 commits**. A continuación, se muestra una tabla con los commits más relevantes que se realizaron durante este sprint.
 
