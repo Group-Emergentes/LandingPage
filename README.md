@@ -1313,10 +1313,22 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 Link del repositorio: https://ronaldofabian01.github.io/Aplicaciones-Web/
 
 #### Development Evidence for Sprint Review
-| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message B <br>ody** | **Committed on (Date)** |
-|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
-| Landing-Page   | Develop       | 1297acdcf77990bb9f010ed72b4d80d5b7ca1a1a | Agregate Landing Page     | -       No additional details                | 07/09/2024|
-        
+## Development Evidence for Sprint Review
+
+Durante el desarrollo de nuestra aplicación web, realizamos un total de **129 commits**. A continuación, se muestra una tabla con los commits más relevantes que se realizaron durante este sprint.
+
+| Commit Id                         | Autor              | Commit Message                                                  | Fecha de Commit         |
+|------------------------------------|--------------------|------------------------------------------------------------------|-------------------------|
+| `bd9314660ecd71620fef67362d44c28731ffc1e9` | RamiroGuzmanCh      | Merge pull request #59 from RonaldoFabian01/update/Class-Diagrams | 3 hours ago             |
+| `b69ce091138b886d85d8bba3839afb287ae10e1d` | MerlySalonP         | Merge pull request #42 from RonaldoFabian01/feature/Source-Code-Style-Guide-&-Conventions | 8 hours ago             |
+| `f569568e19610da1ef55700d26c992146f55ce79` | PedroJ18            | Merge pull request #16 from RonaldoFabian01/feature/LeanUXCanvas  | Last week               |
+| `f3501214e36e82d48cf7534dd0aab37bf4e9ef75` | RonaldoFabian01     | Initial commit                                                   | 2 weeks ago             |
+| `8ab8364278ef2e9812eb397a25c5ad5324e4449a` | MerlySalonP         | Merge pull request #47 from RonaldoFabian01/feature/Information-Architecture | 8 hours ago             |
+| `d0563458b7004c923dc2f2cd3949499660101e59` | RonaldoFabian01     | Empathy Mapping Target Segment Event Attendee README.md           | 8 hours ago             |
+| `24a903737fb515293ceed5f76719a2452ff00e59` | MerlySalonP         | Source Code Style Guide & Conventions README.md                   | 8 hours ago             |
+| `e12d5dc4a8d570d731a9da21219de26d6dcb24d8` | MerlySalonP         | Database Diagram README.md                                        | 19 hours ago            |
+
+**Repositorio y Branch:** [Aplicaciones Web - Branch: Develop](https://github.com/RonaldoFabian01/Aplicaciones-Web/tree/Develop)
 
 #### Testing Suite Evidence for Sprint Review
 
