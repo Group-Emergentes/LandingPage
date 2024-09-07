@@ -503,8 +503,15 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 | **Resumen:** Sergio es un estudiante de Ingeniería de Software. Actualmente reside en Miraflores y es coordinador de eventos en una empresa especializada en planificación y ejecución de eventos y entretenimiento, siendo el encargado en todos los efectos lógicos y operativos de los eventos. Él expresa que ha tenido la oportunidad de participar en la gestión de eventos tales como conferencias y conciertos. Así mismo, indica que los mayores problemas a los que se enfrenta es la coordinación con múltiples proveedores y servicios, lo cual genera una gran cantidad de tiempo, sin contar que pueden aparecerse cambios inesperados durante la preparación del evento. A pesar de utilizar ciertas plataformas para la venta de entradas, considera que estas no cuentan con las herramientas que él necesita o que sufren de constantes inconvenientes en el aspecto técnico. Desea tener acceso a herramientas que le permitan gestionar la venta de entradas, el análisis y reporte de los eventos que realiza, la integración con redes sociales para la promoción de sus eventos y la opción de enviar notificaciones en tiempo real a sus clientes para informar en caso de algún cambio.|
 
 #### Entrevista 2
-aaa
-#### Entrevista 3
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Apellidos y nombres:** Carlos Minan |
+| **Edad:**  19 años |
+| **Distrito:**   Miraflores, Lima |
+|![entrevista](https://github.com/user-attachments/assets/38f80485-eeb1-4cbc-875b-045e5f639207)|
+| **Resumen:** El entrevistado es un organizador de eventos de 19 años, con 10 años de experiencia, especializado en conciertos y festivales. Reside en Miraflores, Lima, y es propietario y coordinador de una empresa de eventos. Los principales desafíos que enfrenta incluyen la logística, la gestión de multitudes y la comunicación con los asistentes en tiempo real. Utiliza herramientas como Eventbrite, Trello y Google Drive. Prioriza ofrecer experiencias memorables y valora la integración tecnológica para facilitar la gestión y mejorar la interacción con los asistentes. Sus frustraciones incluyen contratiempos logísticos y herramientas ineficaces. Imagina un futuro con eventos más interactivos, utilizando realidad aumentada y mejores sistemas de personalización para los asistentes.|
+
+
 
 ###  2. Segmento Objetivo: Asistentes a Eventos
 #### Entrevista 1
