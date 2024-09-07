@@ -902,7 +902,11 @@ El versionamiento del software se gestionará mediante etiquetas en Git (git tag
 Por ejemplo, las versiones podrían ser `v1.2.0` o `v1.2.3`, mostrando los avances y actualizaciones del proyecto.
 
 ### Source Code Style Guide & Conventions
+Esta sección detalla las directrices para la programación y la documentación del proyecto.
 
+Idioma de Codificación: Todo el código, documentación técnica y especificaciones se escribirán en inglés para asegurar consistencia y claridad.
+Herramientas Utilizadas: El proyecto se desarrolla utilizando GitHub para control de versiones y Visual Studio Code como editor de código. Para el diseño y planificación, usamos Figma y Miro.
+Tecnologías: La Landing Page se construye utilizando HTML, CSS, y JavaScript para asegurar una interfaz moderna y funcional.
 
 ### Software Deployment Configuration
 
