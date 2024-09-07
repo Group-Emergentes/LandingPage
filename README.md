@@ -566,7 +566,8 @@ aa
 Segmento Objetivo Asistente de Evento
 ![](https://hackmd.io/_uploads/BJQgfy5hA.png)
 
-
+Segmento Objetivo Organizador de Evento
+![](https://hackmd.io/_uploads/S1XeM1qnA.png)
 
 #### User Stories 
 
