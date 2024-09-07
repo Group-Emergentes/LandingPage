@@ -889,18 +889,71 @@ Dado que el nombre de la startup es NetVision, podríamos emplear este meta tag 
 Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación llevará a los usuarios a la sección en la que estén interesados. 
 
 ### Navigation Systems
-
+Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para poder facilitar la navegación de los usuarios. Este tiene la capacidad de informar al usuario con respecto a la ubicación actual de la página que esté actualmente visitando, así como de las que exploró previamente para llegar a la que está. 
 
 ## Landing Page UI Design
 ### Landing Page Wireframe
-aa
+![LandingPageWireframe](https://github.com/user-attachments/assets/c9670f28-84e6-4def-b451-ebfef65c8bbb)
+
+- **Principios de diseño**: El wireframe establece una jerarquía visual clara con el título principal "Your Ultimate Event Experience Awaits" que atrae la atención de inmediato, seguido por botones de llamada a la acción (CTAs) visibles como "Explore Now". Las secciones están bien espaciadas y alineadas, facilitando la lectura y navegación de la página.
+- **Diseño inclusivo**: Se prioriza la accesibilidad con botones grandes y etiquetas bien definidas que permiten a los usuarios interactuar fácilmente, incluso aquellos con menos experiencia tecnológica. Además, el diseño evita la sobrecarga cognitiva al mantener el contenido claro y conciso.
+- **Arquitectura de información**: El contenido está bien estructurado, comenzando con una introducción que da paso a eventos destacados, información sobre los servicios ofrecidos y una categorización clara de eventos adicionales. El menú en la parte superior facilita una navegación rápida hacia secciones clave como "Contact Us" para acceder a información de contacto sin sobrecargar la página.
+### 4.3.2. Landing Page Mock-up
+
+![Landing-Page-Mock-Ups](https://github.com/user-attachments/assets/d5fda79b-7a47-462f-bfcb-d2631fc7518c)
+
+- **Principios de diseño**: El mock-up añade estilo y color, utilizando un esquema de colores contrastantes (azul oscuro y amarillo) que atrae la atención a los elementos importantes sin resultar abrumador. La tipografía es coherente y legible, con encabezados destacados que guían a los usuarios por el contenido de manera intuitiva.
+- **Diseño inclusivo**: El mock-up demuestra un diseño adaptable, optimizado tanto para escritorio como para dispositivos móviles. Las versiones móviles conservan la jerarquía visual y accesibilidad, asegurando que la navegación y la interacción sean igualmente fluidas y eficaces en pantallas pequeñas. Se utiliza un buen contraste para mejorar la legibilidad, beneficiando a los usuarios con discapacidades visuales leves.
+- **Arquitectura de información**: Se mantiene la estructura lógica del wireframe, con botones de acción clave como "Learn More" y "Book Now" fácilmente accesibles y bien distribuidos en toda la página. El diseño organiza el contenido de manera coherente, garantizando que los usuarios puedan encontrar rápidamente lo que buscan sin distracciones.
 ### Landing Page Mock-up
-aa
+
+![Landing-Page-Mock-Ups](https://github.com/user-attachments/assets/d5fda79b-7a47-462f-bfcb-d2631fc7518c)
+
+- **Principios de diseño**: El mock-up añade estilo y color, utilizando un esquema de colores contrastantes (azul oscuro y amarillo) que atrae la atención a los elementos importantes sin resultar abrumador. La tipografía es coherente y legible, con encabezados destacados que guían a los usuarios por el contenido de manera intuitiva.
+- **Diseño inclusivo**: El mock-up demuestra un diseño adaptable, optimizado tanto para escritorio como para dispositivos móviles. Las versiones móviles conservan la jerarquía visual y accesibilidad, asegurando que la navegación y la interacción sean igualmente fluidas y eficaces en pantallas pequeñas. Se utiliza un buen contraste para mejorar la legibilidad, beneficiando a los usuarios con discapacidades visuales leves.
+- **Arquitectura de información**: Se mantiene la estructura lógica del wireframe, con botones de acción clave como "Learn More" y "Book Now" fácilmente accesibles y bien distribuidos en toda la página. El diseño organiza el contenido de manera coherente, garantizando que los usuarios puedan encontrar rápidamente lo que buscan sin distracciones.
 ## Web Applications UX/UI Design
 ### Web Applications Wireframes
-aa
+- Wireframe de la sección ventana principal
+![Main-Desktop (1)](https://github.com/user-attachments/assets/272768c8-4df5-4c09-a1cd-67896e745c12)
+
+- Wireframes de la sección inicio de sesión
+![Iniciar sesión 1](https://github.com/user-attachments/assets/830c647a-d6db-4d88-9b9e-d6d33e55aa02)
+![Iniciar sesión 2](https://github.com/user-attachments/assets/485202d6-87a6-4ead-b5ea-f2aa49ff3d30)
+
+- Wireframes de la sección registro
+![Registro (desktop) (1)](https://github.com/user-attachments/assets/4ad318b4-075d-4fc8-abcb-5bc78ad8f204)
+![Editar Cuenta (desktop)](https://github.com/user-attachments/assets/28ef6e6a-efb6-4e75-bdc9-c20f6777f8b8)
+
+- Wireframes de la sección editar cuenta & perfil
+![Editar Perfil (desktop)](https://github.com/user-attachments/assets/e4908c84-08dc-499e-83b9-a920058ff766)
+
+- Wireframes de la sección recuperar contraseña
+![Recuperar contraseña (desktop) (1)](https://github.com/user-attachments/assets/516a8ced-e8ae-4506-b395-18595656baa8)
+
+- Wireframes de la sección reviews
+![Reviews](https://github.com/user-attachments/assets/27c28b8d-9fcb-4cc4-99e8-daf50f10016a)
+
+- Wireframes de la sección categorias
+![categorias (2)](https://github.com/user-attachments/assets/b11ecd93-2a44-44fa-b8a5-216114d513e2)
+
+- Wireframes de la sección eventos
+![Popular Events (2)](https://github.com/user-attachments/assets/c2ea501a-30a6-4eb6-b7ba-a645e759748a)
+Enlace a los wireframes de la App Web en Figma: https://www.figma.com/design/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=27-418&t=V8Wk4aipe7vwQ1B9-1
 ### Web Applications Wireflow Diagrams
-aaa
+**User goal, usuario inicia sesion, se registra y recupera su contraseña**
+![wireflow-sesion](https://github.com/user-attachments/assets/24aba0d9-9138-4258-b2b0-ef22ca08071e)
+
+**Descripcion**
+Al iniciar la aplicación, el usuario se encuentra en la página inicio, donde puede iniciar sesión mediante correo electrónico o las plataformas de Google y Facebook. El usuario también puede registrar una nueva cuenta utilizando su correo electrónico o las plataformas mencionadas anteriormente. En caso de olvidar su contraseña, el usuario tiene la opción de recuperarla utilizando su correo electrónico.
+
+**User goal,compra de una entrada para un evento en especifico**
+![wireflow-evento](https://github.com/user-attachments/assets/dc7c758e-9afb-446f-8261-3d0e5580212c)
+
+**Descripcion**
+El recorrido inicia en una pantalla de categorías, donde el usuario puede seleccionar diferentes tipos de eventos. Después de elegir una categoría, se muestra una lista de eventos disponibles, con opciones para ver más detalles. Finalmente, el usuario llega a la sección de precios donde puede seleccionar y comprar entradas, además de ver opciones adicionales
+
+Enlace a los Wireflow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/249a2f6a-bf8d-48d8-8223-bc2953a7eddd/edit?invitationId=inv_71d29885-5c72-49e4-ac10-53526a9c92fb&page=0_0
 ### Web Applications Mock-ups
 aaa
 ### Web Applications User Flow Diagrams
