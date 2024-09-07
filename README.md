@@ -791,15 +791,73 @@ aaa
 aaa
 ## Information Architecture
 ### Organization Systems
-aaa
+**1. Lista de eventos y recursos asociados**
+Aplicable para: Asistentes y Organizadores
+
+Los asistentes podrán ver una lista completa de todos los eventos disponibles en la plataforma, como conciertos, conferencias, o eventos deportivos. Cada evento incluirá información relevante como fecha, lugar, descripción y tipos de entradas disponibles.
+Los asistentes podrán agregar eventos a su agenda personal o comprar entradas directamente desde esta lista.
+Habrá filtros y categorías como "Conciertos", "Deportes", "Tecnología", etc., para ayudar a los usuarios a encontrar eventos que se ajusten a sus intereses.
+Además, podrán ver reseñas y puntuaciones de eventos anteriores para ayudar a tomar decisiones informadas.
+Los organizadores podrán ver y gestionar la lista de eventos que han creado, pudiendo actualizar la información, cancelar eventos o editar detalles como precios y promociones.
+**2. Historial de eventos organizados**
+Aplicable para: Organizadores
+
+Los organizadores tendrán acceso a un historial completo de todos los eventos que han organizado a través de Eventify.
+Podrán editar la información de eventos futuros, actualizar detalles importantes (por ejemplo, lugar o fecha), o incluso eliminar eventos si es necesario.
+También podrán acceder a estadísticas de eventos pasados, como la cantidad de asistentes, ingresos por entradas vendidas, y promociones aplicadas.
+Este historial incluye versiones anteriores de eventos para tener un control total sobre lo que se ha publicado y cómo ha sido gestionado.
+**3. Historial de asistencia a eventos**
+Aplicable para: Asistentes
+
+Los asistentes contarán con un historial detallado de todos los eventos a los que han asistido o comprado entradas.
+Este historial incluirá información como las fechas de asistencia, el tipo de entradas adquiridas, y su participación en actividades dentro del evento (como encuestas o reseñas).
+Además, podrán ver el progreso de cualquier actividad asociada con el evento (por ejemplo, seminarios en varias fechas), facilitando que retomen donde lo dejaron.
+**4. Mensajes y Comunicación**
+Aplicable para: Asistentes y Organizadores
+
+Los asistentes podrán comunicarse entre ellos o con el organizador del evento a través de la plataforma Eventify. Esto facilitará la interacción y coordinación entre los usuarios:
+Mensajería entre asistentes: Podrán coordinarse para encontrarse durante el evento, compartir opiniones o incluso hacer nuevos amigos con intereses similares.
+Mensajería con el organizador: Los asistentes podrán hacer preguntas al organizador sobre el evento, horarios, o cualquier duda que tengan, recibiendo respuestas de forma directa.
+Los organizadores también podrán utilizar esta función para enviar notificaciones o comunicarse con los asistentes sobre actualizaciones o cambios en el evento.
+La plataforma puede permitir notificaciones automáticas para recordatorios, avisos de última hora o agradecimientos post-evento.
+**5. Categorización**
+Aplicable para: Asistentes y Organizadores
+
+Los eventos en Eventify estarán organizados en distintas categorías según su tipo: Conciertos, Conferencias, Deportes, Festivales, etc.
+Los asistentes podrán filtrar eventos según categoría, fecha, ubicación o popularidad.
+Los organizadores podrán asignar etiquetas a sus eventos, lo que facilitará que sean encontrados en búsquedas específicas, como "Rock", "Startup", o "Networking".
+
 ### Labeling Systems
-aaa
+| Ícono  | Descripción |
+|------------|------------|
+|  ![user](https://hackmd.io/_uploads/rJfKxfgn0.png)   | **Perfil:** En BookSphere, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos, ver su historial de lectura o publicación y gestionar sus preferencias.  |
+|  ![messages](https://hackmd.io/_uploads/B1GKxMlnC.png)   |**Mensajes:** Los usuarios lo usarán para comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.  |
+|  ![search](https://hackmd.io/_uploads/H1lMYgzghA.png)     | **Buscar:** Un ícono para buscar libros, autores, o recursos específicos dentro de la plataforma. |
+|  ![feedback-alt](https://hackmd.io/_uploads/rkgfYxGeh0.png)    | **Reseñas:** Un ícono para acceder a las reseñas que el usuario ha dejado o para ver las reseñas de otros usuarios sobre un libro específico.  |
+| ![download](https://hackmd.io/_uploads/BJzYgfeh0.png)     | **Descargas:** Un ícono que permita a los usuarios acceder a los libros o recursos descargados para su lectura o escucha offline. |
+|   ![process](https://hackmd.io/_uploads/SkWzKxGl2A.png)    | **Configuración:** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
+|   ![star](https://hackmd.io/_uploads/r1zFxGl3A.png)   | **Favoritos:** Un ícono de corazón o estrella para que los usuarios puedan marcar libros o recursos como favoritos, permitiéndoles acceder a ellos fácilmente más tarde.  |
+|   ![home](https://hackmd.io/_uploads/B1eMYlGenC.png)   | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. Generalmente se representa con una casa o un edificio. |
+|  ![bell](https://hackmd.io/_uploads/SJGFgfenC.png)   | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
+
 ### SEO Tags and Meta Tags
-aaa
+1. SEO Tags
+ a. Title Tag: Eventify - Organiza y disfruta eventos de manera eficiente y segura.
+ b. Meta Description Tag: Descubre Eventify, la plataforma para organizar y disfrutar eventos con tecnología avanzada. Compra entradas, recibe notificaciones y comparte tu experiencia en tiempo real.
+
+2. Meta Tags
+   a. Meta Robots Tag:
+Se empleará la meta tag index, follow para asegurar que la plataforma Eventify sea indexada y rastreada por los motores de búsqueda.
+`<meta name="robots" content="index, follow">`
+  b. Meta Author Tag:
+Dado que el nombre de la startup es NetVision, podríamos emplear este meta tag para reflejar la autoría del proyecto Eventify:
+`<meta name="author" content="NetVision Inc.">`
+
 ### Searching Systems
-aaa
+Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación llevará a los usuarios a la sección en la que estén interesados. 
+
 ### Navigation Systems
-aaa
+
 
 ## Landing Page UI Design
 ### Landing Page Wireframe
