@@ -1329,6 +1329,51 @@ Durante el desarrollo de nuestra aplicación web, realizamos un total de **129 c
 #### Software Deployment Evidence for Sprint Review
 
 #### Team Collaboration Insights during Sprint
+### 5.2.6. Team Collaboration Insights during Sprint
+
+Durante el Sprint 1, la colaboración efectiva entre los miembros del equipo fue fundamental para alcanzar los objetivos planteados. A continuación, se destacan los principales elementos que contribuyeron a la eficiencia del equipo:
+
+#### 1. Comunicación
+La comunicación constante y fluida fue la base del trabajo colaborativo. Para ello, utilizamos las siguientes herramientas:
+
+- **Slack**: Este canal fue el principal medio para la comunicación asíncrona, donde los miembros del equipo podían compartir actualizaciones, hacer preguntas y resolver dudas rápidamente. Se establecieron canales específicos para temas como desarrollo, diseño y pruebas.
+  
+- **Google Meet**: Las reuniones sincrónicas se llevaron a cabo mediante Google Meet, especialmente para las sesiones diarias de Standup y las revisiones semanales. Estas reuniones permitieron al equipo discutir los avances en tiempo real, identificar obstáculos y ajustar la planificación cuando era necesario.
+
+#### 2. Revisiones Frecuentes
+Para asegurar que el progreso avanzaba de manera consistente, se implementaron **Daily Standups**. Estas reuniones cortas de 15 minutos se llevaron a cabo al inicio de cada día, donde cada miembro compartía:
+
+- **Lo que había completado** desde el último Standup.
+- **Lo que planeaba trabajar** durante el día.
+- **Cualquier impedimento o bloqueo** que pudiera afectar el progreso.
+
+Esta metodología permitió identificar rápidamente problemas y ajustar el trabajo según fuera necesario.
+
+#### 3. Asignación de Tareas
+La asignación de tareas fue gestionada a través de **JIRA**, lo que permitió tener una visión clara de las responsabilidades de cada miembro del equipo. Cada tarea fue:
+
+- **Equitativamente distribuida**, teniendo en cuenta la experiencia y disponibilidad de cada miembro.
+- **Claramente documentada**, proporcionando detalles sobre los objetivos, entregables y tiempos estimados de finalización.
+- **Monitoreada mediante el tablero de JIRA**, lo que facilitó el seguimiento del progreso y permitió detectar tareas en riesgo de no completarse a tiempo.
+
+Además, se realizaron revisiones constantes de los tickets en JIRA para asegurar que todas las tareas estuvieran en la fase adecuada y que los bloqueos fueran resueltos de manera rápida.
+
+#### 4. Documentación Compartida
+El equipo utilizó **Confluence** para mantener toda la documentación del proyecto centralizada y accesible para todos los miembros. Esto incluyó:
+
+- **Guías de desarrollo**, donde se documentaron las mejores prácticas y convenciones de codificación.
+- **Documentación técnica**, que detallaba el diseño de la arquitectura, diagramas de clases y modelos de datos.
+- **Registro de decisiones clave**, lo que permitía hacer seguimiento de las decisiones tomadas durante el sprint y las justificaciones detrás de ellas.
+
+El uso de Confluence permitió a los miembros del equipo estar alineados y asegurarse de que todos los procesos se siguieran de manera estandarizada, minimizando confusiones o malentendidos. Además, facilitó la incorporación de nuevos miembros al equipo en caso de ser necesario.
+
+#### 5. Resolución de Problemas en Equipo
+En los momentos en que surgieron desafíos técnicos o bloqueos en el desarrollo, el equipo implementó una estrategia de **resolución colaborativa de problemas**. Esto implicó:
+
+- **Pares de programación** en ciertas tareas complejas, donde dos miembros trabajaban juntos para encontrar una solución más rápida y efectiva.
+- **Revisiones de código cruzadas** para mejorar la calidad del código y asegurar que se respetaran las normas de codificación establecidas.
+- **Sesiones ad-hoc de Google Meet** para discutir problemas técnicos de mayor envergadura, asegurando que se resolvieran sin retrasar el avance del sprint.
+
 
 
 
