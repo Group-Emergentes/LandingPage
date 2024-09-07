@@ -1324,7 +1324,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | Landing-Page   | main       | VA AQUÍ | Add files via upload       | -       No additional details                | 3/09/2024              |
 
 
-Link del repositorio: https://github.com/MauricioMVilcapoma/LandingPageEventify/settings 
+Link del repositorio: https://ronaldofabian01.github.io/Aplicaciones-Web/
 
 #### Development Evidence for Sprint Review
 
