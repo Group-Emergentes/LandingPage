@@ -199,14 +199,16 @@ NetVision es una startup innovadora enfocada en desarrollar soluciones tecnológ
 
 ### Perfiles de Integrantes del Equipo
 
-**Muñoz Vilcapoma Mauricio – Ingeniería de Software – U202217212**  
-Soy estudiante de Ingeniería de Software en mi quinto ciclo. Deseo desempeñar un papel fundamental en el mundo de la tecnología, creando soluciones innovadoras y avanzadas como desarrollador de software. Estoy comprometido con mi desarrollo profesional y con hacer una diferencia en el campo de la ingeniería de software.
+| Integrante | Descripción |
+| ---- | --- |
+| ![image](https://hackmd.io/_uploads/SySZsxq30.png) |Ramiro Guzmán Chávez – Ingeniería de Software – U202217062 <br> Mi perfil se basa en ser una persona responsable, disciplinada en todo aspecto y comprometida con las actividades que me pueda tocar. Considero que tengo una experiencia altamente capacitada para este tipo de tareas, suelo desarrollarme de manera positiva en los trabajos grupales, tengo conocimiento de Bases de Datos lo cual puede aportar de una manera importante al equipo.
+  |
+| ![fotoperfilMerly](https://hackmd.io/_uploads/H1jAVj9cA.jpg) | Merly Salon Puerta – Ingeniería de Software – U20201b772 <br>A lo largo de mi vida he adquirido diversos valores éticos los cuales son la base en todas las áreas de mi vida. Estoy comprometida a aportar de diversas formas para el desarrollo del proyecto con mucho optimismo y entusiasmo. Participaré activamente en las actividades grupales para culminar el proyecto de manera satisfactoria. |
+| ![FotoPerfil4](https://hackmd.io/_uploads/rJGKndc5A.jpg) | Pedro Jesús Nanfuñay Liza - Ingeniería de Software - U202215462<br>Me considero una persona responsable y perseverante, siempre dispuesto a participar y colaborar con mi equipo. Cuento con conocimientos en varios lenguajes de programación y una fuerte pasión por investigar y conocer el desarrollo de las nuevas tecnologías. Mi objetivo es culminar este proyecto de manera satisfacoria.|
+| ![image](https://hackmd.io/_uploads/H1OKol93C.png)| Muñoz Vilcapoma Mauricio – Ingeniería de software – U202217212 <br> Soy Muñoz Vilcapoma Mauricio, estudiante de Ingeniería de Software en mi quinto ciclo. Deseo desempeñar un papel fundamental en el mundo de la tecnología, creando soluciones innovadoras y avanzadas como desarrollador de Software. Estoy comprometido con mi desarrollo profesional y con hacer una diferencia en el campo de la ingeniería de software.
+ |
+|![Ronaldo](https://hackmd.io/_uploads/BJXwMC1sR.jpg)|Ronaldo Macedonio Fabian Puente - Ingeniería de Software - U20201b193 <br>Me comprometo a desarrollar el trabajo en equipo hasta completar los objetivos planteados.|
 
-**Guzmán Chávez Alexander Ramiro – Ingeniería de Software – U202217062**  
-Mi perfil se basa en ser una persona responsable, disciplinada en todo aspecto y comprometida con las actividades que me puedan tocar. Considero que tengo una experiencia altamente capacitada para este tipo de tareas. Suelo desarrollarme de manera positiva en los trabajos grupales y tengo conocimientos en bases de datos, lo cual puede aportar de manera importante al equipo.
-
-**Nanfuñay Liza Pedro Jesús - Ingeniería de Software - U202215462** <br>
-Me considero una persona responsable, perseverante y disciplinada, dispuesto a siempre colaborar junto con mi equipo y cumpliendo con las actividades que se me puedan asignar. Cuento con conocimientos en este tipo de proyectos y en algunos lenguajes de programación como html y css, lo cual puede aportar en el desarrollo del proyecto. Mi objetivo es culminar este proyecto de manera satisfactoria. </br>
 
 ## Solution Profile
 
@@ -979,11 +981,24 @@ Herramientas Utilizadas: El proyecto se desarrolla utilizando GitHub para contro
 Tecnologías: La Landing Page se construye utilizando HTML, CSS, y JavaScript para asegurar una interfaz moderna y funcional.
 
 ### Software Deployment Configuration
+LANDING DEPLOYMENT!
 
 ## Landing Page, Services & Applications Implementation
-### Sprint n
-
-#### Sprint Planning n
+### 5.2.1. Sprint 1
+Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto Eventify. En este sprint, nos dedicamos a diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para definir la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
+#### 5.2.1.1. Sprint Planning 1
+| **Sprint #**                        | 1                                                                                              |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2024-008-28                                                                                                 |
+| **Time**                           | 7:00 PM                                                                                                    |
+| **Location**                       | Meet google                                                                                   |
+| **Prepared By**                    | Merly Salon                                                                              |
+| **Attendees (to planning meeting)**| Guzman Chavez Alexander Ramiro - u202217062 <br>Salon Puerta Merly - U20201B772<br>Muñoz Vilcapoma Mauricio Rigoberto - u202217212  <br>Nanfuñay Liza, Pedro Jesús - U202215462<br>Fabian Puente, Ronaldo Macedonio - U20201B193 |
+| **Sprint 1 – 1 Review Summary**    |Landing Page.                                                 |
+| **Sprint 1 – 1 Retrospective Summary** | Basado en la retroalimentación del Sprint anterior, se identificaron áreas clave para mejorar la eficiencia del equipo y la calidad del producto. La revisión de la landing page reveló que, aunque se cumplió con los objetivos iniciales, hubo desafíos en la integración de elementos interactivos y en la consistencia del diseño visual. El equipo acordó que era crucial abordar estos problemas en el próximo sprint para asegurar una experiencia de usuario fluida. Además, se decidió implementar revisiones más frecuentes y establecer una documentación más clara del proceso para evitar malentendidos y mejorar la colaboración. La planificación del Sprint 1 se centra en aplicar estas lecciones aprendidas, optimizando el diseño y la funcionalidad de la landing page para cumplir con los estándares de calidad y las expectativas del Product Owner. |
+| **Sprint 1 Goal**                  |  Definir la estructura y el diseño de la landing page, asegurando que cumpla con los requisitos de funcionalidad y estética establecidos. El objetivo es crear una página que no solo sea visualmente atractiva sino también funcional, con una navegación intuitiva y adaptabilidad a dispositivos móviles. Este sprint busca sentar las bases para el desarrollo continuo de la plataforma, estableciendo un diseño que facilite la implementación de características futuras y mejore la experiencia del usuario.                                                     |
+| **Sprint 1 Velocity**              | 5 Points                                                                                             |
+| **Sum of Story Points**            | 5   Points
 
 #### Sprint Backlog n
 
