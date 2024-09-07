@@ -199,6 +199,7 @@ NetVision es una startup innovadora enfocada en desarrollar soluciones tecnológ
 
 ### Perfiles de Integrantes del Equipo
 
+
 | Integrante | Descripción |
 | ---- | --- |
 | ![image](https://hackmd.io/_uploads/SySZsxq30.png) |Ramiro Guzmán Chávez – Ingeniería de Software – U202217062 <br> Mi perfil se basa en ser una persona responsable, disciplinada en todo aspecto y comprometida con las actividades que me pueda tocar. Considero que tengo una experiencia altamente capacitada para este tipo de tareas, suelo desarrollarme de manera positiva en los trabajos grupales, tengo conocimiento de Bases de Datos lo cual puede aportar de una manera importante al equipo.
