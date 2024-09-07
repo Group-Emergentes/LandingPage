@@ -280,13 +280,17 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 #### Lean UX Assumptions
 - Los organizadores de eventos necesitan herramientas que faciliten la coordinación y gestión de los asistentes en tiempo real
-Los asistentes a eventos buscan formas de interactuar más fácilmente con otros participantes, y la compartición de ubicación en tiempo real facilitará estas interacciones.
+- Los asistentes a eventos buscan formas de interactuar más fácilmente con otros participantes, y la compartición de ubicación en tiempo real facilitará estas interacciones.
 - Existe una demanda significativa en el mercado de eventos por soluciones tecnológicas que mejoren la organización y la experiencia del usuario, y Eventify puede satisfacer esta demanda con sus características únicas.
 - Los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, confiando en que la información se utilizará de manera segura y beneficiosa.
 - Tanto los organizadores como los asistentes adoptarán rápidamente Eventify, reconociendo que la plataforma ofrece mejoras significativas respecto a las herramientas tradicionales de gestión de eventos.
 
 #### Lean UX Hypothesis Statements
-
+- Si incorporamos una función en Eventify que permita a los organizadores coordinar y gestionar a los asistentes en tiempo real, la satisfacción de los organizadores con la herramienta aumentará en un 60% en comparación con las herramientas actuales para la gestión de eventos.
+- Si habilitamos una función de compartición de ubicación en tiempo real en Eventify, se incrementará en un 15% el número de interacciones entre los asistentes durante los eventos, y estos experimentarán un aumento en su satisfacción con la experiencia social.
+- Si lanzamos Eventify con sus funcionalidades innovadoras para la gestión de eventos, conseguiremos atraer un 25% más de usuarios en el mercado objetivo en comparación con nuestros competidores, y recibiremos al menos un 40% más de consultas y solicitudes de demostración del producto en los primeros seis meses.
+- Si ofrecemos una política clara y transparente respecto a la seguridad, privacidad y uso de la información de ubicación en Eventify, al menos el 70% de los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, se sentirán seguros al hacerlo, y la tasa de adopción de esta función será alta.
+- Si proporcionamos un período de prueba gratuito y sesiones de capacitación para Eventify, tanto los organizadores como los asistentes adoptarán la plataforma al menos un 50% más rápido que las herramientas tradicionales de gestión de eventos y percibirán un aumento en el valor y la eficiencia de la herramienta.
 #### Lean UX Canvas
 
 ![Lean UX Canvas - Eventify](https://hackmd.io/_uploads/HJhxVf6sA.png)
