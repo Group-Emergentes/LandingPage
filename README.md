@@ -492,6 +492,8 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
   - ¿Cómo imaginas que será la experiencia de asistir a eventos en los próximos años?
 
 ## Registro de entrevistas
+
+Video de entrevista de ambos segmentos Objeticos (OneDrive): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b193_upc_edu_pe/Eb-_Pr80-CZMj9Xo4_RHwRMBrNHvpE3DvySlf1UuzVj6DQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TlSYpr
 ###  1. Segmento Objetivo: Organizadores de Eventos
 #### Entrevista 1
 | **Datos del entrevistado** | 
