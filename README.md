@@ -682,7 +682,9 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 ![](https://github.com/RamiroGuzmanCh/prueba2/blob/feature/JourneyMapOrganizador/Organizador%20de%20eventos%20journey%20map%202%20(1).png)
 
 ### Empathy Mapping
-aa
+Segmento Objetivo Asistente de Evento
+![](https://hackmd.io/_uploads/BJQgfy5hA.png)
+
 ### As-is Scenario Mapping
 ![AS IS SCENARIO MAPING (1)](https://hackmd.io/_uploads/SJLGJoUn0.jpg)
 
