@@ -279,6 +279,11 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
    Lanzamiento dirigido a discotecas y festivales que necesitan soluciones tecnológicas avanzadas para la gestión de eventos y que valoran la interacción social y la experiencia personalizada para sus asistentes.
 
 #### Lean UX Assumptions
+- Los organizadores de eventos necesitan herramientas que faciliten la coordinación y gestión de los asistentes en tiempo real
+Los asistentes a eventos buscan formas de interactuar más fácilmente con otros participantes, y la compartición de ubicación en tiempo real facilitará estas interacciones.
+- Existe una demanda significativa en el mercado de eventos por soluciones tecnológicas que mejoren la organización y la experiencia del usuario, y Eventify puede satisfacer esta demanda con sus características únicas.
+- Los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, confiando en que la información se utilizará de manera segura y beneficiosa.
+- Tanto los organizadores como los asistentes adoptarán rápidamente Eventify, reconociendo que la plataforma ofrece mejoras significativas respecto a las herramientas tradicionales de gestión de eventos.
 
 #### Lean UX Hypothesis Statements
 
