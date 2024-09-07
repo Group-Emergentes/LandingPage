@@ -924,7 +924,23 @@ aa
 
 ## Software Object-Oriented Design
 ### Class Diagrams
-aa
+
+**User Management**
+Maneja la gestión de usuarios, autenticación, y perfiles y se encarga de la gestión de usuarios y sus datos, sin necesidad de conocer detalles de otros contextos como eventos o pagos.
+![Eventify- App Web](https://hackmd.io/_uploads/SyyQvQc2A.png)
+
+**Event Management**
+Maneja la creación, actualización y administración de eventos y relaciona eventos con lugares, categorías, etiquetas y notificaciones, pero no directamente con la venta de tickets o métodos de pago.
+![Eventify- App Web](https://hackmd.io/_uploads/r18Q8mq3C.png)
+
+**Ticketing**
+Maneja la venta y el control de tickets para eventos y relaciona tickets con eventos, ventas de tickets, promociones y códigos QR. No necesita conocer detalles de la autenticación de usuarios o la gestión de pagos directamente (aunque puede interactuar con el contexto de Payment Processing para procesar pagos).
+![Eventify- App Web](https://hackmd.io/_uploads/H1_Uw75nA.png)
+
+**Payment Proccesing **
+Maneja las transacciones y métodos de pago y se encarga de la gestión de métodos de pago y transacciones, sin necesidad de saber detalles específicos de eventos, usuarios o tickets.
+![Eventify- App Web](https://hackmd.io/_uploads/B1lFPXq3A.png)
+
 ### Class Dictionary
 aa
 ## Database Design
