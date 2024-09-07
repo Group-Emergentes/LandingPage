@@ -1271,7 +1271,16 @@ Herramientas Utilizadas: El proyecto se desarrolla utilizando GitHub para contro
 Tecnologías: La Landing Page se construye utilizando HTML, CSS, y JavaScript para asegurar una interfaz moderna y funcional.
 
 ### Software Deployment Configuration
-LANDING DEPLOYMENT!
+En esta sección se explicará el proceso del despliegue del proyecto.
+1.- El primer paso es crear un repositorio en GitHub donde almacenaremos el código de nuestra landing page  y habilitamos GithubPages en la siguiente rama:
+
+![Imagen ](https://hackmd.io/_uploads/r1snDVqn0.jpg)
+
+
+
+2. Luego se confirma el dezpliegue de la página.
+
+![Imagen de WhatsApp 2024-09-07 a las 15.29.52_bc40bc12](https://hackmd.io/_uploads/HyJfd4q20.jpg)
 
 ## Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -1290,7 +1299,32 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | **Sprint 1 Velocity**              | 5 Points                                                                                             |
 | **Sum of Story Points**            | 5   Points
 
-#### Sprint Backlog n
+#### Sprint Backlog 
+## Sprint Backlog 1
+
+
+| **Sprint #** | **Sprint 1** |
+|--------------|--------------|
+
+| **User Story** | **Work-Item / Task** |
+|--------------|--------------|
+
+| **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
+|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
+| US001        | Definir estructura de la landing page     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML.       | 4                      | Merly Salon Puerta        | Done       |
+| US001        | Definir estructura de la landing page     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      | Ronaldo Fabian Puente        | Done       |
+| US002        | Implementar elementos interactivos        | T003    | Configurar carrusel de imágenes | Desarrollar el componente de carrusel para mostrar imágenes en la landing page. | 5                      | Ramiro Guzman        | Done       |
+| US002        | Implementar elementos interactivos        | T004    | Crear formularios de contacto  | Crear y validar los formularios de contacto en la landing page.    | 3                      | Mauricio Vilcapoma        | Done       |
+| US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Merly Salon Puerta        | Done       |
+| US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Pedro Nanfuñay Liza        | Done       |
+#### 5.2.1.3. Development Evidence for Sprint Review
+| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message B <br>ody** | **Committed on (Date)** |
+|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
+| Landing-Page   | main       | VA AQUI | Agregate Landing Page     | -       No additional details                | 03/09/2024              |
+| Landing-Page   | main       | VA AQUÍ | Add files via upload       | -       No additional details                | 3/09/2024              |
+
+
+Link del repositorio: https://github.com/MauricioMVilcapoma/LandingPageEventify/settings 
 
 #### Development Evidence for Sprint Review
 
