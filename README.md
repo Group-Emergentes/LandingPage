@@ -692,6 +692,8 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 **ASISTENTE DE EVENTOS**
 ![](https://hackmd.io/_uploads/SyXlf1qhR.png)
 
+**ORGANIZADOR DE EVENTOS**
+![](https://hackmd.io/_uploads/Sy7lzJqhR.png)
 
 ### As-is Scenario Mapping
 ![AS IS SCENARIO MAPING (1)](https://hackmd.io/_uploads/SJLGJoUn0.jpg)
