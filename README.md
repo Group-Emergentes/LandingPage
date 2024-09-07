@@ -726,7 +726,6 @@ aa
 ### Segmento 2: Asistentes de Eventos
 ![Impact Map Asistentes a eventos](https://hackmd.io/_uploads/HyyjwTv3A.png)
 
-
 ## Product Backlog
 ### Segmento 1: Organizadores de Eventos
 | **# Orden** | **User Story Id**                       | **Título**                         | **Descripción**                                                                 | **Story Points (1 / 2 / 3 / 5 / 8)** |
@@ -840,7 +839,7 @@ aa
 aa
 ## Database Design
 ### Database Diagram
-aa
+![Eventify- App Web](https://hackmd.io/_uploads/HyMk8rtnA.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## Software Configuration Management
