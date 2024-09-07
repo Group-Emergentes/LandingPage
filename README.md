@@ -861,7 +861,45 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 
 
 ### Source Code Management
+#### Repositorio de la Landing Page
+**Implementación de GitFlow:** Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo *"A successful Git branching model"* de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
 
+![GitFlow](https://hackmd.io/_uploads/SyTA4DY30.png)
+
+- **Rama Principal (Main branch):** Contiene el código en producción y se conoce como la Master branch o Main branch.
+  - **Notación:** `main`
+
+- **Rama de Desarrollo (Develop branch):** Acumula las últimas actualizaciones y cambios para la próxima versión. Funciona como un entorno de integración y prueba continua.
+  - **Notación:** `develop`
+
+- **Rama de Lanzamiento (Release branch):** Facilita la preparación de una nueva versión del producto, permitiendo correcciones de errores y recibiendo más actualizaciones de `develop`.
+  - **Debe derivarse de:** `develop`
+  - **Debe fusionarse con:** `develop` y `master/main`
+  - **Notación:** `release`
+
+- **Rama de Características (Feature branch):** Se utiliza para desarrollar nuevas funcionalidades para la siguiente versión o futuras iteraciones.
+  - **Debe derivarse de:** `develop`
+  - **Debe fusionarse de vuelta a:** `develop`
+  - **Notación:** `feature`
+
+- **Rama de Corrección Rápida (Hotfix branch):** Aborda errores críticos en producción, permitiendo la implementación rápida de soluciones.
+  - **Debe derivarse de:** `master/main`
+  - **Debe fusionarse con:** `develop` y `master/main`
+  - **Notación:** `hotfix`
+
+**Conventional Commits:**
+
+Adoptaremos el uso de Conventional Commits para registrar los cambios en el repositorio de forma clara y estructurada. Emplearemos palabras clave como `fix` para solucionar errores y `feature` para agregar nuevas funcionalidades.
+
+**Versionamiento del Software:**
+
+El versionamiento del software se gestionará mediante etiquetas en Git (git tag). La convención para las etiquetas es vX.Y.Z:
+
+- **X:** Representa la versión principal (major), se incrementa cuando se realizan modificaciones importantes en la funcionalidad del software que pueden alterar su estructura.
+- **Y:** Representa la versión secundaria (minor), se actualiza cuando se agregan o eliminan características sin modificar la estructura principal del software.
+- **Z:** Representa la versión de parche (patch), se utiliza para corregir pequeños errores o realizar mejoras que no afectan la funcionalidad principal.
+
+Por ejemplo, las versiones podrían ser `v1.2.0` o `v1.2.3`, mostrando los avances y actualizaciones del proyecto.
 
 ### Source Code Style Guide & Conventions
 
