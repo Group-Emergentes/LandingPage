@@ -562,6 +562,12 @@ aa
 
 ## Needfinding
 ### User Personas
+
+Segmento Objetivo Asistente de Evento
+![](https://hackmd.io/_uploads/BJQgfy5hA.png)
+
+
+
 #### User Stories 
 
 ##### Segmento 1: Organizadores de Eventos
@@ -682,11 +688,7 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 ![](https://github.com/RamiroGuzmanCh/prueba2/blob/feature/JourneyMapOrganizador/Organizador%20de%20eventos%20journey%20map%202%20(1).png)
 
 ### Empathy Mapping
-Segmento Objetivo Asistente de Evento
-![](https://hackmd.io/_uploads/BJQgfy5hA.png)
 
-Segmento Objetivo Organizador de Evento
-![](https://hackmd.io/_uploads/S1XeM1qnA.png)
 
 
 ### As-is Scenario Mapping
