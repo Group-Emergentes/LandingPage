@@ -33,7 +33,7 @@
 
 | **Versión** | **Fecha**     | **Autor**         | **Descripción de modificación**                              |
 |-------------|---------------|-------------------|--------------------------------------------------------------|
-| -         |        |  | TEXTO DE EJEMPLO           |
+| -         |        |  | Ramiro Alexander Guzman Chavez           |
 | -         |        |  |  TEXTO DE EJEMPLO          |
 | -         |        |  | TEXTO DE EJEMPLO           |
 | -         |        |  | TEXTO DE EJEMPLO           |
