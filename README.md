@@ -33,7 +33,7 @@
 
 | **Versión** | **Fecha**     | **Autor**         | **Descripción de modificación**                              |
 |-------------|---------------|-------------------|--------------------------------------------------------------|
-| -         |        |  | Ramiro Alexander Guzman Chavez           |
+| -         |        | Ramiro Alexander Guzman Chavez |            |
 | -         |        |  |  TEXTO DE EJEMPLO          |
 | -         |        |  | TEXTO DE EJEMPLO           |
 | -         |        |  | TEXTO DE EJEMPLO           |
@@ -148,7 +148,7 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** |  |  |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | Nanfuñay Liza, Pedro Jesús <br> TB1 <br> Lean UX Canvas <br> Registro de entrevistas (Entrevista 1 - Segmento Objetivo: Organizadores de Eventos) <br> Análisis de entrevistas <br> User Task Matrix <br> Product Backlog <br> Landing Page Wireframe <br> Landing Page Mock-up <br> Software Configuration Management <br> Source Code Management | Se demostró una notable participación y compromiso por parte de todos los integrantes para el desarrollo y resultados del presente informe. Cada integrante demostró responsabilidad, participación continua, liderazgo y apoyo mutuo. Con el objetivo de presentar una aplicación que pueda resolver un problema de la vida real. Para ello, se realizó la creación de un informecolaborativo dentro de la plataforma Github, esta herramienta nos permitió colaborar continuamente, en la planificación de tareas y alcances de objetivos. |
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | | |
 
 ---
