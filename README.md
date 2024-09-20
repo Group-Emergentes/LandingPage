@@ -148,8 +148,8 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** |  TEXTO DE EJEMPLO| TEXTO DE EJEMPLO |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** |TEXTO DE EJEMPLO | TEXTO DE EJEMPLO|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** |  |  |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | | |
 
 ---
 
