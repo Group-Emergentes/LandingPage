@@ -216,32 +216,15 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 ### Lean UX Process
 
 #### Lean UX Problem Statements
-1. *Domain:*  
-   La gestión y organización de eventos en entornos sociales como discotecas, festivales, conciertos y conferencias.
+**El estado actual de la gestión de eventos en entornos sociales** se ha centrado principalmente en **organizadores de eventos, tanto empresas como particulares, que enfrentan dificultades en la venta de entradas, promoción y logística, y asistentes que buscan experiencias personalizadas y interactivas**.
 
-2. *Customer Segments:*  
-   - Organizadores de eventos: Empresas y particulares que planifican y gestionan eventos y buscan optimizar procesos y mejorar la experiencia del usuario.
-   - Asistentes a eventos: Jóvenes adultos entre 18 y 35 años que buscan experiencias interactivas y personalizadas en eventos sociales.
+**Lo que los productos/servicios existentes no logran abordar** es **la falta de una solución integral que facilite la gestión en tiempo real y la interacción social, lo que resulta en insatisfacción tanto para organizadores como para asistentes**.
 
-3. *Pain Points:*  
-   - Para los organizadores de eventos:
-     - Falta de una herramienta integrada que facilite la venta de entradas, la promoción, y la gestión logística de los eventos.
-     - Dificultad para coordinar y gestionar la seguridad y la logística durante los eventos en tiempo real.
-     - Necesidad de mejorar la experiencia del usuario para incrementar la satisfacción y la lealtad de los asistentes.
+**Nuestro producto, Eventify, abordará este vacío** mediante **una plataforma digital que unifique la gestión de eventos, la venta de entradas y la interacción entre asistentes, con un enfoque en la seguridad y la eficiencia**.
 
-   - Para los asistentes a eventos:
-     - Ausencia de una plataforma que facilite la interacción social, como la compartición de ubicaciones y la comunicación en tiempo real.
-     - Falta de personalización en la experiencia del evento, lo que reduce la satisfacción general.
-     - Preocupaciones sobre la privacidad y la seguridad de los datos personales, especialmente en la función de compartición de ubicación.
+**Nuestro enfoque inicial será en** **discotecas y festivales que buscan mejorar sus procesos mediante tecnología avanzada y que valoran la interacción social**.
 
-4. *Gap:*  
-   No existe en el mercado una solución integral que combine de manera efectiva la gestión de eventos y la mejora de la experiencia del usuario, dejando a los organizadores y asistentes sin herramientas adecuadas para satisfacer sus necesidades.
-
-5. *Vision/Strategy:*  
-   Desarrollar Eventify, una plataforma digital integral que centralice todas las actividades relacionadas con la gestión de eventos y ofrezca herramientas innovadoras para mejorar la experiencia de los usuarios. Esto incluye la venta de entradas, la logística, la interacción social y la comunicación en tiempo real, todo con un enfoque en la seguridad y la eficiencia.
-
-6. *Initial Segment:*  
-   Lanzamiento dirigido a discotecas y festivales que necesitan soluciones tecnológicas avanzadas para la gestión de eventos y que valoran la interacción social y la experiencia personalizada para sus asistentes.
+**Sabremos que hemos tenido éxito cuando veamos** **un aumento del 30% en la eficiencia de los organizadores y un 20% en las calificaciones de satisfacción de los asistentes después de los eventos**.
 
 #### Lean UX Assumptions
 - Los organizadores de eventos necesitan herramientas que faciliten la coordinación y gestión de los asistentes en tiempo real
