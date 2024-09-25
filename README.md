@@ -730,9 +730,41 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 | TS4.4               | Integrar notificaciones push        | Como desarrollador, quiero integrar notificaciones push para que los usuarios reciban alertas importantes sin abrir la aplicación. | **Given** la infraestructura actual, **When** implemento notificaciones push, **Then** los usuarios deben recibir notificaciones en tiempo real sobre sus eventos y compras.        | Epic 2                         |
 | TS4.5               | Mejorar la UI para accesibilidad    | Como desarrollador, quiero mejorar la interfaz de usuario para asegurar que sea accesible para usuarios con discapacidades. | **Given** la interfaz actual, **When** implemento mejoras de accesibilidad (como navegación por teclado, texto alternativo), **Then** la aplicación debe ser más usable para todos. | Epic
 
+
+### User Task Matrix
+Para el desarrollo del User Task Matrix, tomaremos en cuenta los segmentos objetivos que hemos identificado: "Organizadores de eventos" y "Asistentes a eventos".
+
+| Task Matrix                                       | Luis Ramos (Frecuencia) | Luis Ramos (Importancia) | David García (Frecuencia) | David García (Importancia) |
+|-------------------------------------------------|---------------------------|---------------------------|----------------------|-----------------------|
+| Explorar Eventos                   | Always                   | High                      | Sometimes            | Medium                |
+| Comprar entradas                   | Never                    | Low                      | Sometimes                | Medium                   |
+| Visualizar entradas adquiridas     | Rarely                   | Low                     | Often              | High                |
+| Visualizar y validar entradas vendidas    | Always                  | High                     | Never              | Low                 |
+| Validar asientos disponibles              | Always                   | High                     | Never                | Low                   |
+| Coordinar la seguridad del evento                 | Always                | High                    | Never              | Low                  |
+| Enviar notificaciones en tiempo real a los asistentes    | Often                    | High                      | Never                | Low                   |
+| Recibir notificaciones interactivas durante el evento    | Never                   | Low                      | Often               | High                  |
+| Recibir notificaciones en tiempo real sobre actualizaciones del evento        | Sometimes                 | High                    | Sometimes            | High              |
+| Analizar datos de asistencia, ventas, interacción y satisfacción después del evento       | Always           | High                | Never                | Low                   |
+| Compartir ubicación a otros asistentes en el evento        | Never                    | Low                      | Often               | High                   |
+| Interactuar con otros asistentes                       | Sometimes                     | Medium                       | Often               | High                  |
+| Personalizar experiencia en el evento               | Never                     | Low                       | Often               | High                  |
+
+Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar eventos", "Recibir notificaciones en tiempo real sobre actualizaciones del evento", "Interactuar con otros asistentes" son tareas que presentan mayor frecuencia e importancia. Así mismo, las principales diferencias que se han podido identificar son que las tareas dirigidas a los organizadores destacan sus necesidades específicas en relación a una buena gestión de sus eventos. Por otro lado, las tareas dirigidas a los asistentes son el producto del buen uso de las herramientas proporcionadas y que buscan mejorar la experiencia de los clientes. Algunas coincidencias que hemos podido identificar son que muchas de estas tareas son consecuentes o apoyan de manera equilibrada a la gestión y experiencia del usuario.
+
+### User Journey Mapping
+aa
+### Empathy Mapping
+aa
+### As-is Scenario Mapping
+aa
+## Ubiquitous Language
+aaa
+
 ## Impact Mapping
 ### Segmento 1: Organizadores de Eventos
 ![Impact Map Organizadores de eventos](https://hackmd.io/_uploads/ryyGeRPhA.png)
+
 
 ### Segmento 2: Asistentes de Eventos
 ![Impact Map Asistentes a eventos](https://hackmd.io/_uploads/HyyjwTv3A.png)
