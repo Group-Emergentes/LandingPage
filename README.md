@@ -573,8 +573,8 @@ Para el desarrollo del User Task Matrix, tomaremos en cuenta los segmentos objet
 | Comprar entradas                   | Never                    | Low                      | Sometimes                | Medium                   |
 | Compartir su ubicación a otros asistentes en el evento        | Usually                    | High                      | Never                | Low                   |
 | Recibir notificaciones en tiempo real sobre actualizaciones del evento                        | Sometimes                 | High                    | Sometimes            | High              |
-| Interactuar con otros asistentes                       | Sometimes                     | Medium                       | Usually               | High                  |
-| Personalizar experiencia en el evento               | Never                     | Low                       | Usually               | High                  |
+| Interactuar con otros asistentes                      | Sometimes                     | Medium                       | Usually               | High                  |
+| Personalizar experiencia en el evento              | Never                     | Low                       | Usually               | High                  |
 
 Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar eventos", "Recibir notificaciones en tiempo real sobre actualizaciones del evento", "Interactuar con otros asistentes" son son tareas que presentan mayor frecuencia e importancia. Así mismo, las principales diferencias que se han podido identificar son que las tareas dirigidas a los organizadores destacan sus necesidades específicas en relación a una buena gestión de sus eventos, por otro lado, las tareas dirigidas a los asistentes son el producto del buen uso de las herramientas proporcionadas y que buscan mejorar la experiencia de los clientes. Algunas coincidencias que hemos podido identificar son que muchas de estas tareas son consecuentes o apoyan de manera equilibrada a la gestión y experiencia del usuario.
 
