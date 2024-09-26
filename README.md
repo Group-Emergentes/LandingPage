@@ -1284,16 +1284,18 @@ https://lucid.app/lucidchart/24487184-3c98-487e-9e18-d0a50505eae5/edit?viewport_
 aa
 ## Domain-Driven Software Architecture
 ### Software Architecture Context Diagram
-![structurizr-94825-SystemContext-001](https://github.com/user-attachments/assets/6d175223-30c4-4834-8596-7c790b541f9b)
-![structurizr-94825-SystemContext-001-key](https://github.com/user-attachments/assets/a5409d2f-f3d3-488f-810f-d9ede8093c78)
+![structurizr-SystemContext-001](https://github.com/user-attachments/assets/c7c2528c-ac92-4f7f-9e37-5fa1eb228944)
+![structurizr-SystemContext-001-key](https://github.com/user-attachments/assets/40f6e6cd-0ee6-4100-98db-70aedbb102e7)
+
 
 ### Software Architecture Container Diagrams
-![structurizr-94827-Container-001](https://github.com/user-attachments/assets/5947ea6c-6c3f-411d-80fe-8e1da4a36125)
-![structurizr-94827-Container-001-key](https://github.com/user-attachments/assets/0a955ba2-d0e8-403c-af0d-beac3d2b428a)
+![structurizr-Container-001](https://github.com/user-attachments/assets/60e02eaa-e027-42a5-8258-8a6072c263d5)
+![structurizr-Container-001-key](https://github.com/user-attachments/assets/1f2ff585-71b1-42ef-8b2d-895e1daa1c0a)
+
 
 ### Software Architecture Components Diagrams
-![structurizr-94832-Component-001](https://github.com/user-attachments/assets/f610fb8c-4137-4441-b254-66e0dc7f5128)
-![structurizr-94832-Component-001-key](https://github.com/user-attachments/assets/7e808879-23f2-43ca-9808-c9a3354be0f4)
+![structurizr-Container-001](https://github.com/user-attachments/assets/8e253a3e-edc0-48b2-85f4-998299d9906f)
+![structurizr-Container-001-key](https://github.com/user-attachments/assets/4af88ae4-68b0-4770-acf0-6ab55cc23345)
 
 
 ## Software Object-Oriented Design
