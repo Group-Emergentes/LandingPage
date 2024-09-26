@@ -1034,11 +1034,46 @@ aaa
 Link Trello: https://trello.com/b/74uBBgC8
 
 # Capítulo IV: Product Design
-## Style Guidelines
+## 
 ### General Style Guidelines
-aaa
+
+Para la tipografía general, tanto de nuestra landing page como el de la aplicación, fueron escogidas dos fuentes.
+
+Se escogió Poppins como tipografía general en nuestra aplicación y landing page debido a que le brinda un poco de creatividad sin perder la seriedad.
+
+![poppins-font](https://github.com/user-attachments/assets/cb1b631d-6162-4a3c-afbe-3f0c5dfc9bc7)
+
+Para los títulos fue escogida la tipografía Playfair Display, esto para contrastar con la fuente general y dar variedad, a su vez que un poco de alegría.
+
+![playfair-diplay-font](https://github.com/user-attachments/assets/cf82605f-14b5-4558-b4e6-1d6ce1e95d6b)
+
+
+Para los colores utilizados decidimos escoger una paleta de colores con tonalidades ligeramente más enfocada a proyectar cierta seriedad con ligeras tonalidades alegres propias del enfoque de nuestro startup.
+
+![color-palette](https://github.com/user-attachments/assets/e6387b27-4a51-4948-b424-559586af9c34)
+
+
+Color Principal: Azul Oscuro (#0F1A2C)
+Este color representa cierta seriedad, como lo puede ser para nuestro caso el ámbito de venta de boletos de eventos. Se utilizará para destacar elementos importantes. 
+
+Color Secundario: Dorado (#F6AC0F)
+Escogimos el dorado como contraste para el color principal el cual, si bien ayuda a brindar un poco más de seriedad, también le brinda un toque más juguetón y alegre. Este será utilizado para los botones de llamada a la acción, así como para los íconos.
+
+Texto: Blanco (#ffffff), Azul oscuro (#0f172a) y Gris azulado (#64748b)
+Se decidió el uso de 3 colores para los textos con la finalidad de darle más variedad y hacer que el texto contraste con los recuadros en los que pueda estar ubicado.
+
+Color Adicional: Gris claro (#F8FAFC)
+Este color se utilizará para contrastar ciertos recuadros y diferenciarlos del color de fondo.
 ### Web Style Guidelines
-aaa
+
+Todas estas decisiones tomadas a continuación forman parte para el óptimo uso de nuestra aplicación por parte del usuario independientemente del tamaño de su pantalla.
+
+**Estándares visuales:** Para los estándares visuales hemos decidido que las imágenes que utilizaremos sean de alta calidad con el objetivo que la visualización sea generalizada sin importar el tamaño de la ventana. A su vez, estas últimas mencionadas deben estar vinculadas al ámbito musical o de eventos. Para ello se emplearán ilustraciones de escenarios, publico en eventos, entre otros. 
+
+**Diseño y Espacio:** En lo que respecta a los espacios y el diseño buscamos que este sea limpio, intuitivo y organizado con el objetivo de mantener el orden de los componentes visuales y que estos se puedan ajustar a las dimensiones de la pantalla. Para lograrlo se deberá aplicar un espaciado adecuado entre los elementos visuales, al igual que los colores establecidos en el General Style Guidelines, predominando principlamente el color azul oscuro.
+
+**Tipografía:** Como se mencionó en el General Style Guidelines, para la tipografía principal de nuestra aplicación se utilizará Poppins por su naturaleza visual creativa y limpia, esto con el objetivo de reducir la sobrecarga visual en nuestra aplicación.
+
 ## Information Architecture
 ### Organization Systems
 **1. Lista de eventos y recursos asociados**
