@@ -1256,7 +1256,29 @@ Mock-ups de la sección eventos
 Enlace a los mockups de la App Web en Figma: https://www.figma.com/design/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=2005-117&t=IFfGNblTCqext4MD-1
 
 ### Web Applications User Flow Diagrams
-aa
+
+User goal, usuario inicia sesion, se registra y recupera su contraseña
+![mockup_sesion](https://github.com/user-attachments/assets/bd8765da-56ae-484b-bb43-5a62240f44c9)
+
+User goal, usuario selecciona categoria, evento y compra
+![mockup_compra](https://github.com/user-attachments/assets/786f35f9-ee3d-4b91-9af9-d37f88c10032)
+
+User goal, usuario agrega metodo de pago
+![metodo_pago](https://github.com/user-attachments/assets/9f7af290-6fdf-4ba0-9951-69e5259eab7c)
+
+User goal, usuario filtra eventos por fecha y categoria
+![filtrar_evento](https://github.com/user-attachments/assets/129230ea-3c32-439c-8a35-5d6f33953edf)
+
+User goal, usuario administrador de eventos publica un evento
+![pubicar_evento](https://github.com/user-attachments/assets/2e401e88-06e7-41a2-b377-b6d7c20d3d0e)
+
+User goal, usuario administrador de eventos edita evento activo
+![editar_evento](https://github.com/user-attachments/assets/a22f6ee4-fff2-4722-b345-2ad3faa9e6b6)
+
+
+Enlaces a los User Flow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/4a6e204f-cc3a-447d-ae14-c70f09ef72f3/edit?viewport_loc=-3934%2C675%2C4020%2C1923%2C0_0&invitationId=inv_b08529c0-01bc-4e00-91d4-151304493c64
+
+https://lucid.app/lucidchart/24487184-3c98-487e-9e18-d0a50505eae5/edit?viewport_loc=-2320%2C-4209%2C7671%2C3669%2C0_0&invitationId=inv_c56b54ec-0d16-4480-8b75-0053d4c7602a
 
 ## Web Applications Prototyping
 aa
