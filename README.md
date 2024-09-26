@@ -959,15 +959,6 @@ Para el desarrollo del User Task Matrix, tomaremos en cuenta los segmentos objet
 
 Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar eventos", "Recibir notificaciones en tiempo real sobre actualizaciones del evento", "Interactuar con otros asistentes" son tareas que presentan mayor frecuencia e importancia. Así mismo, las principales diferencias que se han podido identificar son que las tareas dirigidas a los organizadores destacan sus necesidades específicas en relación a una buena gestión de sus eventos. Por otro lado, las tareas dirigidas a los asistentes son el producto del buen uso de las herramientas proporcionadas y que buscan mejorar la experiencia de los clientes. Algunas coincidencias que hemos podido identificar son que muchas de estas tareas son consecuentes o apoyan de manera equilibrada a la gestión y experiencia del usuario.
 
-### User Journey Mapping
-aa
-### Empathy Mapping
-aa
-### As-is Scenario Mapping
-aa
-## Ubiquitous Language
-aaa
-
 ## Impact Mapping
 ### Segmento 1: Organizadores de Eventos
 ![Impact Map Organizadores de eventos](https://hackmd.io/_uploads/ryyGeRPhA.png)
@@ -1281,7 +1272,17 @@ Enlaces a los User Flow Diagrams en la App Web lucidchart: https://lucid.app/luc
 https://lucid.app/lucidchart/24487184-3c98-487e-9e18-d0a50505eae5/edit?viewport_loc=-2320%2C-4209%2C7671%2C3669%2C0_0&invitationId=inv_c56b54ec-0d16-4480-8b75-0053d4c7602a
 
 ## Web Applications Prototyping
-aa
+
+A continuación se presentan los prototipos de la aplicación web de ArtCollab, los cuales fueron realizados en Figma. Además, se adjunta el enlace al video completo de la presentación del prototipo: https://www.figma.com/proto/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=2005-334&node-type=CANVAS&t=1tSvJdxTxOy9YR1b-1&scaling=min-zoom&content-scaling=fixed&page-id=2005%3A117&starting-point-node-id=2005%3A334
+capturas de referencia:
+![venta1](https://github.com/user-attachments/assets/3e4450ec-c34b-40de-a18a-07cf845c2fa6)
+![reseñas](https://github.com/user-attachments/assets/ab0d4e64-2946-4ddd-8958-846c0fce467c)
+![registro](https://github.com/user-attachments/assets/b0e92510-c8d1-4da0-9ae4-fc2af5febaf4)
+![contraseña](https://github.com/user-attachments/assets/8a884e5b-a5ac-4e82-9a10-03acf76a81b1)
+![compra](https://github.com/user-attachments/assets/e5ebea16-4ff0-4a8a-83ba-3952ec7e6db8)
+![precios](https://github.com/user-attachments/assets/fe548348-3da2-4e51-955a-45c756ef4e7b)
+![compra_finalizada](https://github.com/user-attachments/assets/d596f6d3-8794-41c6-bae8-b8321ff3297e)
+
 ## Domain-Driven Software Architecture
 ### Software Architecture Context Diagram
 ![structurizr-SystemContext-001](https://github.com/user-attachments/assets/c7c2528c-ac92-4f7f-9e37-5fa1eb228944)
