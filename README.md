@@ -532,14 +532,95 @@ En cuanto a innovaciones, desea ver una mayor integración de realidad aumentada
 | **Resumen:** Diana, es una estudiante universitaria y asiste a eventos con fines académicos y recreativos, aproximadamente tres veces al mes. Para ella, la seguridad en los eventos es una prioridad, así como el control de la contaminación sonora; prefiere que la música se ajuste al tipo de evento al que asiste. Ella compra sus entradas a través de redes sociales, utilizando códigos QR o flyers de las organizaciones. Generalmente, usa su computadora para realizar las compras y su celular para adquirir las entradas. Le gustaría poder compartir su ubicación con amigos para mejorar la seguridad y considera muy importante recibir notificaciones sobre la llegada de sus amigos y cualquier cambio en la programación de los eventos. Diana organiza sus actividades y eventos usando Google Calendar. En el futuro, le gustaría que el ingreso a los eventos se realice mediante el escaneo de QR para agilizar el proceso y fomentar el uso de dinero digital. Ella tambien cree que los procesos de los eventos serán más automatizados y que la inteligencia artificial tendrá un papel relevante en la monitorización y gestión de los eventos. |
 
 ## Análisis de entrevistas
-Al analizar las entrevistas pone de manifiesto que tanto organizadores como asistentes tienen expectativas elevadas en cuanto a la organización de eventos. Los organizadores necesitan herramientas que faciliten la gestión de proveedores y la venta de entradas, mientras que los asistentes buscan experiencias más seguras y eficientes. La integración de tecnologías innovadoras y la mejora en la comunicación y coordinación entre proveedores son aspectos clave que podrían elevar la calidad de los eventos en el futuro. 
-### Organizadores de Eventos
+
+# Análisis coordinador de eventos
+
+## Análisis de la Entrevista
+
+### Contexto General
+Los entrevistados del segmento objetivo organizador de eventos residen en Perú y tienen experiencia en la coordinación de eventos, aunque con diferencias notables en edad y trayectoria. Sergio es un estudiante con un enfoque más académico y técnico, mientras que el otro organizador tiene una década de experiencia y es propietario de su propia empresa.
+
+### Fortalezas
+1. **Experiencia Diversificada:**
+   - Los entrevistados muestran experiencia en la gestión de eventos, desde conferencias hasta conciertos, lo que sugiere un entendimiento amplio de las dinámicas del sector.
+
+2. **Compromiso y Entusiasmo:**
+   - Se describen como entusiastas y comprometidos, lo cual es fundamental para el éxito en un campo que requiere dedicación y pasión.
+
+3. **Uso de Tecnología:**
+   - El uso de herramientas como Eventbrite y Trello en el segundo entrevistado refleja una tendencia hacia la adopción de soluciones tecnológicas, un aspecto crítico para la optimización de procesos en la organización de eventos.
+
+### Desafíos Comunes
+1. **Coordinación con Proveedores:**
+   - Los entrevistados mencionan la dificultad de gestionar múltiples proveedores, lo que puede generar retrasos y complicaciones logísticas.
+
+2. **Inconvenientes Técnicos:**
+   - Ellos destacan problemas con plataformas de venta de entradas, sugiriendo que las herramientas actuales no son satisfactorias, un desafío que también enfrenta el otro entrevistado al mencionar herramientas ineficaces.
+
+3. **Logística y Comunicación:**
+   - La gestión de multitudes y la comunicación en tiempo real son puntos críticos que requieren soluciones efectivas para garantizar la satisfacción del asistente y la fluidez del evento.
+
+### Intereses y Aspiraciones
+1. **Deseo de Innovación:**
+   - Tienen interés en herramientas que integren análisis de eventos y promoción en redes sociales, indicando una necesidad de mejorar la experiencia de gestión y de interactuar mejor con el público.
+
+2. **Eventos Interactivos:**
+   - Sueñan con un futuro de eventos más interactivos, lo que refleja una visión progresista y la necesidad de evolucionar en un sector que se basa cada vez más en la experiencia del usuario.
+
+### Conclusiones
+Los entrevistados comparten desafíos similares en la coordinación de eventos, lo que sugiere una necesidad en el mercado por herramientas más eficientes y adaptadas a las realidades del sector. La capacidad de adaptación y la innovación son cruciales para su éxito. La integración de tecnología avanzada, como la realidad aumentada, puede transformar la forma en que se diseñan y ejecutan los eventos, mejorando tanto la experiencia del organizador como la del asistente. La búsqueda de soluciones que ofrezcan comunicación en tiempo real y análisis de datos será fundamental para la evolución de la industria de eventos.
+
+
 | Necesidades/Desafíos                | Porcentaje de Mención (%) |
 |-------------------------------------|---------------------------|
 | Coordinación con Proveedores        | ██████████████████████ 40% |
 | Herramientas para Gestión de Entradas| ████████████████ 30%      |
 | Análisis y Reporte de Eventos      | ██████████ 20%            |
 | Integración con Redes Sociales      | ██████ 10%                 |
+
+
+---
+
+# Análisis asistente de eventos
+
+## Análisis de la Entrevista: Asistentes a Eventos
+
+### Contexto General
+Los entrevistados son jóvenes que asisten regularmente a eventos, destacando su interés en la organización, la seguridad y la experiencia general. Residen en áreas urbanas de Lima y utilizan principalmente plataformas digitales para la compra de entradas y la organización de su vida social.
+
+### Fortalezas Comunes
+1. **Preferencia por la Tecnología:**
+   - Los entrevistados prefieren adquirir entradas a través de plataformas digitales, lo que refleja una tendencia hacia la digitalización en la experiencia de asistir a eventos. Utilizan dispositivos móviles y laptops, lo que indica un enfoque práctico y accesible.
+
+2. **Valoración de la Organización:**
+   - La buena organización es un elemento clave para una experiencia positiva en los eventos. Esto incluye desde el acceso hasta la culminación del mismo, sugiriendo que los organizadores deben prestar atención a cada detalle logístico.
+
+3. **Deseo de Innovación:**
+   - Todos comparten un interés por tecnologías emergentes como la realidad aumentada y la inteligencia artificial, lo que sugiere que los asistentes buscan experiencias más personalizadas y eficientes en el futuro.
+
+### Desafíos Comunes
+1. **Problemas de Accesibilidad y Seguridad:**
+   - Los asistentes mencionan largas filas y problemas de seguridad como obstáculos recurrentes. Esto pone de manifiesto la necesidad de que los organizadores implementen soluciones para agilizar el acceso y garantizar la seguridad de los asistentes.
+
+2. **Notificaciones y Comunicación:**
+   - Existe un consenso sobre la importancia de recibir notificaciones en tiempo real sobre cambios en los eventos y la llegada de amigos, lo que indica que la comunicación efectiva es fundamental para una experiencia satisfactoria.
+
+3. **Fraude y Reventa de Entradas:**
+   - Ellos destacan su preocupación por la falsificación y reventa de boletos, lo que subraya la necesidad de mecanismos más robustos de control y validación en la venta de entradas.
+
+### Intereses y Aspiraciones
+1. **Interacción Social Mejorada:**
+   - La capacidad de compartir ubicación con amigos durante los eventos se menciona varias veces, lo que refleja un deseo de mejorar la experiencia social y de seguridad en los eventos.
+
+2. **Preferencias por la Música y el Ambiente:**
+   - Subrayan la importancia del tipo de música en relación con el evento, sugiriendo que los asistentes valoran la adecuación del ambiente a la temática del evento.
+
+3. **Automatización y Digitalización:**
+   - La aspiración hacia procesos más automatizados y el uso de tecnologías como el escaneo de códigos QR para el ingreso a eventos indica una tendencia hacia la optimización y la eficiencia en la gestión de la asistencia.
+
+### Conclusiones
+Los asistentes a eventos buscan experiencias que sean no solo bien organizadas, sino también enriquecidas con tecnología que mejore la seguridad y la interacción social. La implementación de sistemas de notificación, mejoras en la seguridad y la integración de nuevas tecnologías son esenciales para satisfacer sus expectativas. Los organizadores de eventos deben adaptarse a estas demandas para ofrecer experiencias memorables y efectivas, garantizando la satisfacción del público y optimizando la logística de los eventos.
+
 
 ### Asistentes a Eventos
 | Expectativas/Preferencias           | Porcentaje de Mención (%) |
