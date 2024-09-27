@@ -970,34 +970,130 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 ![Impact Map Asistentes a eventos](https://hackmd.io/_uploads/HyyjwTv3A.png)
 
 ## Product Backlog
-### Segmento 1: Organizadores de Eventos
-| **# Orden** | **User Story Id**                       | **Título**                         | **Descripción**                                                                 | **Story Points (1 / 2 / 3 / 5 / 8)** |
-|-----------|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------|------------------|
-| 1         | US1.1                            | Crear evento                | Como organizador, quiero crear un nuevo evento para gestionarlo en la plataforma. | 1                |
-| 2         | US1.2                           | Editar evento	      | Como organizador, quiero editar la información de un evento existente para mantener los detalles actualizados. | 2                |
-| 3         | US1.3                            | Eliminar evento         | Como organizador, quiero eliminar un evento para no mostrarlo más en la plataforma. | 2                |
-| 4         | US1.4                            | Publicar evento                      | Como organizador, quiero publicar un evento para que sea visible para los asistentes y puedan comprar entradas. | 2                |
-| 5         | US1.5                           | Visualizar estadísticas de un evento    | Como organizador, quiero ver las estadísticas de un evento para evaluar su rendimiento. | 5                |
-| 6         | US2.1                            | Crear tipos de entrada             | Como organizador, quiero crear diferentes tipos de entradas para ofrecer varias opciones a los asistentes. | 3                |
-| 7         | US2.2                            | Configurar precios de entradas            | Como organizador, quiero configurar los precios de las entradas para maximizar mis ingresos. | 3                |
-| 8         | US2.3                            | Gestionar promociones      | Como organizador, quiero crear promociones para incentivar la compra de entradas. | 3                |
-| 9         | US2.4                           | Controlar el acceso al evento    | Como organizador, quiero controlar el acceso al evento mediante códigos QR para mejorar la seguridad. | 5                |
-| 10        | US2.5                           | Visualizar lista de asistentes | Como organizador, quiero ver una lista de asistentes para controlar quién ha comprado entradas. | 2                |
 
-### Segmento 2: Asistentes de Eventos
-
-| **# Orden** | **User Story Id**                       | **Título**                         | **Descripción**                                                                 | **Story Points (1 / 2 / 3 / 5 / 8)** |
+| **# Orden** | **User Story Id** | **Título**  | **Descripción** | **Story Points (1 / 2 / 3 / 5 / 8)** |
 |-----------|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------|------------------|
-| 1         | US1.1                            | Compartir ubicación                | Como asistente, quiero compartir mi ubicación con amigos para encontrarnos fácilmente en el evento. | 2                |
-| 2         | US1.2                           | Ver ubicación de amigos	      | Como asistente, quiero ver la ubicación de mis amigos en el evento para encontrarlos más fácilmente. | 2                |
-| 3         | US1.3                            | Enviar notificación de llegada         | Como asistente, quiero enviar una notificación a mis amigos cuando llegue al evento. | 1                |
-| 4         | US1.4                            | Chatear con otros asistentes                      | Como asistente, quiero chatear con otros asistentes para coordinar actividades dentro del evento. | 3                |
-| 5         | US1.5                           | Crear grupo de amigos    | Como asistente, quiero crear un grupo de amigos en la aplicación para compartir información y coordinarnos mejor. | 3                |
-| 6         | US2.1                            | Buscar eventos             | Como asistente, quiero buscar eventos cercanos para decidir a cuál asistir. | 1                |
-| 7         | US2.2                            | Comprar entradas            | Como asistente, quiero comprar entradas para un evento directamente desde la aplicación. | 1                |
-| 8         | US2.3                            | Aplicar promociones      | Como asistente, quiero aplicar promociones a mis compras para ahorrar dinero. | 2                |
-| 9         | US2.4                           | Recibir notificaciones del evento    | Como asistente, quiero recibir notificaciones importantes del evento para estar informado en tiempo real. | 1                |
-| 10        | US2.5                           | Dejar reseña del evento | Como asistente, quiero dejar una reseña del evento para compartir mi experiencia con otros usuarios. | 2                |
+| 1 | US001 | Creación de evento | Como organizador, quiero crear un evento especificando nombre, fecha, lugar, descripción y categorías para tener todo centralizado. | 1 |
+| 2 | US002 | Edición de Evento	 | Como organizador, quiero poder editar la información de un evento para actualizar detalles antes de su inicio. | 2 |
+| 3 | US003 | Eliminación de Evento | Como organizador, quiero poder eliminar un evento para cancelar eventos que no se realizarán. | 2 |
+| 4 | US004 | Configuración de Entradas | Como organizador, quiero poder configurar la cantidad y tipos de entradas (general, VIP, etc.) para el evento. | 2 |
+| 5 | US005 | Definición de Precios | Como organizador, quiero poder definir los precios de las entradas para gestionar la venta de boletos de diferentes categorías. | 2 |
+| 6 | US006 | Agregar Descuento a Entradas | Como organizador, quiero poder agregar descuentos a las entradas para promocionar el evento. | 3 |
+| 7 | US007 | Gestionar Entradas Disponibles | Como organizador, quiero poder limitar la cantidad de entradas disponibles para garantizar la capacidad del evento. | 3 |
+| 8 | US008 | Configurar Política de Cancelación | Como organizador, quiero poder definir políticas de cancelación para los asistentes que no puedan asistir al evento. | 5 |
+| 9 | US009 | Agregar Categorías a Eventos | Como organizador, quiero asignar categorías específicas a mis eventos para que los asistentes puedan filtrarlos fácilmente. | 2 |
+| 10 | US010 | Duplicar Evento Existente | Como organizador, quiero poder duplicar un evento existente para crear eventos similares de manera rápida. | 3 |
+| 11 | US011 | Ver Historial de Eventos | Como organizador, quiero poder ver un historial de eventos anteriores para gestionar futuros eventos con base en la experiencia pasada. | 3 |
+| 12 | US012 | Gestionar Permisos de Miembros | Como organizador, quiero poder asignar permisos a miembros del equipo para delegar responsabilidades de gestión de eventos. | 5 |
+| 13 | US013 | Agregar Miembros al Evento | Como organizador, quiero poder agregar miembros de mi equipo al evento para gestionar diferentes aspectos del mismo. | 3 |
+| 14 | US014 | Definir Horarios del Evento | Como organizador, quiero poder definir los horarios de cada actividad dentro del evento para una mejor organización. | 3 |
+| 15 | US015 | Agregar Localización del Evento | Como organizador, quiero agregar la localización física del evento para que los asistentes puedan llegar fácilmente. | 5 |
+| 16 | US016 | Importar Invitados desde Excel | Como organizador, quiero poder importar listas de invitados desde un archivo Excel para simplificar la gestión de la lista de asistentes. | 5 |
+| 17 | US017 | Gestionar Lista de Espera | Como organizador, quiero habilitar una lista de espera para eventos que ya tienen todas las entradas vendidas. | 3 |
+| 18 | US018 | Verificar Asistencia | Como organizador, quiero verificar la asistencia en tiempo real para tener control sobre el número de asistentes presentes en el evento. | 3 |
+| 19 | US019 | Generar Reportes de Asistencia | Como organizador, quiero generar un reporte de asistencia al finalizar el evento para analizar la cantidad de personas que asistieron. | 5 |
+| 20 | US020 | Recibir Notificaciones de Errores | Como organizador, quiero recibir notificaciones automáticas de errores o problemas técnicos durante la venta de entradas o el evento. | 2 |
+| 21 | US021 | Configurar Entradas para Grupos | Como organizador, quiero poder vender entradas en bloque para grupos de personas, facilitando la compra en conjunto. | 2 |
+| 22 | US022 | Asignar Responsables por Área | Como organizador, quiero asignar responsables para áreas específicas del evento, como sonido, iluminación, etc. | 3 |
+| 23 | US023 | Crear Formularios de Registro | Como organizador, quiero crear formularios personalizados para registrar a los asistentes en el evento con datos adicionales como preferencias, restricciones alimenticias, etc. | 5 |
+| 24 | US024 | Configurar Patrocinios del Evento | Como organizador, quiero poder configurar patrocinadores y exhibir su información en la página del evento. | 8 |
+| 25 | US025 | Agregar Documento de Políticas del Evento | Como organizador, quiero subir un documento con las políticas del evento para que los asistentes lo revisen antes de comprar entradas. | 5 |
+| 26 | US026 | Enviar Encuesta de Satisfacción | Como organizador, quiero enviar encuestas automáticas después del evento para recibir feedback de los asistentes. | 2 |
+| 27 | US027 | Ver Análisis de Resultados de Encuesta | Como organizador, quiero ver el análisis de los resultados de las encuestas de satisfacción para mejorar futuros eventos. | 5 |
+| 28 | US028 | Agregar Sesiones Paralelas | Como organizador, quiero poder configurar varias sesiones paralelas dentro del evento para dar a los asistentes opciones variadas. | 5 |
+| 29 | US029 | Publicar Agenda del Evento | Como organizador, quiero poder publicar la agenda completa del evento para que los asistentes conozcan todas las actividades. | 2 |
+| 30 | US030 | Generar Código QR para Entradas | Como organizador, quiero que el sistema genere un código QR para las entradas de los asistentes para facilitar su acceso al evento. | 5 |
+| 31 | US031 | Revisar Estado de la Venta de Entradas | Como organizador, quiero poder revisar el estado de la venta de entradas en tiempo real para monitorear cuántas entradas han sido vendidas. | 3 |
+| 32 | US032 | Notificar al Organizador de Ventas Agotadas | Como organizador, quiero recibir una notificación cuando todas las entradas para mi evento se agoten. | 2 |
+| 33 | US033 | Crear Código Promocional | Como organizador, quiero crear códigos promocionales para que los asistentes puedan acceder a descuentos exclusivos. | 5 |
+| 34 | US034 | Agregar Mapa del Lugar del Evento | Como organizador, quiero poder agregar un mapa del lugar del evento para que los asistentes puedan orientarse fácilmente. | 5 |
+| 35 | US035 | Ver Detalle de Transacciones de Entradas | Como organizador, quiero poder ver el detalle de todas las transacciones realizadas para la compra de entradas. | 3 |
+| 36 | US036 | 	Configurar Roles para el Evento | Como organizador, quiero poder configurar diferentes roles para los miembros del equipo y asignarles responsabilidades específicas. | 3 |
+| 37 | US037 | Habilitar Encuentros Virtuales | Como organizador, quiero habilitar opciones para que los asistentes puedan tener encuentros virtuales dentro del evento. | 8 |
+| 38 | US038 | Solicitar Colaboradores para el Evento | Como organizador, quiero poder buscar y solicitar colaboradores voluntarios para el evento para cubrir diversas áreas operativas. | 5 |
+| 39 | US039 | Ver Resumen Financiero del Evento | Como organizador, quiero ver un resumen financiero del evento para entender las ganancias y costos involucrados. | 8 |
+| 40 | US040 | Automatizar Recordatorios de Evento | Como organizador, quiero automatizar el envío de recordatorios para que los asistentes reciban notificaciones antes del evento. | 3 |
+| 41 | US041 | Registro de Participantes | Como asistente, quiero registrarme para un evento proporcionando mis datos personales. | 2 |
+| 42 | US042 | Confirmación de Participación | Como organizador, quiero enviar confirmaciones automáticas a los participantes después de su registro exitoso. | 2 |
+| 43 | US043 | Ver Lista de Participantes | Como organizador, quiero ver la lista completa de participantes inscritos para hacer seguimiento. | 2 |
+| 44 | US044 | Filtrar Participantes por Categoría | Como organizador, quiero poder filtrar la lista de participantes por categorías como VIP, Regular, o Estudiante. | 3 |
+| 45 | US045 | Enviar Invitaciones a Participantes | Como organizador, quiero enviar invitaciones por correo electrónico a potenciales participantes. | 3 |
+| 46 | US046 | Importar Participantes desde Excel | Como organizador, quiero importar una lista de participantes desde un archivo Excel. | 5 |
+| 47 | US047 | Exportar Lista de Participantes | Como organizador, quiero exportar la lista de participantes a un archivo CSV. | 5 |
+| 48 | US048 | Crear Lista de Participantes VIP | Como organizador, quiero poder crear una lista de participantes VIP para ofrecerles servicios exclusivos. | 3 |
+| 49 | US049 | Configurar Perfiles de Participantes | Como asistente, quiero configurar mi perfil en la plataforma para actualizar mis datos y preferencias. | 3 |
+| 50 | US050 | Ver Perfiles de Otros Participantes | Como asistente, quiero ver los perfiles de otros participantes para conocer más sobre ellos. | 3 |
+| 51 | US051 | Enviar Mensajes a Participantes | Como asistente, quiero enviar mensajes a otros participantes para coordinar reuniones o discutir temas. | 2 |
+| 52 | US052 | Crear Grupos de Participantes | Como organizador, quiero crear grupos de participantes para organizar mejor las actividades. | 3 |
+| 53 | US053 | Asignar Participantes a Sesiones | Como organizador, quiero asignar participantes a sesiones específicas para organizar su participación. | 5 |
+| 54 | US054 | Ver Historial de Participación | Como organizador, quiero ver el historial de participación de los asistentes en eventos anteriores. | 5 |
+| 55 | US055 | Solicitar Retroalimentación de Participantes | Como organizador, quiero enviar solicitudes de retroalimentación a los participantes después del evento. | 5 |
+| 56 | US056 | Notificar Cambios en el Evento | Como organizador, quiero notificar a los participantes cualquier cambio en el evento. | 2 |
+| 57 | US057 | Habilitar Cancelación de Participación | Como asistente, quiero poder cancelar mi participación si no puedo asistir. | 3 |
+| 58 | US058 | Reasignar Cupos de Participación | Como organizador, quiero reasignar los cupos de los participantes que cancelaron. | 3 |
+| 59 | US059 | Enviar Recordatorios de Participación | Como organizador, quiero enviar recordatorios automáticos a los participantes para que no olviden asistir. | 2 |
+| 60 | US060 | Confirmar Asistencia al Evento | Como asistente, quiero confirmar mi asistencia al evento para asegurar mi lugar. | 3 |
+| 61 | US061 | Ver Detalles de Mi Participación | Como asistente, quiero ver los detalles de mi participación, como la hora y lugar del evento. | 2 |
+| 62 | US062 | Enviar Notificación de Sesiones Disponibles | Como organizador, quiero notificar a los participantes cuando una nueva sesión esté disponible. | 2 |
+| 63 | US063 | Integrar Redes Sociales de Participantes | Como asistente, quiero vincular mis redes sociales a mi perfil en la plataforma. | 3 |
+| 64 | US064 | Enviar Encuestas de Preferencias | Como organizador, quiero enviar encuestas de preferencias a los participantes antes del evento. | 5 |
+| 65 | US065 | Ver Análisis de Preferencias | Como organizador, quiero ver un análisis de las preferencias de los participantes para ajustar las actividades. | 8 |
+| 66 | US066 | Habilitar Auto-Check-in para Participantes | Como asistente, quiero hacer auto-check-in en el evento para evitar colas largas. | 8 |
+| 67 | US067 | Ver Actividades Asignadas | Como asistente, quiero ver las actividades y sesiones a las que estoy asignado. | 5 |
+| 68 | US068 | Recibir Notificación de Cambios en Sesiones | Como asistente, quiero recibir notificaciones cuando cambien las sesiones a las que estoy inscrito. | 2 |
+| 69 | US069 | Solicitar Participación en Paneles | Como asistente, quiero solicitar participación en paneles de discusión durante el evento. | 3 |
+| 70 | US070 | Ver Estadísticas de Participación | Como organizador, quiero ver estadísticas sobre la participación en el evento para evaluar su éxito. | 8 |
+| 71 | US071 | Crear Espacios de Networking | Como organizador, quiero crear espacios de networking dentro del evento. | 5 |
+| 72 | US072 | Habilitar Video Mensajes de Participantes | Como asistente, quiero poder enviar video mensajes a otros participantes para una comunicación más interactiva. | 5 |
+| 73 | US073 | Compartir Archivos con Participantes | Como asistente, quiero compartir archivos con otros participantes para colaborar en proyectos. | 3 |
+| 74 | US074 | Crear Sala de Chat para Participantes | Como organizador, quiero habilitar una sala de chat para discutir temas relevantes. | 5 |
+| 75 | US075 | Habilitar Matchmaking entre Participantes | Como organizador, quiero habilitar una función de matchmaking para conectar participantes. | 8 |
+| 76 | US076 | Recibir Propuestas de Participantes | Como organizador, quiero recibir propuestas de ideas o temas de discusión para el evento. | 5 |
+| 77 | US077 | Habilitar Seguimiento en Redes Sociales | Como organizador, quiero habilitar el seguimiento de la actividad de los participantes en redes sociales. | 3 |
+| 78 | US078 | Configurar Encuentros Privados | Como asistente, quiero configurar encuentros privados con otros participantes. | 5 |
+| 79 | US079 | Enviar Invitaciones a Participantes VIP | Como organizador, quiero enviar invitaciones exclusivas a participantes VIP. | 5 |
+| 80 | US080 | Recolectar Datos Demográficos de Participantes | Como organizador, quiero recolectar datos demográficos de los participantes para personalizar la experiencia. | 8 |
+| 81 | US081 | Crear Tipos de Entradas | Como organizador, quiero crear diferentes tipos de entradas (General, VIP, etc.) para diversificar la oferta de acceso al evento. | 2 |
+| 82 | US082 | Habilitar Venta de Entradas Online | Como asistente, quiero comprar entradas para el evento de manera online para asegurar mi acceso con antelación. | 2 |
+| 83 | US083 | Integrar Métodos de Pago | Como organizador, quiero integrar múltiples métodos de pago (tarjeta de crédito, PayPal, etc.) para facilitar las transacciones de los asistentes. | 8 |
+| 84 | US084 | Habilitar Promociones y Descuentos | Como organizador, quiero habilitar promociones y descuentos especiales en la compra de entradas para atraer más asistentes. | 5 |
+| 85 | US085 | Verificar Disponibilidad de Entradas | Como asistente, quiero verificar la disponibilidad de entradas antes de proceder con la compra para asegurarme de que haya cupos. | 3 |
+| 86 | US086 | Recibir Factura Electrónica | Como asistente, quiero recibir una factura electrónica después de comprar una entrada para tener un comprobante de pago. | 8 |
+| 87 | US087 | Habilitar Devoluciones de Entradas | Como asistente, quiero solicitar la devolución de mi entrada si no puedo asistir al evento, sujeto a las políticas del organizador. | 8 |
+| 88 | US088 | Gestionar Patrocinios | Como organizador, quiero gestionar patrocinios para obtener apoyo financiero y visibilidad de marcas en el evento. | 5 |
+| 89 | US089 | Enviar Invitaciones Exclusivas a Patrocinadores | Como organizador, quiero enviar invitaciones especiales a patrocinadores clave para asegurar su participación en el evento. | 5 |
+| 90 | US090 | Habilitar Entrada Gratuita para Invitados Especiales | Como organizador, quiero habilitar entradas gratuitas para invitados especiales como conferencistas o VIPs para facilitar su acceso al evento. | 8 |
+| 91 | US091 | Crear Paquetes de Entradas | Como organizador, quiero crear paquetes de entradas que incluyan beneficios adicionales (acceso a eventos especiales, merchandise, etc.) para ofrecer más valor a los asistentes. | 8 |
+| 92 | US092 | Limitar la Venta de Entradas | Como organizador, quiero limitar el número de entradas por usuario para evitar que alguien compre demasiadas entradas y agote el inventario. | 5 |
+| 93 | US093 | Verificar Edad para Entradas con Restricción | Como asistente, quiero verificar mi edad al comprar una entrada para eventos con restricciones de edad, para cumplir con los requisitos legales. | 5 |
+| 94 | US094 | Ofrecer Beneficios Exclusivos para VIPs | Como organizador, quiero ofrecer beneficios exclusivos a los asistentes con entradas VIP para brindarles una experiencia diferenciada. | 8 |
+| 95 | US095 | Crear Cupones de Descuento | Como organizador, quiero generar cupones de descuento que los asistentes puedan usar al comprar entradas para aumentar las ventas. | 5 |
+| 96 | US096 | Aplicar Tarifas por Servicio | Como organizador, quiero aplicar tarifas por servicio en la compra de entradas para cubrir los costos operativos y administrativos del evento. | 8 |
+| 97 | US097 | Habilitar Venta de Productos de Merchandise | Como organizador, quiero vender productos de merchandise del evento (camisetas, tazas, etc.) para generar ingresos adicionales. | 8 |
+| 98 | US098 | Habilitar Venta de Entradas Grupales | Como asistente, quiero comprar entradas grupales para mí y mis amigos para asistir juntos al evento con descuento. | 5 |
+| 99 | US099 | Ver Reportes de Ventas en Tiempo Real | Como organizador, quiero ver reportes de ventas de entradas en tiempo real para monitorear el progreso de las ventas antes del evento. | 8 |
+| 100 | US100 | Ofrecer Entradas para Eventos Híbridos | Como organizador, quiero vender entradas para eventos híbridos (presenciales y online) para atraer tanto a asistentes locales como remotos. | 5 |
+| 101 | US101 | Crear Niveles de Patrocinio | Como organizador, quiero crear diferentes niveles de patrocinio (platino, oro, plata) para ofrecer opciones según el presupuesto del patrocinador. | 8 |
+| 102 | US102 | Habilitar Ventas Flash | Como organizador, quiero habilitar ventas flash de entradas con descuentos por tiempo limitado para incrementar las ventas rápidamente. | 5 |
+| 103 | US103 | Verificar Identidad al Comprar Entradas | Como asistente, quiero verificar mi identidad al comprar entradas para evitar el fraude y asegurarme de que solo yo pueda usarla. | 5 |
+| 104 | US104 | Enviar Recordatorios de Eventos | Como asistente, quiero recibir recordatorios por correo electrónico o mensaje antes del evento para no olvidarlo. | 2 |
+| 105 | US105 | Personalizar Experiencia de Compra | Como asistente, quiero personalizar mi experiencia de compra eligiendo preferencias de asiento y opciones adicionales. | 5 |
+| 106 | US106 | Integrar Redes Sociales para Compartir | Como asistente, quiero integrar redes sociales para compartir mi participación en el evento y fomentar el marketing viral. | 5 |
+| 107 | US107 | Ofrecer Entradas para Diferentes Fechas | Como organizador, quiero ofrecer entradas para diferentes fechas del evento para que los asistentes puedan elegir la que más les convenga. | 5 |
+| 108 | US108 | Habilitar Entrada para Accesibilidad | Como asistente con necesidades especiales, quiero que se habiliten entradas para accesibilidad para asegurar que pueda asistir cómodamente. | 8 |
+| 109 | US109 | Ofrecer Entradas Tempranas | Como organizador, quiero ofrecer entradas tempranas con descuentos para incentivar la compra anticipada. | 8 |
+| 110 | US110 | Habilitar Suscripciones a Eventos | Como asistente, quiero suscribirme a una serie de eventos o a un paquete de eventos para obtener descuentos y asegurar mi asistencia. | 8 |
+| 111 | US111 | Permitir Selección de Asientos | Como asistente, quiero seleccionar mis asientos en el evento para tener una vista preferida. | 5 |
+| 112 | US112 | Implementar Lista de Espera para Entradas | Como asistente, quiero estar en una lista de espera para entradas si el evento se agota, para poder comprar en caso de cancelaciones. | 5 |
+| 113 | US113 | Ofrecer Entradas VIP con Beneficios Especiales | Como organizador, quiero ofrecer entradas VIP que incluyan beneficios especiales como acceso a áreas exclusivas o encuentros con los artistas. | 5 |
+| 114 | US114 | Habilitar Compra de Entradas con Cripto | Como organizador, quiero habilitar la compra de entradas utilizando criptomonedas para ofrecer más opciones de pago. | 8 |
+| 115 | US115 | Ofrecer Entradas con Paquete de Comida | Como organizador, quiero ofrecer paquetes de entradas que incluyan comida para brindar una experiencia completa en el evento. | 8 |
+| 116 | US116 | Implementar Sistema de Puntos de Lealtad | Como asistente frecuente, quiero acumular puntos de lealtad por mis compras para canjearlos en futuras entradas. | 5 |
+| 117 | US117 | Habilitar Venta de Entradas en Eventos Relacionados | Como asistente, quiero comprar entradas para eventos relacionados en un solo proceso para facilitar la compra de paquetes. | 5 |
+| 118 | US118 | 	Ofrecer Entrada Premium con Servicios Adicionales | Como organizador, quiero ofrecer entradas premium que incluyan servicios adicionales como estacionamiento VIP o acceso rápido. | 8 |
+| 119 | US119 | Implementar Registro de Asistencia | Como organizador, quiero registrar la asistencia al evento para gestionar el flujo de personas y seguridad. | 5 |
+| 120 | US120 | Crear Sistema de Evaluación Post-Evento | Como organizador, quiero un sistema para recoger y analizar la retroalimentación de los asistentes después del evento. | 8 |
+
 
 ### Technical Stories
 
