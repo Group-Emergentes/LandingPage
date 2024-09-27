@@ -177,68 +177,143 @@ NetVision es una startup innovadora enfocada en desarrollar soluciones tecnológ
 
 ### Antecedentes y Problemática
 
-**Antecedentes:**
+### Antecedentes
 
-En los últimos años, la industria de los eventos ha experimentado un crecimiento significativo, impulsado por la creciente demanda de experiencias sociales y de entretenimiento. Sin embargo, la organización y gestión de eventos, especialmente en entornos como discotecas y festivales, sigue siendo un desafío. Los organizadores enfrentan problemas como la venta eficiente de entradas, la gestión de multitudes, y la mejora de la experiencia del usuario. Por otro lado, los asistentes buscan una mayor comodidad y personalización en la manera en que interactúan con los eventos. La falta de herramientas integradas que aborden estas necesidades ha dejado un vacío en el mercado, que NetVision busca llenar con Eventify.
+En los últimos años, la industria de eventos ha experimentado un crecimiento considerable debido al aumento de la demanda de experiencias sociales, culturales y de entretenimiento. Discotecas, festivales y otros eventos masivos han crecido en popularidad, creando oportunidades significativas para los organizadores. Sin embargo, este crecimiento también ha expuesto desafíos clave en la organización, gestión y optimización de eventos.
 
-**Problemática:**
+**Organizadores** de eventos enfrentan dificultades en varios frentes, como la venta eficiente de entradas, la logística en tiempo real, y la mejora de la experiencia de los asistentes. Al mismo tiempo, **los asistentes** tienen expectativas más altas en cuanto a personalización, interacción social y comodidad al asistir a estos eventos. Actualmente, no existen soluciones que aborden de manera integral estas necesidades tanto para organizadores como para asistentes, dejando un vacío en el mercado que **NetVision**, con su plataforma **Eventify**, está lista para llenar.
 
-A pesar de la creciente demanda de eventos y experiencias sociales, la industria enfrenta varios desafíos que limitan la eficiencia y la satisfacción tanto de los organizadores como de los asistentes. A continuación, se describen los principales problemas identificados utilizando la técnica de las 5 W’s y 2 H’s:
+### Problemática
 
-- **Who (Quién):**  
-  - **Organizadores de eventos**: Necesitan una manera más eficiente de gestionar la venta de entradas, la organización y la experiencia del usuario.
-  - **Asistentes a eventos**: Buscan formas más sencillas y seguras de interactuar con otros asistentes y recibir información relevante en tiempo real.
+A pesar de la creciente popularidad de los eventos sociales, la industria aún se enfrenta a varios problemas que impiden la eficiencia operativa de los organizadores y la satisfacción de los asistentes. Utilizando el análisis de las **5 W’s y 2 H’s**, se han identificado los principales problemas:
 
-- **What (Qué):**  
-  - **Organización y Venta de Eventos**: Existe una necesidad de agilizar el proceso de creación, promoción, y venta de entradas para eventos.
-  - **Interacción en Eventos**: Los asistentes requieren herramientas que les permitan compartir su ubicación y estar informados sobre la presencia de amigos o conocidos en los eventos.
+#### Who (Quién):
+- **Organizadores de eventos**: Empresas y particulares que gestionan eventos masivos como festivales y discotecas. Necesitan una manera más eficiente y centralizada de gestionar la venta de entradas, organizar la logística, y mejorar la experiencia de los asistentes.
+- **Asistentes a eventos**: Personas que buscan participar en eventos sociales de manera segura, cómoda y personalizada, interactuando con otros asistentes y accediendo a información relevante en tiempo real.
 
-- **Where (Dónde):**  
-  - **Entornos de entretenimiento**: Principalmente en discotecas, festivales, y otros eventos sociales donde la experiencia del usuario es clave.
-  - **Plataformas digitales**: El mercado de aplicaciones móviles es el lugar donde se pretende implementar y distribuir Eventify.
+#### What (Qué):
+- **Problema de organización y venta de entradas**: Los organizadores necesitan agilizar el proceso de creación y promoción de eventos, gestionar la venta de entradas y coordinar la logística del evento de manera más eficiente.
+- **Problema de interacción social**: Los asistentes buscan formas más sencillas y seguras de interactuar entre sí, ya sea compartiendo su ubicación en tiempo real o recibiendo notificaciones sobre la presencia de amigos y otros conocidos durante los eventos.
 
-- **When (Cuándo):**  
-  - **Durante la planificación y ejecución de eventos**: Las dificultades surgen tanto en la etapa de planificación como durante la ejecución del evento, afectando la experiencia de todos los involucrados.
-  - **En tiempo real**: La necesidad de información y comunicación instantánea es crítica durante el desarrollo de un evento.
+#### Where (Dónde):
+- **Entornos de entretenimiento**: El problema es más evidente en eventos como festivales y discotecas, donde la experiencia del usuario es fundamental para su éxito. La gestión de grandes multitudes y la necesidad de interacción social es clave en estos entornos.
+- **Plataformas digitales**: Se espera que la solución se implemente en una aplicación móvil que centralice la experiencia tanto para organizadores como para asistentes, facilitando la interacción en tiempo real y la gestión de los eventos desde cualquier lugar.
 
-- **Why (Por qué):**  
-  - **Mejora de la eficiencia**: Optimizar la organización de eventos para reducir costos, tiempo y esfuerzo.
-  - **Mejora de la experiencia del usuario**: Facilitar la participación y la interacción de los asistentes, lo que incrementa su satisfacción y lealtad.
+#### When (Cuándo):
+- **Durante la planificación y ejecución del evento**: Los problemas surgen tanto durante la fase de planificación como en la ejecución del evento. Los organizadores a menudo enfrentan dificultades para gestionar el flujo de información, logística y la venta de entradas en tiempo real.
+- **En tiempo real durante el evento**: Los asistentes y organizadores requieren soluciones que permitan la gestión en tiempo real, como la compartición de ubicación, el envío de notificaciones sobre cambios en el evento, y la organización del tráfico de asistentes dentro del recinto.
 
-- **How (Cómo):**  
-  - **Tecnología**: Implementando una aplicación móvil que centralice la organización, venta de entradas, y la interacción entre asistentes, permitiendo compartir ubicaciones y recibir notificaciones en tiempo real.
-  - **Integración de servicios**: Conectar múltiples servicios en una sola plataforma para simplificar el proceso de gestión de eventos.
+#### Why (Por qué):
+- **Mejora de la eficiencia operativa**: La falta de una herramienta integrada para gestionar todos los aspectos de un evento genera ineficiencias y aumenta el riesgo de errores operativos que afectan la rentabilidad del evento.
+- **Mejora de la experiencia de los usuarios**: Los asistentes valoran la capacidad de interactuar de manera social y recibir información en tiempo real, lo cual no está siendo adecuadamente cubierto por las soluciones actuales. Una experiencia optimizada aumenta la satisfacción y fidelización de los asistentes.
 
-- **How Much (Cuánto):**  
-  - **Costos asociados**: Los organizadores pueden reducir costos relacionados con la gestión y promoción de eventos.
-  - **Valor añadido**: La aplicación no solo aporta valor en términos de eficiencia, sino que también mejora la experiencia general de los usuarios, lo que podría traducirse en mayores ingresos por eventos mejor organizados y más concurridos.
+#### How (Cómo):
+- **Uso de tecnología avanzada**: La solución a estos problemas se basará en la implementación de una aplicación móvil como **Eventify**, que centralizará la organización, venta de entradas y la interacción social. La tecnología permitirá a los organizadores gestionar eventos en tiempo real y a los asistentes interactuar entre ellos mediante la compartición de ubicación y notificaciones en tiempo real.
+- **Integración de servicios en una sola plataforma**: Eventify conectará todos los aspectos de un evento (venta de entradas, logística, interacción social, notificaciones en tiempo real) en una sola plataforma, eliminando la necesidad de utilizar múltiples herramientas separadas.
 
-### Lean UX Process
+#### How Much (Cuánto):
+- **Reducción de costos operativos**: La integración de Eventify permitirá a los organizadores reducir costos relacionados con la gestión de entradas, promoción y coordinación del evento, al minimizar el tiempo y los recursos dedicados a la administración.
+- **Valor añadido**: Eventify aportará un valor añadido no solo mejorando la eficiencia de los organizadores, sino también aumentando la satisfacción de los asistentes al ofrecerles una experiencia más personalizada y social. Esto, a su vez, puede traducirse en mayores ingresos debido a eventos más exitosos y mayor asistencia.
 
-#### Lean UX Problem Statements
-**El estado actual de la gestión de eventos en entornos sociales** se ha centrado principalmente en **organizadores de eventos, tanto empresas como particulares, que enfrentan dificultades en la venta de entradas, promoción y logística, y asistentes que buscan experiencias personalizadas y interactivas**.
+#### Lean UX Process
 
-**Lo que los productos/servicios existentes no logran abordar** es **la falta de una solución integral que facilite la gestión en tiempo real y la interacción social, lo que resulta en insatisfacción tanto para organizadores como para asistentes**.
+#### 1. **Contexto actual:**
+En la industria de eventos, tanto los organizadores como los asistentes enfrentan una serie de desafíos en la era digital. Los organizadores, que incluyen tanto empresas profesionales de gestión de eventos como particulares que organizan festivales, conciertos y discotecas, están lidiando con sistemas fragmentados que dificultan la venta eficiente de entradas, la promoción adecuada de los eventos y la logística operativa en tiempo real. 
 
-**Nuestro producto, Eventify, abordará este vacío** mediante **una plataforma digital que unifique la gestión de eventos, la venta de entradas y la interacción entre asistentes, con un enfoque en la seguridad y la eficiencia**.
+Los asistentes, por otro lado, tienen expectativas cada vez más altas respecto a la personalización de su experiencia y la capacidad de interactuar con otros participantes. Sin embargo, las soluciones actuales en el mercado se centran principalmente en la venta de entradas y la promoción, sin abordar de manera efectiva la interacción social y la gestión fluida durante el evento.
 
-**Nuestro enfoque inicial será en** **discotecas y festivales que buscan mejorar sus procesos mediante tecnología avanzada y que valoran la interacción social**.
+#### 2. **Problema:**
+Las soluciones actuales no logran ofrecer una plataforma integral que abarque todas las fases de un evento, desde la planificación y venta de entradas hasta la gestión en tiempo real y la mejora de la experiencia social de los asistentes. Los organizadores a menudo deben utilizar múltiples herramientas que no se comunican entre sí, lo que provoca ineficiencias, desorganización y la incapacidad de manejar cambios de última hora o problemas durante el evento. 
 
-**Sabremos que hemos tenido éxito cuando veamos** **un aumento del 30% en la eficiencia de los organizadores y un 20% en las calificaciones de satisfacción de los asistentes después de los eventos**.
+Para los asistentes, la falta de integración entre la venta de entradas y la experiencia en el evento limita la interacción social. Los asistentes buscan formas más fáciles y fluidas de conectarse con amigos y otros participantes, así como recibir actualizaciones en tiempo real sobre cambios o eventos dentro del evento. Actualmente, estos problemas reducen la satisfacción general de la experiencia.
+
+#### 3. **Solución propuesta:**
+**Eventify** es una plataforma digital diseñada para resolver estos problemas proporcionando una solución todo-en-uno para organizadores y asistentes de eventos. Para los organizadores, Eventify ofrece herramientas en tiempo real para gestionar entradas, coordinar logística, enviar notificaciones en caso de cambios y monitorear la actividad de los asistentes. Esto permitirá una mayor eficiencia, con menos errores y mejor coordinación.
+
+Para los asistentes, Eventify facilita la interacción social mediante la compartición de ubicación en tiempo real, la creación de conexiones dentro del evento y la recepción de notificaciones importantes, como cambios en el programa o alertas de seguridad. El enfoque de Eventify es mejorar tanto la eficiencia operativa de los organizadores como la experiencia social de los asistentes.
+
+#### 4. **Enfoque inicial:**
+Nuestro enfoque inicial estará dirigido a organizadores de **discotecas y festivales**, sectores que son altamente dependientes de la interacción social y que experimentan grandes volúmenes de asistentes, donde la gestión en tiempo real es esencial. Estos eventos suelen enfrentarse a problemas de organización, como largas filas, problemas de acceso y desconexión entre los asistentes. Discotecas y festivales están buscando activamente soluciones que puedan integrar mejor la logística del evento y la experiencia social para sus asistentes.
+
+- **Discotecas**: Buscan mejorar la seguridad, controlar mejor los accesos y proporcionar una experiencia social fluida en la pista de baile.
+- **Festivales**: Necesitan gestionar grandes volúmenes de asistentes, coordinar varios escenarios o actividades en tiempo real y mejorar la conectividad entre los asistentes, facilitando la comunicación y la experiencia interactiva dentro del evento.
+
+#### 5. **Métricas de éxito:**
+Sabremos que Eventify ha tenido éxito si logramos las siguientes metas cuantificables:
+
+1. **Eficiencia de los organizadores**:
+   - Aumentaremos la eficiencia operativa de los organizadores en un 30%, permitiendo una reducción significativa en los tiempos de planificación, gestión de entradas y resolución de problemas durante el evento.
+   - Reduciremos las incidencias relacionadas con problemas de acceso y logística en un 25%, mejorando la fluidez de los eventos.
+
+2. **Satisfacción de los asistentes**:
+   - Veremos un incremento de al menos un 20% en las calificaciones de satisfacción de los asistentes, medido a través de encuestas post-evento. Esto incluirá mejoras en la percepción de la interacción social, la facilidad de navegación y la experiencia general en el evento.
+   - Incrementaremos en un 15% el número de interacciones sociales, como conexiones y encuentros entre asistentes, gracias a la funcionalidad de compartición de ubicación en tiempo real y otras herramientas sociales.
+
+3. **Adopción de la plataforma**:
+   - Lograremos que al menos el 50% de los organizadores que prueben la plataforma adopten Eventify como su principal herramienta de gestión de eventos dentro del primer año.
+   - En los primeros seis meses, obtendremos al menos un 40% más de solicitudes de demostraciones y consultas sobre la plataforma en comparación con competidores directos.
+
+4. **Seguridad y privacidad**:
+   - Al menos el 70% de los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, basándose en la confianza generada por una política clara y transparente sobre el uso de datos personales y geolocalización.
+
+---
+
+#### 6. **Hipótesis de negocio:**
+Si Eventify es capaz de proporcionar una plataforma unificada que combine la gestión eficiente de eventos y una experiencia social mejorada para los asistentes, entonces atraerá una base de usuarios significativamente más grande que sus competidores, logrando un crecimiento del 25% en el mercado objetivo durante el primer año de operaciones.
+
 
 #### Lean UX Assumptions
-- Los organizadores de eventos necesitan herramientas que faciliten la coordinación y gestión de los asistentes en tiempo real
-- Los asistentes a eventos buscan formas de interactuar más fácilmente con otros participantes, y la compartición de ubicación en tiempo real facilitará estas interacciones.
-- Existe una demanda significativa en el mercado de eventos por soluciones tecnológicas que mejoren la organización y la experiencia del usuario, y Eventify puede satisfacer esta demanda con sus características únicas.
-- Los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, confiando en que la información se utilizará de manera segura y beneficiosa.
-- Tanto los organizadores como los asistentes adoptarán rápidamente Eventify, reconociendo que la plataforma ofrece mejoras significativas respecto a las herramientas tradicionales de gestión de eventos.
+
+#### Assumption 1: Coordinación y Gestión en Tiempo Real
+Actualmente, los organizadores de eventos enfrentan desafíos importantes para monitorear y coordinar a los asistentes en tiempo real durante eventos de gran escala, lo que genera problemas de control de multitudes y experiencia del usuario. Creemos que Eventify puede resolver estos problemas mejor que las soluciones actuales al ofrecer una herramienta centralizada de gestión en tiempo real.
+
+- **Riesgo a validar**: ¿Es la falta de coordinación en tiempo real un verdadero punto de dolor para los organizadores? ¿Qué tan crítico es este problema?
+
+#### Assumption 2: Interacción entre Asistentes
+Los asistentes a eventos valoran las interacciones sociales y actualmente encuentran barreras al tratar de conectarse con otros asistentes, lo que disminuye su satisfacción con la experiencia del evento. Creemos que la compartición de ubicación en tiempo real puede facilitar estas interacciones.
+
+- **Riesgo a validar**: ¿Las interacciones sociales son lo suficientemente importantes para los asistentes como para motivarlos a utilizar una función de compartición de ubicación?
+
+#### Assumption 3: Demanda en el Mercado
+Existe una oportunidad significativa en el mercado para una plataforma que no solo facilite la organización de eventos, sino que transforme la experiencia tanto para organizadores como asistentes, al combinar gestión eficiente y mejor interacción social.
+
+- **Riesgo a validar**: ¿Hay una demanda latente para mejorar la experiencia del usuario en eventos a través de tecnología? ¿Qué soluciones están utilizando los usuarios actualmente y por qué?
+
+#### Assumption 4: Disposición para Compartir Ubicación
+Los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante un evento, siempre que la plataforma les brinde control sobre su privacidad y sepan que su información será utilizada de manera segura y confiable.
+
+- **Riesgo a validar**: ¿Cuáles son las barreras de confianza más críticas para que los asistentes compartan su ubicación en tiempo real? ¿Qué características específicas de seguridad los convencerán de hacerlo?
+
+#### Assumption 5: Adopción Rápida de Eventify
+Tanto los organizadores como los asistentes adoptarán rápidamente Eventify si perciben que ofrece mejoras tangibles y fáciles de utilizar frente a las herramientas que ya usan.
+
+- **Riesgo a validar**: ¿Cuáles son las funcionalidades clave que deben percibir como mejoras para preferir Eventify sobre otras herramientas? ¿Qué tan rápido adoptan nuevas tecnologías?
+
+---
 
 #### Lean UX Hypothesis Statements
-- Si incorporamos una función en Eventify que permita a los organizadores coordinar y gestionar a los asistentes en tiempo real, la satisfacción de los organizadores con la herramienta aumentará en un 60% en comparación con las herramientas actuales para la gestión de eventos.
-- Si habilitamos una función de compartición de ubicación en tiempo real en Eventify, se incrementará en un 15% el número de interacciones entre los asistentes durante los eventos, y estos experimentarán un aumento en su satisfacción con la experiencia social.
-- Si lanzamos Eventify con sus funcionalidades innovadoras para la gestión de eventos, conseguiremos atraer un 25% más de usuarios en el mercado objetivo en comparación con nuestros competidores, y recibiremos al menos un 40% más de consultas y solicitudes de demostración del producto en los primeros seis meses.
-- Si ofrecemos una política clara y transparente respecto a la seguridad, privacidad y uso de la información de ubicación en Eventify, al menos el 70% de los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, se sentirán seguros al hacerlo, y la tasa de adopción de esta función será alta.
-- Si proporcionamos un período de prueba gratuito y sesiones de capacitación para Eventify, tanto los organizadores como los asistentes adoptarán la plataforma al menos un 50% más rápido que las herramientas tradicionales de gestión de eventos y percibirán un aumento en el valor y la eficiencia de la herramienta.
+
+#### Hypothesis 1: Coordinación y Gestión en Tiempo Real
+- Si incorporamos una función en Eventify que permita a los organizadores coordinar y gestionar a los asistentes en tiempo real, veremos un aumento del 60% en la satisfacción de los organizadores comparado con herramientas actuales.
+- **Mediremos esto mediante** encuestas de satisfacción y comparaciones de NPS (Net Promoter Score) antes y después de usar Eventify.
+
+#### Hypothesis 2: Interacción entre Asistentes
+- Si habilitamos la compartición de ubicación en tiempo real en Eventify, veremos un incremento del 15% en las interacciones entre asistentes y un aumento en la satisfacción de su experiencia social.
+- **Mediremos esto mediante** datos de interacciones (chat o contactos realizados a través de la app) y encuestas de satisfacción.
+
+#### Hypothesis 3: Demanda en el Mercado
+- Si lanzamos Eventify con características innovadoras, atraeremos un 25% más de usuarios en nuestro mercado objetivo y recibiremos un 40% más de solicitudes de demostración.
+- **Mediremos esto mediante** el número de usuarios registrados y consultas recibidas en los primeros seis meses.
+
+#### Hypothesis 4: Privacidad y Adopción de la Ubicación en Tiempo Real
+- Si ofrecemos una política clara y transparente sobre la seguridad de la información de ubicación, al menos el 70% de los asistentes compartirán su ubicación en tiempo real, sintiéndose seguros.
+- **Mediremos esto mediante** el porcentaje de usuarios que habilitan esta función y encuestas sobre la percepción de seguridad.
+
+#### Hypothesis 5: Adopción Rápida
+- Si ofrecemos un período de prueba gratuito y sesiones de capacitación, veremos una adopción un 50% más rápida entre organizadores y asistentes en comparación con herramientas tradicionales.
+- **Mediremos esto mediante** el tiempo promedio de adopción y la velocidad de integración.
+
+
 #### Lean UX Canvas
 
 ![LeanUXCanvas-Eventify](./assets/LeanUXCanvas-AplicacionesWeb.png)
@@ -1992,15 +2067,12 @@ En los momentos en que surgieron desafíos técnicos o bloqueos en el desarrollo
 
 
 
-
-
-
-
-
-
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
+En conclusión, con el desarrollo del proyecto Eventify, buscamos transformar la manera en que se crean y disfrutan los eventos, ofreciendo funcionalidades únicas como la compartición de ubicación entre asistentes y notificaciones en tiempo real cuando estos llegan al evento, los cuales hemos estado abordando durante el desarrollo del proyecto hasta el momento. Así mismo, con la realización de las entrevistas hemos validado algunos de nuestros supuestos, como el interés significativo de ambos segmentos (organizadores de eventos como asistentes a eventos) por el deseo de mejoras significativas en nuevas aplicaciones, como la que estamos ofreciendo nosotros respecto a las herramientas tradicionales.
+
+Recomendamos seguir mejorando continuamente en pro de crear un producto de valor como el que nos hemos planteado. En las pro´ximas entregas debemos enfocarnos en mejorar en el core del nogocio como creación de eventos, compartir ubicación, interacción social, entre otros que nos ayudarán a marcar la diferencia frente a nuestros comoetidores.
 
 ## Video About-the-Team
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/ETmOtj7mRTVArrB5rVCas4sBktdDiKcMhK4MBIKN-8Oosw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NWxjtU
