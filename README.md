@@ -1093,6 +1093,88 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 | 118 | US118 | 	Ofrecer Entrada Premium con Servicios Adicionales | Como organizador, quiero ofrecer entradas premium que incluyan servicios adicionales como estacionamiento VIP o acceso rápido. | 8 |
 | 119 | US119 | Implementar Registro de Asistencia | Como organizador, quiero registrar la asistencia al evento para gestionar el flujo de personas y seguridad. | 5 |
 | 120 | US120 | Crear Sistema de Evaluación Post-Evento | Como organizador, quiero un sistema para recoger y analizar la retroalimentación de los asistentes después del evento. | 8 |
+| 121 | US121 | Mejorar la Navegación en la Plataforma | Como asistente, quiero una navegación intuitiva en la plataforma para encontrar eventos y comprar entradas fácilmente. | 2 |
+| 122 | US122 | Implementar Buscador Avanzado de Eventos | Como asistente, quiero un buscador avanzado que me permita filtrar eventos por ubicación, fecha y categoría para encontrar rápidamente lo que busco. | 2 |
+| 123 | US123 | Agregar Funcionalidad de Recomendaciones Personalizadas | Como asistente, quiero recibir recomendaciones personalizadas de eventos basadas en mis intereses y comportamientos anteriores. | 5 |
+| 124 | US124 | Implementar Chat en Vivo para Soporte | Como asistente, quiero tener acceso a un chat en vivo para obtener soporte inmediato si tengo problemas durante la compra de entradas. | 8 |
+| 125 | US125 | Crear Centro de Ayuda con Preguntas Frecuentes | Como asistente, quiero un centro de ayuda con respuestas a preguntas frecuentes para encontrar soluciones a problemas comunes sin necesidad de contactar al soporte. | 5 |
+| 126 | US126 | Ofrecer Tutoriales y Guías para el Uso de la Plataforma. | Como asistente, quiero tutoriales y guías sobre cómo usar la plataforma para aprovechar todas sus funcionalidades. | 5 |
+| 127 | US127 | Implementar Sistema de Valoración y Reseñas | Como asistente, quiero dejar valoraciones y reseñas sobre eventos y organizadores para ayudar a otros asistentes a tomar decisiones informadas. | 3 |
+| 128 | US128 | Habilitar Notificaciones Personalizadas | Como asistente, quiero recibir notificaciones personalizadas sobre eventos que me interesan para no perderme ninguna actualización importante. | 3 |
+| 129 | US129 | Implementar Funcionalidad de Recordatorios de Eventos | Como asistente, quiero recibir recordatorios sobre eventos próximos en los que estoy registrado para asegurarme de no olvidarlos. | 3 |
+| 130 | US130 | Crear Sección de Preguntas Frecuentes para Organizadores | Como organizador, quiero una sección de preguntas frecuentes adaptada a mis necesidades para resolver problemas comunes sin tener que contactar al soporte. | 5 |
+| 131 | US131 | 	Implementar Sistema de Tickets para Soporte | Como asistente, quiero crear tickets para problemas técnicos y recibir seguimiento para asegurarme de que se resuelvan eficientemente. | 8 |
+| 132 | US132 | Habilitar Soporte Multicanal | Como asistente, quiero tener acceso a soporte a través de múltiples canales (email, chat, teléfono) para resolver problemas de la manera más conveniente. | 8 |
+| 133 | US133 | Implementar Funcionalidad de Actualización de Información del Perfil | Como asistente, quiero actualizar mi información personal y preferencias en mi perfil para mantener mis datos actualizados. | 5 |
+| 134 | US134 | Crear Portal de Organizadores para Gestión de Eventos | Como organizador, quiero un portal dedicado para gestionar todos mis eventos y configuraciones desde un solo lugar. | 5 |
+| 135 | US135 | Habilitar Acceso a Historial de Compras y Entradas | Como asistente, quiero acceder a mi historial de compras y entradas para consultar detalles sobre eventos pasados y futuros. | 5 |
+| 136 | US136 | Implementar Funcionalidad de Recuperación de Contraseña | Como asistente, quiero recuperar mi contraseña si la olvido para poder acceder a mi cuenta sin problemas. | 5 |
+| 137 | US137 | Ofrecer Asistencia en Tiempo Real durante el Evento | Como asistente, quiero recibir asistencia en tiempo real durante el evento a través de la plataforma para resolver problemas inmediatos. | 8 |
+| 138 | US138 | Implementar Funcionalidad de Confirmación de Registro de Eventos | Como asistente, quiero recibir una confirmación de mi registro en eventos para tener un comprobante de mi inscripción. | 5 |
+| 139 | US139 | Habilitar Funcionalidad de Transferencia de Entradas | Como asistente, quiero transferir mi entrada a otra persona si no puedo asistir al evento para asegurar que mi entrada se use. | 5 |
+| 140 | US140 | Ofrecer Soporte para Dispositivos Móviles | Como asistente, quiero recibir soporte técnico especializado para la versión móvil de la plataforma para asegurar una experiencia fluida en mi dispositivo. | 8 |
+| 141 | US141 | Implementar Sistema de Alertas para Problemas Técnicos | Como asistente, quiero recibir alertas sobre problemas técnicos en la plataforma para estar informado de posibles interrupciones o fallos. | 8 |
+| 142 | US142 | Crear Funcionalidad de Encuestas de Satisfacción | Como organizador, quiero enviar encuestas de satisfacción a los asistentes después del evento para recibir retroalimentación sobre la experiencia. | 8 |
+| 143 | US143 | Ofrecer Acceso a Recursos Educativos sobre Eventos | Como organizador, quiero acceder a recursos educativos y mejores prácticas sobre la gestión de eventos para mejorar mis habilidades. | 5 |
+| 144 | US144 | Implementar Funcionalidad de Feedback en Tiempo Real | Como asistente, quiero enviar feedback en tiempo real sobre el evento para que los organizadores puedan actuar rápidamente sobre problemas o mejoras. | 5 |
+| 145 | US145 | Crear Funcionalidad de Historial de Interacciones con Soporte | Como asistente, quiero ver un historial de todas mis interacciones con el soporte al cliente para hacer seguimiento a los problemas reportados. | 5 |
+| 146 | US146 | Implementar Funcionalidad de Ajustes de Preferencias de Notificaciones | Como asistente, quiero ajustar mis preferencias de notificaciones para recibir solo la información relevante para mí. | 5 |
+| 147 | US147 | Habilitar Funcionalidad de Reporte de Problemas de Acceso | Como asistente, quiero reportar problemas de acceso a eventos o a la plataforma para que puedan ser solucionados rápidamente. | 8 |
+| 148 | US148 | Crear Funcionalidad de Actualización de Preferencias de Eventos | Como asistente, quiero actualizar mis preferencias sobre el tipo de eventos que me interesan para recibir recomendaciones más precisas. | 5 |
+| 149 | US149 | Implementar Funcionalidad de Asistencia Multilingüe | Como asistente, quiero recibir asistencia en varios idiomas para asegurarme de entender y resolver problemas independientemente del idioma. | 8 |
+| 150 | US150 | Crear Funcionalidad de Personalización del Dashboard del Organizador | Como organizador, quiero personalizar mi dashboard para ver la información más relevante para mí en la gestión de eventos. | 5 |
+| 151 | US151 | Implementar Funcionalidad de Integración con Redes Sociales | Como organizador, quiero integrar la plataforma con redes sociales para promover eventos y facilitar el registro a través de estas redes. | 5 |
+| 152 | US152 | Crear Sistema de Notificaciones para Cambios de Evento | Como asistente, quiero recibir notificaciones sobre cambios importantes en eventos a los que estoy registrado para estar al tanto de cualquier actualización. | 3 |
+| 153 | US153 | Ofrecer Soporte de Accesibilidad para la Plataforma | Como asistente con discapacidades, quiero que la plataforma sea accesible para personas con diferentes tipos de discapacidades para poder utilizarla eficazmente. | 8 |
+| 154 | US154 | Implementar Funcionalidad de Compartición de Entradas | Como asistente, quiero poder compartir entradas con amigos o familiares de manera sencilla para coordinar mi asistencia con otros. | 5 |
+| 155 | US155 | Crear Funcionalidad de Confirmación de Recepción de Entradas | Como asistente, quiero recibir una confirmación de recepción de mis entradas para asegurarme de que mi compra ha sido procesada correctamente. | 5 |
+| 156 | US156 | Implementar Funcionalidad de Gestión de Entradas Perdidas | Como asistente, quiero poder reportar y gestionar entradas perdidas o robadas para obtener una solución adecuada. | 5 |
+| 157 | US157 | Crear Funcionalidad de Actualización de Entradas | Como asistente, quiero actualizar detalles de mis entradas si es necesario, como el nombre del titular, para asegurar que toda la información sea correcta. | 5 |
+| 158 | US158 | Implementar Funcionalidad de Evaluación de Organizadores | Como asistente, quiero evaluar a los organizadores de eventos para ayudar a otros asistentes a elegir eventos de calidad. | 8 |
+| 159 | US159 | Crear Funcionalidad de Gestión de Ofertas y Descuentos | Como organizador, quiero gestionar ofertas y descuentos especiales para atraer más asistentes a mis eventos. | 5 |
+| 160 | US160 | Implementar Funcionalidad de Generación de Informes de Eventos | Como organizador, quiero generar informes detallados sobre el desempeño de mis eventos para analizar resultados y mejorar futuros eventos. | 8 |
+| 161 | US161 | Información General | Como visitante, quiero acceder a una página que me explique las características principales de Eventify, para entender qué ofrece la plataforma. | 2 |
+| 162 | US162 | Call-to-Action | Como visitante, quiero ver un llamado a la acción claro en la landing page, para registrarme o aprender más sobre Eventify. | 3 |
+| 163 | US163 | Sección de Testimonios | Como visitante, quiero leer testimonios de otros usuarios en la landing page, para confiar en la calidad del servicio que ofrece Eventify. | 3 |
+| 164 | US164 | Integración con Redes Sociales | Como visitante, quiero ver la integración de Eventify con redes sociales en la landing page, para conocer cómo puedo compartir eventos fácilmente. | 3 |
+| 165 | US165 | Sección de Preguntas Frecuentes | Como visitante, quiero acceder a una sección de preguntas frecuentes en la landing page, para resolver cualquier duda común sobre el uso de Eventify. | 5 |
+| 166 | US166 | Diseño Responsive | Como visitante, quiero que la landing page se ajuste a diferentes tamaños de pantalla, para tener una experiencia de usuario consistente en dispositivos móviles y de escritorio. | 5 |
+| 167 | US167 | Formulario de Contacto | Como visitante, quiero tener acceso a un formulario de contacto en la landing page, para hacer consultas o recibir soporte. | 5 |
+| 168 | US168 | Sección de Blog | Como visitante, quiero acceder a un blog en la landing page para leer artículos y noticias relacionadas con Eventify. | 5 |
+| 169 | US169 | Acceso a Recursos Educativos | Como visitante, quiero acceder a recursos educativos en la landing page para aprender más sobre la gestión de eventos. | 5 |
+| 170 | US170 | Sección de Casos de Éxito | Como visitante, quiero leer casos de éxito en la landing page para ver cómo otros han utilizado Eventify exitosamente. | 3 |
+| 171 | US171 | Información sobre Precios | Como visitante, quiero ver información clara sobre los precios de Eventify en la landing page para entender los costos asociados. | 2 |
+| 172 | US172 | Funcionalidad de Búsqueda en la Página | Como visitante, quiero poder buscar información dentro de la landing page para encontrar rápidamente lo que necesito. | 3 |
+| 173 | US173 | Sección de Características Destacadas | Como visitante, quiero ver una sección destacada con las características más importantes de Eventify en la landing page. | 2 |
+| 174 | US174 | Funcionalidad de Comparación de Planes | Como visitante, quiero comparar diferentes planes de Eventify en la landing page para elegir el que mejor se adapte a mis necesidades. | 3 |
+| 175 | US175 | Integración con Calendarios | Como visitante, quiero ver cómo Eventify se integra con calendarios en la landing page para gestionar eventos fácilmente. | 5 |
+| 176 | US176 | Video de Demostración | Como visitante, quiero ver un video de demostración en la landing page para entender mejor cómo funciona Eventify. | 5 |
+| 177 | US177 | Acceso a Demos en Vivo | Como visitante, quiero tener la opción de acceder a demos en vivo desde la landing page para experimentar Eventify en tiempo real. | 8 |
+| 178 | US178 | Resumen de Integraciones | Como visitante, quiero ver un resumen de las integraciones disponibles en la landing page para saber cómo Eventify puede conectar con otras herramientas. | 3 |
+| 179 | US179 | Acceso a Casos de Uso | Como visitante, quiero ver casos de uso específicos de Eventify en la landing page para entender cómo se aplica en diferentes escenarios. | 3 |
+| 180 | US180 | Funcionalidad de Chat en Vivo | Como visitante, quiero tener acceso a un chat en vivo en la landing page para hacer preguntas en tiempo real. | 8 |
+| 181 | US181 | Información sobre Seguridad | Como visitante, quiero ver información sobre las medidas de seguridad de Eventify en la landing page para asegurarme de que mis datos están protegidos. | 3 |
+| 182 | US182 | Funcionalidad de Registro de Noticias | Como visitante, quiero registrarme para recibir noticias y actualizaciones sobre Eventify desde la landing page. | 5 |
+| 183 | US183 | Información sobre Soporte Técnico | Como visitante, quiero ver información sobre el soporte técnico disponible en la landing page para saber cómo recibir ayuda. | 3 |
+| 184 | US184 | Sección de Novedades | Como visitante, quiero acceder a una sección de novedades en la landing page para estar al tanto de las últimas actualizaciones y noticias sobre Eventify. | 3 |
+| 185 | US185 | Acceso a Recursos de Capacitación | Como visitante, quiero acceder a recursos de capacitación en la landing page para aprender cómo utilizar Eventify de manera efectiva. | 5 |
+| 186 | US186 | Funcionalidad de Personalización de la Página | Como visitante, quiero poder personalizar la landing page según mis preferencias para tener una experiencia de usuario más relevante. | 5 |
+| 187 | US187 | Información sobre Actualizaciones de Producto | Como visitante, quiero ver información sobre las actualizaciones de producto en la landing page para conocer las mejoras recientes en Eventify. | 3 |
+| 188 | US188 | Funcionalidad de Comparación con Competidores | Como visitante, quiero ver una comparación entre Eventify y sus competidores en la landing page para tomar decisiones informadas. | 3 |
+| 189 | US189 | Acceso a Material de Marketing | Como visitante, quiero tener acceso a material de marketing en la landing page para compartir información sobre Eventify. | 5 |
+| 190 | US190 | Funcionalidad de Evaluación de la Página | Como visitante, quiero poder evaluar la landing page para proporcionar retroalimentación sobre mi experiencia de usuario. | 5 |
+| 191 | US191 | Sección de Eventos Destacados | Como visitante, quiero ver una sección destacada con los eventos más populares o próximos en la landing page. | 3 |
+| 192 | US192 | Funcionalidad de Multi-idioma | Como visitante, quiero que la landing page esté disponible en varios idiomas para poder acceder a la información en mi idioma preferido. | 5 |
+| 193 | US193 | Información sobre Integración con Plataformas de Pago | Como visitante, quiero ver cómo Eventify se integra con diferentes plataformas de pago en la landing page para saber cómo se procesan los pagos. | 3 |
+| 194 | US194 | Funcionalidad de Registro de Webinars | Como visitante, quiero registrarme para webinars sobre Eventify desde la landing page para aprender más sobre la plataforma. | 5 |
+| 195 | US195 | Sección de Noticias del Sector | Como visitante, quiero ver noticias y tendencias del sector en la landing page para estar informado sobre el contexto en el que opera Eventify. | 3 |
+| 196 | US196 | Funcionalidad de Comparación de Eventos | Como visitante, quiero comparar eventos en Eventify desde la landing page para elegir el que más me interese. | 3 |
+| 197 | US197 | Acceso a Informes de Rendimiento | Como visitante, quiero ver informes de rendimiento de eventos anteriores en la landing page para evaluar la efectividad de Eventify. | 8 |
+| 198 | US198 | Funcionalidad de Programación de Eventos | Como visitante, quiero ver cómo Eventify permite la programación de eventos en la landing page para entender el proceso. | 3 |
+| 199 | US199 | Información sobre Integraciones con CRM | Como visitante, quiero saber cómo Eventify se integra con sistemas CRM desde la landing page para entender la gestión de relaciones con clientes. | 3 |
+| 200 | US200 | Funcionalidad de Gestión de Invitaciones | Como visitante, quiero ver cómo se gestionan las invitaciones a eventos en Eventify desde la landing page para comprender el proceso. | 3 |
+| 201 | US201 | Acceso a Testimonios de Organizadores | Como visitante, quiero leer testimonios de organizadores de eventos en la landing page para conocer la experiencia de otros usuarios con Eventify. | 2 |
+
 
 
 ### Technical Stories
