@@ -1174,33 +1174,46 @@ Tras analizar la tabla anterior, podemos resaltar que tareas como "Explorar even
 | 199 | US199 | Información sobre Integraciones con CRM | Como visitante, quiero saber cómo Eventify se integra con sistemas CRM desde la landing page para entender la gestión de relaciones con clientes. | 3 |
 | 200 | US200 | Funcionalidad de Gestión de Invitaciones | Como visitante, quiero ver cómo se gestionan las invitaciones a eventos en Eventify desde la landing page para comprender el proceso. | 3 |
 | 201 | US201 | Acceso a Testimonios de Organizadores | Como visitante, quiero leer testimonios de organizadores de eventos en la landing page para conocer la experiencia de otros usuarios con Eventify. | 2 |
-
-
-
-### Technical Stories
-
-| **# Orden** | **Technical Story Id**                             | **Título**                               | **Descripción**                                                                                          | **Story Points (1 / 2 / 3 / 5 / 8)** |
-|-----------|--------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------|
-| 1         | TS1.1                                      | Optimizar almacenamiento de eventos                 | Como desarrollador, quiero optimizar la base de datos para almacenar grandes volúmenes de eventos de manera eficiente.                                   | 3               |
-| 2         | TS1.2                                      | Implementar caché para estadísticas                           | Como desarrollador, quiero implementar un sistema de caché para estadísticas de eventos para mejorar el rendimiento.                 | 2                |
-| 3         | TS1.3                                      | Refactorizar código del backend                           | Como desarrollador, quiero refactorizar el código del backend para mejorar la mantenibilidad y la escalabilidad.                           | 5                |
-| 4         | TS1.4                                      | Implementar paginación de eventos            | Como desarrollador, quiero implementar la paginación en la lista de eventos para manejar grandes conjuntos de datos.                                     | 8                |
-| 5         | TS1.5                                      | Mejorar el sistema de logs         | Como desarrollador, quiero mejorar el sistema de logs para rastrear mejor los errores en la gestión de eventos.                         | 5                |
-| 6         | TS2.1                                     | Implementar validación de entradas          | Como desarrollador, quiero implementar un sistema de validación de entradas robusto para evitar accesos no autorizados.                                           | 3                |
-| 7         | TS2.2                                      | Optimizar el escaneo de códigos QR              | Como desarrollador, quiero optimizar el escaneo de códigos QR para que sea rápido y preciso en condiciones de baja luz.                                            | 2                |
-| 8         | TS2.3                                      | Asegurar la comunicación de datos| Como desarrollador, quiero asegurar que la transmisión de datos entre el cliente y el servidor sea cifrada y segura.                      | 5                |
-| 9         | TS2.4                                     | Escalar el sistema de venta de entradas    | Como desarrollador, quiero asegurar que el sistema de venta de entradas pueda escalar automáticamente durante picos de demanda.                                                     | 3                |
-| 10        | TS2.5                                      | Automatizar pruebas de carga | Como desarrollador, quiero automatizar las pruebas de carga del sistema para identificar problemas de rendimiento temprano.               | 3                |
-| 11        | TS3.1                                      | Mejorar la sincronización de ubicación | Como desarrollador, quiero mejorar la sincronización de la ubicación entre asistentes para que sea en tiempo real.                                         | 5                |
-| 12        | TS3.2                                      |Optimizar la batería para el uso continuo de la app| Como desarrollador, quiero optimizar el uso de la batería para que la aplicación no consuma demasiada energía durante eventos largos.| 2 |
-| 13        | TS3.3                                      |Asegurar la privacidad de los datos de ubicación| Como desarrollador, quiero asegurar que los datos de ubicación compartidos sean privados y solo accesibles para los usuarios autorizados.| 3 |
-| 14        | TS3.4                                      |Mejorar el rendimiento del chat| Como desarrollador, quiero optimizar el sistema de chat para que funcione sin problemas incluso con una gran cantidad de usuarios.| 3 |
-| 15        | TS3.5                                      |Implementar recuperación de mensajes| Como desarrollador, quiero implementar una funcionalidad para recuperar mensajes antiguos en el chat, incluso si el usuario se desconectó.| 5 |
-| 16        | TS4.1                                      |Implementar pagos seguros| Como desarrollador, quiero asegurar que todos los pagos realizados a través de la aplicación sean seguros y protegidos.| 3 |
-| 19        | TS4.2                                     |Optimizar el proceso de búsqueda| Como desarrollador, quiero optimizar el proceso de búsqueda de eventos para que sea rápido y eficiente, incluso con grandes volúmenes de datos.| 1 |
-| 20            | TS4.3                                      |Implementar manejo de fallos en compras| Como desarrollador, quiero implementar un sistema que maneje correctamente los fallos en el proceso de compra para evitar transacciones incompletas.| 5 |
-| 21        | TS4.4                                     |Integrar notificaciones push| Como desarrollador, quiero integrar notificaciones push para que los usuarios reciban alertas importantes sin abrir la aplicación.| 2 |
-| 22           | TS4.5                                      |Mejorar la UI para accesibilidad| Como desarrollador, quiero mejorar la interfaz de usuario para asegurar que sea accesible para usuarios con discapacidades.| 3 |
+| 202 | TS001 | Endpoint para Obtener Eventos | Como desarrollador, quiero un endpoint para obtener la lista de eventos, para integrarlos en aplicaciones cliente.                      | 2 |
+| 203 | TS002 | Endpoint para Crear Evento | Como desarrollador, quiero un endpoint para crear un nuevo evento, para permitir la adición de eventos a la base de datos.                 | 2 |
+| 204 | TS003 | Endpoint para Actualizar Evento | Como desarrollador, quiero un endpoint para actualizar un evento existente, para modificar la información de eventos.                  | 2 |
+| 205 | TS004 | Endpoint para Eliminar Evento | Como desarrollador, quiero un endpoint para eliminar un evento, para remover eventos de la base de datos.                                | 2 |
+| 206 | TS005 | Endpoint para Obtener Detalles del Evento | Como desarrollador, quiero un endpoint para obtener detalles de un evento específico, para mostrar información detallada sobre el evento. | 2 |
+| 207 | TS006 | Endpoint para Obtener Categorías de Eventos | Como desarrollador, quiero un endpoint para obtener una lista de categorías de eventos, para clasificar eventos en la aplicación. | 2 |
+| 208 | TS007 | Endpoint para Crear Categoría de Evento | Como desarrollador, quiero un endpoint para crear una nueva categoría de evento, para permitir la adición de categorías a la base de datos. | 2 |
+| 209 | TS008 | Endpoint para Actualizar Categoría de Evento | Como desarrollador, quiero un endpoint para actualizar una categoría de evento existente, para modificar la información de categorías. | 2 |
+| 210 | TS009 | Endpoint para Eliminar Categoría de Evento | Como desarrollador, quiero un endpoint para eliminar una categoría de evento, para remover categorías de la base de datos.  | 2 |
+| 211 | TS010 | Endpoint para Obtener Ubicaciones | Como desarrollador, quiero un endpoint para obtener una lista de ubicaciones, para mostrar opciones de ubicación para eventos.       | 3 |
+| 212 | TS011 | Endpoint para Crear Ubicación | Como desarrollador, quiero un endpoint para crear una nueva ubicación, para permitir la adición de ubicaciones a la base de datos.     | 3 |
+| 213 | TS012 | Endpoint para Actualizar Ubicación | Como desarrollador, quiero un endpoint para actualizar una ubicación existente, para modificar la información de ubicaciones. | 3 |
+| 214 | TS013 | Endpoint para Eliminar Ubicación | Como desarrollador, quiero un endpoint para eliminar una ubicación, para remover ubicaciones de la base de datos.| 3 |
+| 215 | TS014 | Endpoint para Obtener Usuarios | Como desarrollador, quiero un endpoint para obtener una lista de usuarios, para gestionar usuarios en la plataforma. | 2 |
+| 216 | TS015 | Endpoint para Crear Usuario | Como desarrollador, quiero un endpoint para crear un nuevo usuario, para permitir la adición de usuarios a la base de datos. | 2 |
+| 217 | TS016 | Endpoint para Actualizar Usuario | Como desarrollador, quiero un endpoint para actualizar un usuario existente, para modificar la información de usuarios. | 2 |
+| 218 | TS017 | Endpoint para Eliminar Usuario | Como desarrollador, quiero un endpoint para eliminar un usuario, para remover usuarios de la base de datos. | 2 |
+| 219 | TS018 | Endpoint para Obtener Entradas | Como desarrollador, quiero un endpoint para obtener una lista de entradas para eventos, para gestionar la compra de entradas. | 5 |
+| 220 | TS019 | Endpoint para Crear Entrada | Como desarrollador, quiero un endpoint para crear una nueva entrada, para permitir la adición de entradas a la base de datos. | 5 |
+| 221 | TS020 | Endpoint para Actualizar Entrada | Como desarrollador, quiero un endpoint para actualizar una entrada existente, para modificar la información de entradas. | 5 |
+| 222 | TS021 | Endpoint para Eliminar Entrada | Como desarrollador, quiero un endpoint para eliminar una entrada, para remover entradas de la base de datos. | 5 |
+| 223 | TS022 | Endpoint para Obtener Promociones | Como desarrollador, quiero un endpoint para obtener una lista de promociones, para ofrecer descuentos y ofertas en la plataforma. | 5 |
+| 224 | TS023 | Endpoint para Crear Promoción | Como desarrollador, quiero un endpoint para crear una nueva promoción, para permitir la adición de promociones a la base de datos. | 5 |
+| 225 | TS024 | Endpoint para Actualizar Promoción | Como desarrollador, quiero un endpoint para actualizar una promoción existente, para modificar la información de promociones. | 5 |
+| 226 | TS025 | Endpoint para Eliminar Promoción | Como desarrollador, quiero un endpoint para eliminar una promoción, para remover promociones de la base de datos. | 5 |
+| 227 | TS026 | Endpoint para Obtener Facturas | Como desarrollador, quiero un endpoint para obtener una lista de facturas, para gestionar la facturación de eventos. | 8 |
+| 228 | TS027 | Endpoint para Crear Factura | Como desarrollador, quiero un endpoint para crear una nueva factura, para permitir la adición de facturas a la base de datos. | 8 |
+| 229 | TS028 | Endpoint para Actualizar Factura | Como desarrollador, quiero un endpoint para actualizar una factura existente, para modificar la información de facturas. | 8 |
+| 230 | TS029 | Endpoint para Eliminar Factura | Como desarrollador, quiero un endpoint para eliminar una factura, para remover facturas de la base de datos. | 8 |
+| 231 | TS030 | Endpoint para Obtener Notificaciones | Como desarrollador, quiero un endpoint para obtener una lista de notificaciones, para mostrar alertas y mensajes a los usuarios. | 5 |
+| 232 | TS031 | Endpoint para Crear Notificación | Como desarrollador, quiero un endpoint para crear una nueva notificación, para permitir la adición de notificaciones a la base de datos. | 5 |
+| 233 | TS032 | Endpoint para Actualizar Notificación | Como desarrollador, quiero un endpoint para actualizar una notificación existente, para modificar la información de notificaciones. | 5 |
+| 234 | TS033 | Endpoint para Eliminar Notificación | Como desarrollador, quiero un endpoint para eliminar una notificación, para remover notificaciones de la base de datos. | 5 |
+| 235 | TS034 | Endpoint para Obtener Roles | Como desarrollador, quiero un endpoint para obtener una lista de roles, para gestionar permisos y accesos en la plataforma. | 5 |
+| 236 | TS035 | Endpoint para Crear Rol | Como desarrollador, quiero un endpoint para crear un nuevo rol, para permitir la adición de roles a la base de datos. | 5 |
+| 237 | TS036 | Endpoint para Actualizar Rol | Como desarrollador, quiero un endpoint para actualizar un rol existente, para modificar la información de roles. | 5 |
+| 238 | TS037 | Endpoint para Eliminar Rol | Como desarrollador, quiero un endpoint para eliminar un rol, para remover roles de la base de datos. | 5 |
+| 239 | TS038 | Endpoint para Obtener Configuraciones | Como desarrollador, quiero un endpoint para obtener una lista de configuraciones, para gestionar los ajustes de la plataforma. | 5 |
+| 240 | TS039 | Endpoint para Actualizar Configuración | Como desarrollador, quiero un endpoint para actualizar configuraciones, para modificar los ajustes de la plataforma. | 5 |
+| 241 | TS040 | Endpoint para Obtener Estadísticas | Como desarrollador, quiero un endpoint para obtener estadísticas sobre eventos y usuarios, para analizar datos y generar informes. | 8 |
 
 Link Trello: https://trello.com/b/74uBBgC8
 
