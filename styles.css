@@ -2,8 +2,8 @@
 
 :root {
   --primary-color: #0f1a2c;
-  --secondary-color: #f6ac0f;
-  --text-dark: #0f172a;
+  --secondary-color: #68EA75;
+  --text-dark: #1976D2;
   --text-light: #64748b;
   --extra-light: #f8fafc;
   --white: #ffffff;
@@ -166,7 +166,7 @@ nav {
       rgba(15, 26, 44, 0.5),
       rgba(15, 26, 44, 0.5)
     ),
-    url("assets/header.png");
+    url("https://images.pexels.com/photos/1382102/pexels-photo-1382102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
