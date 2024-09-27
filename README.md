@@ -553,10 +553,14 @@ Al analizar las entrevistas pone de manifiesto que tanto organizadores como asis
 ### User Personas
 
 Segmento Objetivo Asistente de Evento
-![](https://hackmd.io/_uploads/BJQgfy5hA.png)
+
+El segmento de asistentes de eventos se centra en jóvenes universitarios que participan activamente en actividades recreativas y educativas. Se identificaron sus necesidades y objetivos mediante entrevistas, lo que reveló su deseo de disfrutar de eventos bien organizados y accesibles. Este grupo valora la facilidad de compra de entradas en línea y la seguridad durante los eventos, así como la oportunidad de hacer networking. Las frustraciones incluyen problemas de organización, falta de información actualizada sobre cambios y dificultades para conectar con otros asistentes. Este perfil se elaboró para entender cómo mejorar la experiencia de los participantes en eventos.
+![](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/ASISTENTE%20David%20Garc%C3%ADa%20Castro.png)
 
 Segmento Objetivo Organizador de Evento
-![](https://hackmd.io/_uploads/S1XeM1qnA.png)
+
+El segmento de coordinadores de eventos se compone de coordinadores de eventos que trabajan en la planificación y ejecución de eventos, enfrentando desafíos logísticos y técnicos. Este perfil se creó a partir de entrevistas con profesionales del sector y análisis de sus responsabilidades diarias. Se identificaron sus objetivos, que incluyen optimizar la gestión de eventos y utilizar herramientas que faciliten la venta de entradas y la comunicación con los clientes. Las frustraciones principales son la falta de recursos adecuados para la gestión y la coordinación con múltiples proveedores. Este segmento se diseñó para abordar cómo mejorar la eficacia en la organización de eventos y satisfacer las necesidades de estos profesionales.
+![](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/ORGANIZADOR%20Luis%20Ramos%20Carbajal(1).png)
 
 
 ### User Task Matrix
