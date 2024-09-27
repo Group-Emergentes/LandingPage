@@ -241,7 +241,7 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 - Si proporcionamos un período de prueba gratuito y sesiones de capacitación para Eventify, tanto los organizadores como los asistentes adoptarán la plataforma al menos un 50% más rápido que las herramientas tradicionales de gestión de eventos y percibirán un aumento en el valor y la eficiencia de la herramienta.
 #### Lean UX Canvas
 
-![Lean UX Canvas - Eventify](https://hackmd.io/_uploads/HJhxVf6sA.png)
+![LeanUXCanvas-Eventify](./assets/LeanUXCanvas-AplicacionesWeb.png)
 
 ### Segmentos Objetivo
 
