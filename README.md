@@ -175,7 +175,7 @@ NetVision es una startup innovadora enfocada en desarrollar soluciones tecnológ
 
 ## Solution Profile
 
-### Antecedentes y Problemática
+## Antecedentes y Problemática
 
 ### Antecedentes
 
@@ -215,7 +215,7 @@ A pesar de la creciente popularidad de los eventos sociales, la industria aún s
 - **Reducción de costos operativos**: La integración de Eventify permitirá a los organizadores reducir costos relacionados con la gestión de entradas, promoción y coordinación del evento, al minimizar el tiempo y los recursos dedicados a la administración.
 - **Valor añadido**: Eventify aportará un valor añadido no solo mejorando la eficiencia de los organizadores, sino también aumentando la satisfacción de los asistentes al ofrecerles una experiencia más personalizada y social. Esto, a su vez, puede traducirse en mayores ingresos debido a eventos más exitosos y mayor asistencia.
 
-#### Lean UX Process
+## Lean UX Process
 
 #### 1. **Contexto actual:**
 En la industria de eventos, tanto los organizadores como los asistentes enfrentan una serie de desafíos en la era digital. Los organizadores, que incluyen tanto empresas profesionales de gestión de eventos como particulares que organizan festivales, conciertos y discotecas, están lidiando con sistemas fragmentados que dificultan la venta eficiente de entradas, la promoción adecuada de los eventos y la logística operativa en tiempo real. 
@@ -262,7 +262,7 @@ Sabremos que Eventify ha tenido éxito si logramos las siguientes metas cuantifi
 Si Eventify es capaz de proporcionar una plataforma unificada que combine la gestión eficiente de eventos y una experiencia social mejorada para los asistentes, entonces atraerá una base de usuarios significativamente más grande que sus competidores, logrando un crecimiento del 25% en el mercado objetivo durante el primer año de operaciones.
 
 
-#### Lean UX Assumptions
+## Lean UX Assumptions
 
 #### Assumption 1: Coordinación y Gestión en Tiempo Real
 Actualmente, los organizadores de eventos enfrentan desafíos importantes para monitorear y coordinar a los asistentes en tiempo real durante eventos de gran escala, lo que genera problemas de control de multitudes y experiencia del usuario. Creemos que Eventify puede resolver estos problemas mejor que las soluciones actuales al ofrecer una herramienta centralizada de gestión en tiempo real.
@@ -291,7 +291,7 @@ Tanto los organizadores como los asistentes adoptarán rápidamente Eventify si 
 
 ---
 
-#### Lean UX Hypothesis Statements
+## Lean UX Hypothesis Statements
 
 #### Hypothesis 1: Coordinación y Gestión en Tiempo Real
 - Si incorporamos una función en Eventify que permita a los organizadores coordinar y gestionar a los asistentes en tiempo real, veremos un aumento del 60% en la satisfacción de los organizadores comparado con herramientas actuales.
@@ -314,11 +314,11 @@ Tanto los organizadores como los asistentes adoptarán rápidamente Eventify si 
 - **Mediremos esto mediante** el tiempo promedio de adopción y la velocidad de integración.
 
 
-#### Lean UX Canvas
+## Lean UX Canvas
 
 ![LeanUXCanvas-Eventify](./assets/LeanUXCanvas-AplicacionesWeb.png)
 
-### Segmentos Objetivo
+## Segmentos Objetivo
 
 **Descripción de los Segmentos:**
 
